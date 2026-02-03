@@ -1,0 +1,23 @@
+# Secrets (CRITICAL)
+.env
+*.key
+*.token
+
+# Logs & Archives
+logs/
+archive/
+backups/
+*.log
+
+# Data (Sensitive & Large)
+*.csv
+# Exception: Keep example data if needed, but here we ignore all CSVs to be safe
+# !data/example_input.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.idea/
+.vscode/
