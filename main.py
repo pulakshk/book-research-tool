@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 import argparse
 from loguru import logger
-from src.pipeline.data import load_dataset, save_dataset
-from src.pipeline.cleaning import deduplicate_dataset, filter_unrelated_content
-from src.pipeline.scrapers import run_scraping_pipeline
-from src.pipeline.enrichment import run_enrichment_pipeline
-from src.pipeline.analysis import generate_report
+from execution.pipeline.data import load_dataset, save_dataset
+from execution.pipeline.cleaning import deduplicate_dataset, filter_unrelated_content
+from execution.pipeline.scrapers import run_scraping_pipeline
+from execution.pipeline.enrichment import run_enrichment_pipeline
+from execution.pipeline.analysis import generate_report
 
 def main():
     parser = argparse.ArgumentParser(description="Book Research Pipeline (Consolidated)")
@@ -32,12 +32,21 @@ def main():
         save_dataset(df, "After Cleaning")
         
     if args.enrich or args.all:
-        logger.info("=== PHASE 2: ENRICHMENT ===")
-        df = run_enrichment_pipeline(df)
+        logger.info("=== PHASE 2: ENRICHMENT (P0/P1 FOCUS) ===")
+        # Identify P0/P1 for advanced qualitative work
+        try:
+            temp_report = generate_report(df)
+            p0_p1 = temp_report[temp_report['Commissioning Rank'].isin(['P0', 'P1'])]['Book Series Name'].tolist()
+            logger.info(f"Targeting {len(p0_p1)} P0/P1 series for advanced enrichment.")
+        except Exception as e:
+            logger.warning(f"Could not pre-identify P0/P1: {e}")
+            p0_p1 = None
+            
+        df = run_enrichment_pipeline(df, p0_p1_series=p0_p1)
         save_dataset(df, "After Enrichment")
         
     if args.analyze or args.all:
-        logger.info("=== PHASE 3: ANALYSIS ===")
+        logger.info("=== PHASE 3: FINAL ANALYSIS ===")
         generate_report(df)
         
     if not any([args.all, args.clean, args.enrich, args.analyze]):

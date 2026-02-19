@@ -1,0 +1,8 @@
+=== DATA CLEANUP AUDIT ===
+Initial book count: 1581
+Final book count: 1554
+Total removed: 27
+
+Moved 2 books from Off-Campus to Briar U: The Pact, The Incident
+Renamed 'Jacksonville Rays' -> 'Jacksonville Rays' (15 books)
+Removed 27 exact duplicate books
