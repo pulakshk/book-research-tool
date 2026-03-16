@@ -1,0 +1,902 @@
+[
+  {
+    "series_name": "Jamison Valley Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Lark Cove Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Clifton Forge Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Edens Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Treasure State Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Knockemout Series",
+    "author_name": "Lucy Score",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Blue Moon Series",
+    "author_name": "Lucy Score",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Braden Series",
+    "author_name": "Melissa Foster",
+    "estimated_books": 20,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Whiskey Creek Series",
+    "author_name": "Melissa Foster",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Sweetbriar Creek Series",
+    "author_name": "Melissa Foster",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Salvation Series",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Willow Creek Series",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Cherry Tree Harbor Series",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Hopeless Romantics Series",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Winston Brothers Series",
+    "author_name": "Penny Reid",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "True North Series",
+    "author_name": "Sarina Bowen",
+    "estimated_books": 9,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Sutter's Creek Series",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Tattered & Torn Series",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Bailey Brothers Series",
+    "author_name": "Claire Kingsley",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "NorthRidge Series",
+    "author_name": "Claire Kingsley",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Honeywood Series",
+    "author_name": "Laura Pavlov",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Willow Springs Series",
+    "author_name": "Laura Pavlov",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Chestnut Springs Series",
+    "author_name": "Elsie Silver",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Gold Rush Ranch Series",
+    "author_name": "Elsie Silver",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Walsh Series",
+    "author_name": "Kate Canterbary",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Hope Valley Series",
+    "author_name": "Jessica Prince",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Kings of Kearney Series",
+    "author_name": "Jessica Prince",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Meet Me in Montana Series",
+    "author_name": "Kelly Elliott",
+    "estimated_books": 8,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Small Town Romance Series",
+    "author_name": "Kelly Elliott",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Badge of Honor: Texas Heroes Series",
+    "author_name": "Susan Stoker",
+    "estimated_books": 12,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Redwood Ridge",
+    "author_name": "Alexa Riley",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Wishbone",
+    "author_name": "Kait Nolan",
+    "estimated_books": 8,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Sutter's Bay",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Hope Valley",
+    "author_name": "Jessica Prince",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Small Town Secrets",
+    "author_name": "K.A. Linde",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Heart of Stone",
+    "author_name": "Cara Dee",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "True North",
+    "author_name": "Sarina Bowen",
+    "estimated_books": 9,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Southern Charm",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Willow Creek",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Carolina Cove",
+    "author_name": "Lacey Black",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "River's Edge",
+    "author_name": "Jessica Gadziala",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Redemption",
+    "author_name": "Kristen Callie",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Bitterwood",
+    "author_name": "Lauren Runow",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Sweetwater Springs",
+    "author_name": "Annie Rains",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Stoneview",
+    "author_name": "Samantha Christy",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Blue Moon Harbor",
+    "author_name": "Emily Evans",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Whiskey",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Black Mountain",
+    "author_name": "Kristen Proby",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Pine Falls",
+    "author_name": "Kimberly Kincaid",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Blueberry Springs",
+    "author_name": "Kaitie Marie",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Whiskey Dolls",
+    "author_name": "Kelly O'Connell",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Tender Valley",
+    "author_name": "Roxie Noir",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Barefoot Bay",
+    "author_name": "Cambria Hebert",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Love Under the Big Sky",
+    "author_name": "Kristen Proby",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Steele Ridge",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Dirty Martini",
+    "author_name": "Claire Kingsley",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Whiskey Creek",
+    "author_name": "Rachel Hanna",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Love & Lies",
+    "author_name": "Stacey Lynn",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Seven Rivers",
+    "author_name": "Maren Lee",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Moonshine Hollow",
+    "author_name": "Mindy Michele",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Willow Creek Valley Series",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Sutter Lake Series",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Colorado Mountain Series",
+    "author_name": "Kristen Ashley",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Runaway Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Paradise Bay Billionaire Brothers Series",
+    "author_name": "Claudia Burgoa",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Bradens at Peaceful Harbor",
+    "author_name": "Melissa Foster",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Eden Valley Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Loveless Brothers Series",
+    "author_name": "Roxie Noir",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Whiskey Run Series",
+    "author_name": "Ashley Cade",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Coastal Carolina Series",
+    "author_name": "Kandi Steiner",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Steele Brothers Series",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Bishop Brothers Series",
+    "author_name": "Kennedy Fox",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Harmony Pointe Series",
+    "author_name": "Melissa Foster",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Bright Falls Series",
+    "author_name": "Ashley Herring Blake",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Sugar Falls Series",
+    "author_name": "Meagan T. Blake",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Lost & Found Series",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Holiday Springs Series",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Gentry Boys Series",
+    "author_name": "Cora Brent",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL of Protection Series",
+    "author_name": "Susan Stoker",
+    "estimated_books": 10,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Blue Moon Bay Series",
+    "author_name": "Jessica Clare",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Magdalene Series",
+    "author_name": "Kristen Ashley",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Hart's Boardwalk Series",
+    "author_name": "Samantha Young",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Knockemout",
+    "author_name": "Lucy Score",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Jamison Valley",
+    "author_name": "Devney Perry",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Bellamy Creek",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Honey Mountain",
+    "author_name": "Laura Pavlov",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Willow Creek Valley",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Bradens",
+    "author_name": "Melissa Foster",
+    "estimated_books": 30,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Bailey Brothers",
+    "author_name": "Claire Kingsley",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Bootleg Springs",
+    "author_name": "Claire Kingsley & Devney Perry",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Adair Family",
+    "author_name": "Samantha Young",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Silver Falls",
+    "author_name": "Erin Wright",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Cowboys of California",
+    "author_name": "Shana Gray",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Love in the Mountains",
+    "author_name": "Elana Johnson",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Havenwood",
+    "author_name": "Kristen Proby",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Silver Fox",
+    "author_name": "Krista Wolf",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Starlight Cove",
+    "author_name": "Jolie Day",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Sweetest Fix",
+    "author_name": "Kathryn Nolan",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Wildstone",
+    "author_name": "Kristen Ashley",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Edens",
+    "author_name": "Devney Perry",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Clifton Forge",
+    "author_name": "Devney Perry",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Graysen Ridge",
+    "author_name": "Kristen Proby",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Grizzly Ridge",
+    "author_name": "Nicole Snow",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Harmony Creek",
+    "author_name": "Laura Pavlov",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Cloverleigh Farms",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 7,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Kingston Family",
+    "author_name": "Kelly Elliott",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Green Valley",
+    "author_name": "L.B. Dunbar",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Stone Cliff",
+    "author_name": "Samantha Christy",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Moonshine Hollow",
+    "author_name": "Kristen Hope Mazzola",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Montana Millionaires",
+    "author_name": "Lisa Renee Jones",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Runaway Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Gildhaven Series",
+    "author_name": "Devney Perry",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Return to Me Series",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Bellamy Creek Series",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Cloverleigh Farms Series",
+    "author_name": "Melanie Harlow",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Texas Heroes Series",
+    "author_name": "Susan Stoker",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Love Under the Big Sky Series",
+    "author_name": "Kristen Proby",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Twisted Steel Series",
+    "author_name": "Kristen Proby",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Adair Family Series",
+    "author_name": "Samantha Young",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Wrightsville Beach Series",
+    "author_name": "K.A. Linde",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Avoiding Series",
+    "author_name": "K.A. Linde",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Gansett Island Series",
+    "author_name": "Marie Force",
+    "estimated_books": 27,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Butler, Vermont Series",
+    "author_name": "Marie Force",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Green Mountain Series",
+    "author_name": "Marie Force",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Unexpected Series",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Lost Kings MC Series",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 13,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Soulmates Series",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Kincaid Brothers Series",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Perfect Series",
+    "author_name": "Samantha Christy",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Callaway Cousins Series",
+    "author_name": "Barbara Freethy",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Whisper Lake Series",
+    "author_name": "Barbara Freethy",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Lightning Strikes Series",
+    "author_name": "Barbara Freethy",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Beneath the Stars Series",
+    "author_name": "Lucy Score",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Kingston Falls Series",
+    "author_name": "Meghan Quinn",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Brews and Billionaires Series",
+    "author_name": "Meghan Quinn",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Arrowood Brothers Series",
+    "author_name": "Corinne Michaels",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Wrecked Series",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Lovelight Series",
+    "author_name": "B.K. Borison",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Greene Family Series",
+    "author_name": "Piper Rayne",
+    "estimated_books": 10,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Grizzly Ridge Series",
+    "author_name": "Nicole Snow",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Small Town Kings Series",
+    "author_name": "Jessica Gadziala",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Promise Series",
+    "author_name": "Kaylee Ryan",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Bookworm Series",
+    "author_name": "Claire Kingsley",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Broken Love Series",
+    "author_name": "Jewel E. Ann",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Blue Moon Bay Series",
+    "author_name": "Jenna Hartley",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Blackbridge Bay Series",
+    "author_name": "Sierra Hill",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Harvest Springs Series",
+    "author_name": "Amy Regale",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Honeywood Series",
+    "author_name": "Eliza Ellis",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Rose Canyon Series",
+    "author_name": "Julia Wolf",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Big Sky Series",
+    "author_name": "Kristen Proby",
+    "estimated_books": 5,
+    "source_prompt": 6
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "series_name": "Queens & Monsters",
+    "author_name": "J.T. Geissinger",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Savage Series",
+    "author_name": "Michelle Heard",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Tarkov Bratva",
+    "author_name": "Catharina Maura",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "The Five Families",
+    "author_name": "Serena Akeroyd",
+    "estimated_books": 7,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Cosa Nostra",
+    "author_name": "Bella Matthews",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "The Anti-Heroes in Love Saga",
+    "author_name": "Giana Darling",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "The Mafia and His Maiden",
+    "author_name": "Willow Winters",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Sinners & Saints",
+    "author_name": "Savannah Rose",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "The Mafia Kings",
+    "author_name": "Coralee June",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "The Syndicate",
+    "author_name": "Zoe Blake",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Made Man",
+    "author_name": "A. Giancola",
+    "estimated_books": 5,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Capo's Obsession",
+    "author_name": "Measha Stone",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Mafia Princes",
+    "author_name": "Ava Harrison",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Petrov Bratva",
+    "author_name": "Bianca Cole",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Mafia Vows",
+    "author_name": "Ivy Fox",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Sold to the Mafia",
+    "author_name": "Brooke Summers",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Twisted Sinners",
+    "author_name": "Anna Zaires",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Mafia Billionaire",
+    "author_name": "Ivy Smoak",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Sold to the Don",
+    "author_name": "Kristen Luciani",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Mafia Made",
+    "author_name": "K.J. Rose",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Elite Bratva",
+    "author_name": "Amo Jones",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Sins of the Fathers",
+    "author_name": "Cora Reilly",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Kingmakers",
+    "author_name": "Sophie Lark",
+    "estimated_books": 5,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Corrupt Kings",
+    "author_name": "Michelle Heard",
+    "estimated_books": 6,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Saints",
+    "author_name": "Michelle Heard",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Deviant Series",
+    "author_name": "Rina Kent",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Molotov Obsession",
+    "author_name": "Anna Zaires",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Mafia Kings",
+    "author_name": "Lylah James",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Tattered & Torn Series",
+    "author_name": "Lylah James",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Off-Limits Series",
+    "author_name": "Catharina Maura",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Street Empire",
+    "author_name": "Catharina Maura",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Syndicate of Sin",
+    "author_name": "Vivian Wood",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Savage Heirs",
+    "author_name": "Coralee June",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Costello Mafia Series",
+    "author_name": "Bianca Cole",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Dark Syndicate",
+    "author_name": "Nicole Fox",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Merciless Series",
+    "author_name": "W. Winters",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Ruthless Dynasty",
+    "author_name": "Kylie Kent",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Mafia King",
+    "author_name": "Coralee June",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Savage Bloodline",
+    "author_name": "Measha Stone",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Sempre",
+    "author_name": "J.M. Darhower",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Tainted by the Mob",
+    "author_name": "Zoe Blake",
+    "estimated_books": 10,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Rossi Crime Family",
+    "author_name": "Danica Page",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Most Wanted",
+    "author_name": "Willow Winters",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Italian Mafia",
+    "author_name": "A.K. Rose",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Boston Mafia",
+    "author_name": "Bella Matthews",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Bratva Brothers",
+    "author_name": "Nicole Fox",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Dark Mafia Romance",
+    "author_name": "Kristen Luciani",
+    "estimated_books": 9,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Brutal Bratva",
+    "author_name": "Eva Winners",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Mafia Wars",
+    "author_name": "Bella J.",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Moretti Mafia",
+    "author_name": "J.L. Beck",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Mafia King's Obsession",
+    "author_name": "Ivy Fox",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Claimed by the Kingpin",
+    "author_name": "Piper Stone",
+    "estimated_books": 12,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Moretti Family",
+    "author_name": "Natalie Ann",
+    "estimated_books": 8,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Corrupt Kings",
+    "author_name": "Willow Dixon",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Mafia Kings of Chicago",
+    "author_name": "V.F. Mason",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Ruthless People Series",
+    "author_name": "J.J. McAvoy",
+    "estimated_books": 5,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Brutal Birthright Series",
+    "author_name": "Callie Hart",
+    "estimated_books": 6,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Kingmakers Series",
+    "author_name": "Eva Ashwood",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Made Men Series",
+    "author_name": "Sarah Brianne",
+    "estimated_books": 5,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Savage Heirs Series",
+    "author_name": "Ashley N. Rostek",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Dark Mafia Series",
+    "author_name": "Eva Winners",
+    "estimated_books": 5,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Kingmakers Series",
+    "author_name": "Tilly Cole",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Moretti Mafia Series",
+    "author_name": "K. Loraine",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Chicago Mafia Dons",
+    "author_name": "L.P. Lovell",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Sons of Sin Series",
+    "author_name": "S.J. Tilly",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Lords of Corruption",
+    "author_name": "Evelyn Flood",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Volkov Bratva",
+    "author_name": "Brooke O'Brien",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Sinners Series",
+    "author_name": "Sophie Lark",
+    "estimated_books": 6,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Brutal Series",
+    "author_name": "K.J. Sutton",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Torian Mafia Series",
+    "author_name": "B.B. Reid",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Diamond & The Crooks",
+    "author_name": "Michelle Heard",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Vicious Empire Series",
+    "author_name": "Rina Kent",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Ricci Family Series",
+    "author_name": "Eva Charles",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Underworld Kings",
+    "author_name": "Bella J.",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Darkverse Series",
+    "author_name": "RuNyx",
+    "estimated_books": 5,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Blood and Roses Series",
+    "author_name": "Callie Hart",
+    "estimated_books": 7,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Rossi Crime Family Series",
+    "author_name": "Kristen Luciani",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Untouchables",
+    "author_name": "Coralee June",
+    "estimated_books": 5,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "The King Trilogy",
+    "author_name": "Coralee June",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Bound By Honor",
+    "author_name": "Catharina Maura",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Dark Mafia Series",
+    "author_name": "Jessica Gadziala",
+    "estimated_books": 15,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Filthy Mafia Prince",
+    "author_name": "Ella Miles",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Merciless Series",
+    "author_name": "Willow Winters",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Ruthless Brotherhood",
+    "author_name": "Nicole Fox",
+    "estimated_books": 7,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Mafia Kingpin",
+    "author_name": "Zoey Synn",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "The Brutal Kings",
+    "author_name": "Nicole Casey",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "The Ruthless Series",
+    "author_name": "Ryan Michele",
+    "estimated_books": 5,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Brutal Vows",
+    "author_name": "J.L. Beck and C. Hallman",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Corrupted Empire",
+    "author_name": "J.L. Beck and C. Hallman",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "The Mafia's Princess",
+    "author_name": "M. Robinson",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Owned by a Billionaire",
+    "author_name": "Michelle Heard",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Salerno's Soldiers",
+    "author_name": "S.J. Tilly",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The O'Malley Brothers",
+    "author_name": "Isabella Starling",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Ruthless King Series",
+    "author_name": "Willow Winters",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Moretti Mafia",
+    "author_name": "Callie Vincent",
+    "estimated_books": 9,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Kings of Carbon",
+    "author_name": "Isabella Maddox",
+    "estimated_books": 5,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Mafia Doms",
+    "author_name": "Lilith Vincent",
+    "estimated_books": 9,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Russian Sinners",
+    "author_name": "Rina Kent",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Boston Irish Mob",
+    "author_name": "J. Nichole",
+    "estimated_books": 5,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Bratva Kings of Chicago",
+    "author_name": "Lexi Ryder",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Ruthless Sinners",
+    "author_name": "Mila Crawford",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Corrupted Mafia",
+    "author_name": "Serena Akeroyd and Sienna Snow",
+    "estimated_books": 4,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Mafia Heirs",
+    "author_name": "Nikki J. Summers",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Russian Mafia",
+    "author_name": "Amelia Wilde",
+    "estimated_books": 12,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Chicago Bosses",
+    "author_name": "Jane C. Woods",
+    "estimated_books": 10,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Alphas' Obsession",
+    "author_name": "K.A. Tucker",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Corrupt Chicago Mafia",
+    "author_name": "Rachel Van Dyken",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Mafia Vows",
+    "author_name": "K.S. Adkins",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Devil's Mafia",
+    "author_name": "Mila Kane",
+    "estimated_books": 6,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Italian Dons",
+    "author_name": "Zoe Blake",
+    "estimated_books": 10,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "The Made Series",
+    "author_name": "Danielle Lori",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Dark Irish Mafia",
+    "author_name": "Serena Akeroyd",
+    "estimated_books": 10,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Syndicate (A Dark Irish Mafia Prequel Series)",
+    "author_name": "Serena Akeroyd",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Arranged Mafia Marriages",
+    "author_name": "Catharina Maura",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Sons of Sin",
+    "author_name": "Catharina Maura",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Queens of the Underground",
+    "author_name": "Catharina Maura",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Syndicate (Mafia Wars)",
+    "author_name": "Ella Miles",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Monsters & Muses",
+    "author_name": "Rina Kent",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Mafia Bride",
+    "author_name": "Nicole Fox",
+    "estimated_books": 8,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Merciless Mafia",
+    "author_name": "Willow Winters",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Italian Mafia",
+    "author_name": "Eva Ashwood",
+    "estimated_books": 5,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Dark Mob",
+    "author_name": "Isabella Starling",
+    "estimated_books": 5,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Mafia Wars: Philadelphia",
+    "author_name": "Savannah Rylan",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Irish Mob Chronicles",
+    "author_name": "Savannah Rylan",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Five Syndicates",
+    "author_name": "Bella Di Corte",
+    "estimated_books": 11,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "The Mafia Series",
+    "author_name": "Lexy Timms",
+    "estimated_books": 10,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Kingpins of New York",
+    "author_name": "Bella Di Corte",
+    "estimated_books": 7,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Chicago Mafia",
+    "author_name": "Measha Stone",
+    "estimated_books": 7,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Arranged Marriage (Catharina Maura)",
+    "author_name": "Catharina Maura",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Five Points' Mob",
+    "author_name": "Serena Akeroyd",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Sons of Mafia",
+    "author_name": "Jenna Rose",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "The Corrupt",
+    "author_name": "Bella Di Corte",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Tarnished Empire",
+    "author_name": "W. Winters",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Tease",
+    "author_name": "Willow Winters",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Brutal Birthright (Sophie Lark)",
+    "author_name": "Sophie Lark",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Arranged Marriage (Nicole Fox)",
+    "author_name": "Nicole Fox",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Brutal Birthright (Nicole Fox)",
+    "author_name": "Nicole Fox",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Sinful",
+    "author_name": "Ava Harrison",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Ruthless Princess",
+    "author_name": "J.J. McAvoy",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Dangerous Royals",
+    "author_name": "Bella Di Corte",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  }
+]

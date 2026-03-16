@@ -1,0 +1,956 @@
+[
+  {
+    "series_name": "Bree Taggert Series",
+    "author_name": "Melinda Leigh",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Morgan Dane Series",
+    "author_name": "Melinda Leigh",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Fatal Series",
+    "author_name": "K.A. Tucker",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Steele Brothers Series",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 9,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Covert Protection Series",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Merciless Series",
+    "author_name": "Willow Winters",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Irresistible Series",
+    "author_name": "Willow Winters",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Blackwood Security Series",
+    "author_name": "Leslie North",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "SEAL of Protection Series",
+    "author_name": "Susan Stoker",
+    "estimated_books": 15,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Queens & Monsters Series",
+    "author_name": "J.T. Geissinger",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Dirty Series",
+    "author_name": "J.T. Geissinger",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Five Points' Mob Collection",
+    "author_name": "Serena Akeroyd",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Red Stone Security Series",
+    "author_name": "Kennedy Layne",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Safeguard Series",
+    "author_name": "Kennedy Layne",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Covert Ops Series",
+    "author_name": "Abigail Owen",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Masters and Mercenaries Series",
+    "author_name": "Lexi Blake",
+    "estimated_books": 20,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Faces of Evil Series",
+    "author_name": "Debra Webb",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Specialists Series",
+    "author_name": "Debra Webb",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "K9 Hero Series",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Coastal Guardians Series",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Florida Wildlife Warriors Series",
+    "author_name": "Connie Mann",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Blackstone Series",
+    "author_name": "Jenna Ryan",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "SEAL Team Tango Series",
+    "author_name": "T.S. Sands",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Darkest Minds Series",
+    "author_name": "K.L. Stone",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Hostile Operations Team (HOT) Series",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Suspenseful Heroes Series",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Montgomery Ink: Boulder Series",
+    "author_name": "Carrie Ann Ryan",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Hurricane Series",
+    "author_name": "R.J. Prescott",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Russian series",
+    "author_name": "Celia Aaron",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Bound By Duty",
+    "author_name": "Alta Hensley",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Broken Trilogy",
+    "author_name": "Jenna Brandt",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Hostage Rescue Team Series",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Henchmen Series",
+    "author_name": "Jessica Gadziala",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Kingston Security",
+    "author_name": "B.B. Reid",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Savage Trilogy",
+    "author_name": "Brenda K. Davies",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Purgatory Series",
+    "author_name": "Kayla Miller",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Twisted Games series",
+    "author_name": "Nikki J. Summers",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Stolen Series",
+    "author_name": "Ella Miles",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Darkly Important",
+    "author_name": "Trisha Wolfe",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Mafia Made",
+    "author_name": "Lucia Franco",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Syndicate Series",
+    "author_name": "Jessica Gadziala",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Corrupted Souls Series",
+    "author_name": "J.L. Beck",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Filthy Rich Series",
+    "author_name": "S. Massery",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Debt Series",
+    "author_name": "Jane Henry",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Menace Trilogy",
+    "author_name": "M. Never",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Reckless Series",
+    "author_name": "C.M. Owens",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Boston Underworld",
+    "author_name": "A. Zavarelli",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Whisper Series",
+    "author_name": "Sierra Hill",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Billionaire's Obsession (Jax & Sydney)",
+    "author_name": "Willow Summers",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Bad Boys of Last Stand",
+    "author_name": "Roxie Rivera",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Vengeance Series",
+    "author_name": "Jessica Ruben",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Dirty Rich Betrayal",
+    "author_name": "A.D. Justice",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Collector Series",
+    "author_name": "R.G. Angel",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Come Closer",
+    "author_name": "Ashley Jade",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Obsidian Duet",
+    "author_name": "Dani Ren\u00e9",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Kings of Whiskey Mountain",
+    "author_name": "Shiloh Walker",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Dangerous Love Series",
+    "author_name": "Measha Stone",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Brutal Birthright",
+    "author_name": "Sophie Lark",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Tattered & Torn",
+    "author_name": "Catherine Cowles",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Royal Elite",
+    "author_name": "Rina Kent",
+    "estimated_books": 7,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Stark Trilogy",
+    "author_name": "K. Webster",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Saints",
+    "author_name": "Michelle Heard",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Endgame",
+    "author_name": "Skye Warren",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Twist Me Trilogy",
+    "author_name": "Anna Zaires",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Monsters in the Dark",
+    "author_name": "Pepper Winters",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "All the King's Men",
+    "author_name": "Monica James",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Mount Series",
+    "author_name": "Meghan March",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Bloodline",
+    "author_name": "Natasha Knight",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Blood & Roses",
+    "author_name": "Zoey Ellis",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Kinky Killers",
+    "author_name": "Alta Hensley",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Devil's Cut",
+    "author_name": "Willow Winters",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Ruthless King",
+    "author_name": "Savannah Miller",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Empire Series",
+    "author_name": "Rina Kent",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Accidental Series",
+    "author_name": "Sam Mariano",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dark Series",
+    "author_name": "Runyx",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Brutal Truth",
+    "author_name": "Ker Dukey",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Monster in His Eyes",
+    "author_name": "J.M. Darhower",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Savage Crows MC",
+    "author_name": "Jenika Snow",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Fearless Series",
+    "author_name": "B.B. Reid",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Russian Sinners",
+    "author_name": "Nikki J. Summers",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dangerous Doms",
+    "author_name": "Eva Charles",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Hades Hangmen",
+    "author_name": "Tillie Cole",
+    "estimated_books": 7,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Chaos Series",
+    "author_name": "Kristen Ashley",
+    "estimated_books": 7,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Mindfuck Series",
+    "author_name": "K.A. Knight",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Sinner's Playground",
+    "author_name": "S.J. Sylvis",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Devil's Night",
+    "author_name": "Penelope Douglas",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Boston Belles",
+    "author_name": "L.J. Shen",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Legacy of Gods",
+    "author_name": "Rina Kent",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Queens & Monsters",
+    "author_name": "J.T. Geissinger",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Born in Blood Mafia Chronicles",
+    "author_name": "Cora Reilly",
+    "estimated_books": 8,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Deanna Madden",
+    "author_name": "Alessandra Torre",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "King",
+    "author_name": "T.M. Frazier",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Merciless",
+    "author_name": "Willow Winters",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Mount Trilogy",
+    "author_name": "Meghan March",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Steel Brothers Saga",
+    "author_name": "Helen Hardt",
+    "estimated_books": 20,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Twist Me",
+    "author_name": "Anna Zaires",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Savage Falls",
+    "author_name": "Coralee June",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Sins & Secrets",
+    "author_name": "Monica James",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Last Riders",
+    "author_name": "Jamie Begley",
+    "estimated_books": 15,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Ravenswood MC",
+    "author_name": "Ryan Michele",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Kings of Mayhem MC",
+    "author_name": "Hope Ford",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Masters and Mercenaries",
+    "author_name": "Lexi Blake",
+    "estimated_books": 30,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Stacked Deck",
+    "author_name": "K. Webster",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Clifton Forge",
+    "author_name": "Devney Perry",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Fallen Men",
+    "author_name": "Natalia Bennett",
+    "estimated_books": 7,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Filthy Wicked Psychos",
+    "author_name": "Cassandra Robbins & C.M. Stunich",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Arranged Marriage",
+    "author_name": "Catharina Maura",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Ruthless Dynasty",
+    "author_name": "Eva Winners",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Corrupted Love",
+    "author_name": "Nicole Blanchard",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Devil's Playground",
+    "author_name": "Savannah Rose",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Obsession",
+    "author_name": "Julia Sykes",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Dirty Mind",
+    "author_name": "L.J. Rose",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Riley Paige Series",
+    "author_name": "Blake Pierce",
+    "estimated_books": 22,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Kate Wise Series",
+    "author_name": "Blake Pierce",
+    "estimated_books": 12,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Mackenzie White Series",
+    "author_name": "Blake Pierce",
+    "estimated_books": 14,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Adele Sharp Series",
+    "author_name": "Blake Pierce",
+    "estimated_books": 12,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Ella Dark Series",
+    "author_name": "Blake Pierce",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Zoe Prime Series",
+    "author_name": "Blake Pierce",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Midnight Series",
+    "author_name": "Melinda Leigh",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Mercy Kilpatrick Series",
+    "author_name": "Kendra Elliot",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Bone Secrets Series",
+    "author_name": "Kendra Elliot",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Lizzy Gardner Series",
+    "author_name": "T.R. Ragan",
+    "estimated_books": 11,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Jessie Cole Series",
+    "author_name": "T.R. Ragan",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Faith McMann Series",
+    "author_name": "T.R. Ragan",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Winter Black Series",
+    "author_name": "Mary Stone",
+    "estimated_books": 18,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Bella Bane Series",
+    "author_name": "Mary Stone",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Autumn Trent Series",
+    "author_name": "Mary Stone",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Deep Ops Series",
+    "author_name": "Rebecca Zanetti",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Scorpion Ridge Series",
+    "author_name": "Rebecca Zanetti",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Sins Brothers Series",
+    "author_name": "Rebecca Zanetti",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Detective Josie Quinn Series",
+    "author_name": "Lisa Regan",
+    "estimated_books": 20,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Detective Gina Harte Series",
+    "author_name": "Carla Kovach",
+    "estimated_books": 12,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Jo Fournier Series",
+    "author_name": "M.M. Chouinard",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Detective Kane and Alton Series",
+    "author_name": "D.K. Hood",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Detective Lucy Harwin Series",
+    "author_name": "Helen Phifer",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "SEAL of Protection: Legacy Series",
+    "author_name": "Susan Stoker",
+    "estimated_books": 12,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Titan Group Series",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "King Series",
+    "author_name": "Meghan March",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Sinner Series",
+    "author_name": "Willow Winters",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Royal Elite Series",
+    "author_name": "Rina Kent",
+    "estimated_books": 7,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Deception Trilogy",
+    "author_name": "Rina Kent",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Indebted Series",
+    "author_name": "Pepper Winters",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Pure Corruption Series",
+    "author_name": "Pepper Winters",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "North Security Series",
+    "author_name": "Skye Warren",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Rochester Trilogy",
+    "author_name": "Skye Warren",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Devil Series",
+    "author_name": "Monica James",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The V Games",
+    "author_name": "K. Webster",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Cursed and Cruel",
+    "author_name": "K.A. Tucker",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Made Series",
+    "author_name": "Danielle Lori",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Savage Hearts",
+    "author_name": "Nicole Fox",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Obsession Series",
+    "author_name": "Alta Hensley",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Russian Billionaire Series",
+    "author_name": "Isabella Starling",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Untouchables Series",
+    "author_name": "Zoe Blake",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The VIP Series",
+    "author_name": "M. Robinson",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Fallen Crest Series",
+    "author_name": "Tijan",
+    "estimated_books": 9,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Corrupted Hearts Series",
+    "author_name": "Tiffany Snow",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Praise Series",
+    "author_name": "Sam Mariano",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Blackwood Series",
+    "author_name": "K.C. Cross & M. Malone",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Dark Verse Series",
+    "author_name": "RuNyx",
+    "estimated_books": 5,
+    "source_prompt": 6
+  }
+]

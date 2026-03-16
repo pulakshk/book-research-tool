@@ -1,0 +1,1010 @@
+[
+  {
+    "series_name": "The De Wolfe Pack",
+    "author_name": "Kathryn Le Veque",
+    "estimated_books": 20,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "House of de Valois",
+    "author_name": "Kathryn Le Veque",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Wicked Earls",
+    "author_name": "Collette Cameron",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Daughters of Desire",
+    "author_name": "Collette Cameron",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Castle Brides",
+    "author_name": "Collette Cameron",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Highlander's Promise",
+    "author_name": "Collette Cameron",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Highland Clan",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 8,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Sins of the Cities",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Notorious Ladies of London",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Duke of Disgrace",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Scandalous Sisters",
+    "author_name": "Samantha Holt",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The House of Holt",
+    "author_name": "Samantha Holt",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Wicked Widows",
+    "author_name": "Samantha Holt",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Fallen Ladies",
+    "author_name": "Jess Michaels",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Ladies of Virtue",
+    "author_name": "Jess Michaels",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Rogues of Ravensworth",
+    "author_name": "Jess Michaels",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Rebellious Brides",
+    "author_name": "Amanda Mariel",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Wicked Wallflowers",
+    "author_name": "Amanda Mariel",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Matchmaking Mama",
+    "author_name": "Amanda Mariel",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Anarchy",
+    "author_name": "Mary Lancaster",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Norman Conquest",
+    "author_name": "Mary Lancaster",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Warrior's Wives",
+    "author_name": "Mary Lancaster",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Mayhem in Mayfair",
+    "author_name": "Grace Callaway",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Game of Dukes",
+    "author_name": "Grace Callaway",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Lady of Fortune",
+    "author_name": "Grace Callaway",
+    "estimated_books": 3,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Age of Faith",
+    "author_name": "Tamara Leigh",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The King's Inquisitor",
+    "author_name": "Tamara Leigh",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Rockliffe Series",
+    "author_name": "Stella Riley",
+    "estimated_books": 8,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Disreputable Dukes",
+    "author_name": "Evelyn Pryce",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "The Wicked Wives of London",
+    "author_name": "Merry Farmer",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Spies of Dunnett",
+    "author_name": "Elizabeth Keysian",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Dukes of War",
+    "author_name": "Erica Ridley",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Heart of a Duke",
+    "author_name": "Christi Caldwell",
+    "estimated_books": 15,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Highland",
+    "author_name": "Julie Johnstone",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Dashing Duellists",
+    "author_name": "Catherine Bilson",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Baleful Godmother",
+    "author_name": "Emily Larkin",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The House of Devon",
+    "author_name": "Jude Knight",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The League of Lords",
+    "author_name": "Tracy Sumner",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Devil's Due",
+    "author_name": "Amanda Mariel",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Worthingtons",
+    "author_name": "Ella Quinn",
+    "estimated_books": 12,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The MacLarens of Fire Mountain",
+    "author_name": "Wendy Vella",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Highland Grooms",
+    "author_name": "Amy Jarecki",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Daughters of the Glen",
+    "author_name": "Anna Markland",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Highland Legends",
+    "author_name": "Tanya Anne Crosby",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The House of de Velt",
+    "author_name": "Kathryn Le Veque",
+    "estimated_books": 12,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Border Series",
+    "author_name": "Cecelia Mecca",
+    "estimated_books": 9,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Clan Grant",
+    "author_name": "Allie Mackay",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Wicked Earls of London",
+    "author_name": "Stacy Reid",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Lawmen of Wyoming",
+    "author_name": "Debra Holt",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Gentlemen of Gentleman's Row",
+    "author_name": "Alisa Adams",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Scions of London",
+    "author_name": "Katherine Grant",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Secrets of the Season",
+    "author_name": "Sophie Barnes",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Warrior Brothers of Skye",
+    "author_name": "Tamara Gill",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Pleasure Seekers",
+    "author_name": "Jess Michaels",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Parish Orphans of Devon",
+    "author_name": "Mimi Matthews",
+    "estimated_books": 3,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Lords of Vice",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Midnight Rogues",
+    "author_name": "Vivienne Savage",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Lawmen of Silver Springs",
+    "author_name": "Kathleen Ayers",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Disgraced Lords",
+    "author_name": "Bronwen Evans",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "The Duke Dynasty Series",
+    "author_name": "Chloe Belle",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dukes of War Series",
+    "author_name": "Eva Devon",
+    "estimated_books": 7,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Wicked Wallflowers Series",
+    "author_name": "Stacy Reid",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Lords of London Series",
+    "author_name": "Ella Quinn",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dukes of War Series",
+    "author_name": "Erica Ridley",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The de Wolfe Pack Series",
+    "author_name": "Kathryn Le Veque",
+    "estimated_books": 20,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Sinful Wallflowers Series",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The League of Lords Series",
+    "author_name": "Tracy Sumner",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Sinful Brides Series",
+    "author_name": "Christi Caldwell",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dukes of Redemption Series",
+    "author_name": "Anna Harrington",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Clan MacKinnon Series",
+    "author_name": "Eliza Knight",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Daughters of the Gilded Lily Series",
+    "author_name": "Collette Cameron",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Regency Scandal Series",
+    "author_name": "Catherine Curzon",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Sins & Scandals Series",
+    "author_name": "Lauren Smith",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Beaumont Sisters Series",
+    "author_name": "Sophie Barnes",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Duchess Society Series",
+    "author_name": "Mona Sedrak",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Untouchables Series",
+    "author_name": "Darcy Burke",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Hellion Club Series",
+    "author_name": "Kathleen McGhee",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Ruthless Rogues Series",
+    "author_name": "Maddison Michaels",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Mayhem in Mayfair Series",
+    "author_name": "Grace Callaway",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Scandalous Sisters of London Series",
+    "author_name": "Jenna Dare",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Wicked Widows Series",
+    "author_name": "Annabelle Anders",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Duke's Elite Series",
+    "author_name": "Diana Quincy",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Secrets of the Ton Series",
+    "author_name": "Elizabeth Johns",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Sweet Pea Creek Series",
+    "author_name": "Jessie Gussman",
+    "estimated_books": 10,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Women of Tenacity Series",
+    "author_name": "Shanna Hatfield",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dukes of Vice Series",
+    "author_name": "Samantha Holt",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Dukes of Doom Series",
+    "author_name": "Alyssa Clark",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The House of Brady Series",
+    "author_name": "Tamara Gill",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "The Wicked Winters",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Highland Grooms",
+    "author_name": "Julie Johnstone",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Lochaber Love",
+    "author_name": "Madeline Martin",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Wicked Widows",
+    "author_name": "Eva Devon",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Rogues of Ravensmuir",
+    "author_name": "Manda Mellett",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Highland Heirs",
+    "author_name": "L.J. Andrews",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Gentlemen of Knights Bridge",
+    "author_name": "Elizabeth Naughton",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Highland Heather Romancing a Scot",
+    "author_name": "Collette Cameron",
+    "estimated_books": 12,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Unforgettable Miss Fairfax",
+    "author_name": "Amy Quinton",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Brotherhood of the Sword",
+    "author_name": "Tamara Gill",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Knights of Honor",
+    "author_name": "Alexa Aston",
+    "estimated_books": 9,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Pleasure of a Scoundrel",
+    "author_name": "Jess Michaels",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Highlander's Promise",
+    "author_name": "Lisa Ann Bear",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Dukes of Desire",
+    "author_name": "Samantha Holt",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Highland Hearts",
+    "author_name": "Michelle Deerwester-Dalrymple",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Earls of Eastwood",
+    "author_name": "Catherine Bilson",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Matchmaking Muses",
+    "author_name": "Annabelle Anders",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Half-Moon House",
+    "author_name": "Deb Marlowe",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Gentlemen of the Thimble",
+    "author_name": "Amanda Mariel",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Brides of Highlandmuir",
+    "author_name": "Merry Farmer",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Widows of Weston",
+    "author_name": "Alyssa Clarke",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Gentlemen of the Gutter",
+    "author_name": "Victoria Vale",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Duke of Dark Desires",
+    "author_name": "Audrey Harrison",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Duchess of Duke Street",
+    "author_name": "Christina McKnight",
+    "estimated_books": 3,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Brothers Sinister",
+    "author_name": "Courtney Milan",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Somerset Stories",
+    "author_name": "Mimi Matthews",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Medieval Knights",
+    "author_name": "Denise Domning",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "At the Kingsborough Ball",
+    "author_name": "Sophie Barnes",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Wicked Worthingtons",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Sinful Suttons",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Hellions of Havisham",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Heartless Lords",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Sons of Scandal",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Notorious Dukes",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Prince's Bride Series",
+    "author_name": "Eliza Knight",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Summer of the Scandalous Series",
+    "author_name": "Eliza Knight",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The MacDuffs of Legend Series",
+    "author_name": "Eliza Knight",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "League of Lords",
+    "author_name": "Tracy Sumner",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Gentlemen of St. James",
+    "author_name": "Christina McKnight",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Secret Society of Young Widows",
+    "author_name": "Christina McKnight",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Brothers of Beauford",
+    "author_name": "Christina McKnight",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Daughters of Marquess",
+    "author_name": "Christina McKnight",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Seductive Scoundrels",
+    "author_name": "Collette Cameron",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Naked Nobility",
+    "author_name": "Collette Cameron",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Highland Outcasts",
+    "author_name": "Julie Johnstone",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Highlander Vows: Entangled Hearts",
+    "author_name": "Julie Johnstone",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Captured by a Highlander",
+    "author_name": "Julie Johnstone",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Daughters of the Marquess",
+    "author_name": "Mary Kingswood",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Sisters of Charity",
+    "author_name": "Mary Kingswood",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Compton Sisters",
+    "author_name": "Mary Kingswood",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The 12 Dukes of Christmas",
+    "author_name": "Erica Ridley",
+    "estimated_books": 12,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Regency Rakes",
+    "author_name": "Sophie Barnes",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Dukes of War",
+    "author_name": "Sophie Barnes",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Bow Street Gentlemen",
+    "author_name": "Catherine Bilson",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "The Duchess of Derry",
+    "author_name": "Catherine Bilson",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "A Medieval Tale",
+    "author_name": "Tamara Leigh",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Wicked Earls Club",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 17,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Sinful Wallflowers",
+    "author_name": "Scarlett Scott",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Scandalous Siblings",
+    "author_name": "Jess Michaels",
+    "estimated_books": 7,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Wicked Quills of London",
+    "author_name": "Jess Michaels",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Bachelors of Bond Street",
+    "author_name": "Maddison Michaels",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Viking Lore",
+    "author_name": "Eliza Knight",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Kings of the North",
+    "author_name": "Elizabeth Anne West",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Duke's by Design",
+    "author_name": "Tracy Sumner",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Illicit Love Series",
+    "author_name": "Samantha Holt",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The League of Rogues",
+    "author_name": "Lauren Smith",
+    "estimated_books": 18,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Rakes of Mayhem",
+    "author_name": "Heather Boyd",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Castle Brides",
+    "author_name": "Collette Cameron",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Sons of Scandal",
+    "author_name": "Amanda Mariel",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Naughty Duchesses",
+    "author_name": "Merry Farmer",
+    "estimated_books": 7,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The St. Clairs",
+    "author_name": "Alexa Aston",
+    "estimated_books": 7,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Lords of Love",
+    "author_name": "Elizabeth Helen",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Wallflower Society",
+    "author_name": "Elizabeth Helen",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Duke's Illegitimate Children",
+    "author_name": "Annabelle Anders",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Duke's Secret",
+    "author_name": "Annabelle Anders",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Outlaw Ballerinas",
+    "author_name": "Evie Mitchell",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Duchess in Training",
+    "author_name": "Sydney Jane Baily",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Highlanders of Cadwal",
+    "author_name": "Amy Jarecki",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Dukes of Distinction",
+    "author_name": "Wendy Vella",
+    "estimated_books": 7,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Secrets & Scandals",
+    "author_name": "Wendy Vella",
+    "estimated_books": 5,
+    "source_prompt": 6
+  }
+]

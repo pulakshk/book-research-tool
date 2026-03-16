@@ -1,0 +1,680 @@
+[
+  {
+    "series_name": "Baywood U Hockey",
+    "author_name": "Anastasia Ryan",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Elite Hockey",
+    "author_name": "Samantha Whiskey",
+    "estimated_books": 5,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Tampa Suns",
+    "author_name": "Samantha Whiskey",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "The Puck Boys of Brooks University",
+    "author_name": "Cara Dee",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Atlanta Lightning",
+    "author_name": "A.K. Evans",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Locker Room Daddies",
+    "author_name": "Misha Bell",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "College Hockey Dads",
+    "author_name": "Lily Wildhart",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Seattle Grinders",
+    "author_name": "A.J. Wynter",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Lakeside University Hockey",
+    "author_name": "R.C. Boldt",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Seattle Sockeyes",
+    "author_name": "Jami Davenport",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Badgers Hockey",
+    "author_name": "Jami Davenport",
+    "estimated_books": 6,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "Power Play",
+    "author_name": "Jami Davenport",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "San Jose Crush",
+    "author_name": "C.P. Rider",
+    "estimated_books": 4,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "One Night Stand",
+    "author_name": "Kelly Siskind",
+    "estimated_books": 3,
+    "source_prompt": "v2_1"
+  },
+  {
+    "series_name": "VIP Series",
+    "author_name": "Kristen Callihan",
+    "estimated_books": 5,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Windy City Series",
+    "author_name": "Liz Tomforde",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Dirty Air Series",
+    "author_name": "Lauren Asher",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Carolina Coyotes",
+    "author_name": "R.C. Boldt",
+    "estimated_books": 6,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The St. Louis Falcons",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 6,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "San Jose Sting",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Firebirds",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Savannah University",
+    "author_name": "C.W. Farnsworth",
+    "estimated_books": 6,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Wait For It",
+    "author_name": "Amy Daws",
+    "estimated_books": 5,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Nashville Fury",
+    "author_name": "Carrie Aarons",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "The Boys of Fall",
+    "author_name": "Carrie Aarons",
+    "estimated_books": 5,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Southern U",
+    "author_name": "Ava Harrison",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Puck Drills & Quick Thrills",
+    "author_name": "Debra Anastasia",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Vegas Aces Hockey",
+    "author_name": "A.C. Kramer",
+    "estimated_books": 4,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Hockey God",
+    "author_name": "Stephanie Kay",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "L.A. Comets",
+    "author_name": "Ashley Munoz",
+    "estimated_books": 3,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Gloves Off",
+    "author_name": "L.P. Dover",
+    "estimated_books": 5,
+    "source_prompt": "v2_2"
+  },
+  {
+    "series_name": "Mile High (Windy City)",
+    "author_name": "Liz Tomforde",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Kingsmen Football Stars",
+    "author_name": "Piper Rayne",
+    "estimated_books": 8,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Denver Rebels",
+    "author_name": "R.C. Boldt",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The One Night Stand",
+    "author_name": "Kelly Siskind",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Harris Brothers",
+    "author_name": "Amy Daws",
+    "estimated_books": 6,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Game On (MM Hockey)",
+    "author_name": "Susan Scott Shelley",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "New York Nighthawks",
+    "author_name": "C.C. Wood",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Waiting on the Sidelines",
+    "author_name": "Ginger Scott",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Hawks Hockey",
+    "author_name": "Nicole Casey",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Cold Fury Hockey",
+    "author_name": "Sawyer Bennett",
+    "estimated_books": 15,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "L.A. Wolves",
+    "author_name": "Kelly Jamieson",
+    "estimated_books": 10,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Brooklyn Blades Hockey",
+    "author_name": "Susan Lee",
+    "estimated_books": 3,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "St. Louis Shockwaves",
+    "author_name": "Lisa Suzanne",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "Charlotte Kings",
+    "author_name": "Samantha Cook",
+    "estimated_books": 4,
+    "source_prompt": "v2_3"
+  },
+  {
+    "series_name": "The Hockey Royals",
+    "author_name": "Carrie Aarons",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Portland Icehawks",
+    "author_name": "Jami Davenport",
+    "estimated_books": 5,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Brooklyn Kings",
+    "author_name": "Catherine Wiltcher",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Seattle Thunder Hockey",
+    "author_name": "C.C. Wood",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Braden University",
+    "author_name": "Meagan Brandy",
+    "estimated_books": 6,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Texas Titans",
+    "author_name": "Samantha Whiskey",
+    "estimated_books": 5,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "The Hockey Hotties",
+    "author_name": "Piper Rayne",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Highland Grizzlies",
+    "author_name": "Kelly Jamieson",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Titans of Hockey",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Chicago Wolves",
+    "author_name": "P. D. James",
+    "estimated_books": 4,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "St. Louis Mavericks",
+    "author_name": "Kelly Gendron",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Carolina Stingers",
+    "author_name": "Kelsie Rae",
+    "estimated_books": 3,
+    "source_prompt": "v2_4"
+  },
+  {
+    "series_name": "Chicago Blaze Hockey",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 5,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Red Hot Russians",
+    "author_name": "Sara Rider",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Seattle Wolves",
+    "author_name": "Lily Wilder",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "The Kings of Rittenhouse",
+    "author_name": "C.M. Stunich",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "North Dakota Fighting Owls",
+    "author_name": "Liz Lincoln",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Easton U Hockey",
+    "author_name": "Lindsey Iler",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Callahan Sports",
+    "author_name": "Laura Pavlov",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Nebraska Falls",
+    "author_name": "Sara Ney",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Avalanche Series",
+    "author_name": "Samantha Whiskey",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Aussies Ice Hockey",
+    "author_name": "Eden Finley & Saxon James",
+    "estimated_books": 3,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Only One",
+    "author_name": "Natasha Madison",
+    "estimated_books": 8,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Hockey Daddies",
+    "author_name": "Carrie Ann Ryan",
+    "estimated_books": 4,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Puckboy",
+    "author_name": "Victoria Denault",
+    "estimated_books": 7,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Ice Cats",
+    "author_name": "Marianne G. Mancusi",
+    "estimated_books": 5,
+    "source_prompt": "v2_5"
+  },
+  {
+    "series_name": "Puffin Hockey",
+    "author_name": "Helena Hunting",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Fake Dates & Sticky Situations",
+    "author_name": "Eden Finley",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Capital Killers",
+    "author_name": "Kelly Siskind",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Vancouver Grizzlies",
+    "author_name": "S.M. Johnson",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Las Vegas Coyotes",
+    "author_name": "Kat Mizera",
+    "estimated_books": 4,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Nashville Grizzlies",
+    "author_name": "A.D. Ellis",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Houston Wild",
+    "author_name": "Jami Davenport",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Montreal Mavericks",
+    "author_name": "Scarlett Finn",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Chicago Aces",
+    "author_name": "R.C. Boldt",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Alaska Storm",
+    "author_name": "M.J. Marstens",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Portland Pythons",
+    "author_name": "Sara Hazel",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "St. Louis Slammers",
+    "author_name": "Taryn Quinn",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Green Mountain Romance",
+    "author_name": "Bella Matthews",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Detroit Players",
+    "author_name": "L.A. Casey",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Playmakers",
+    "author_name": "Maddie Wade",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Knights of the Ice",
+    "author_name": "S. Young",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Carolina Cougars",
+    "author_name": "Nicole Blanchard",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Detroit Ice",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Rebels on Ice",
+    "author_name": "Scarlett Forge",
+    "estimated_books": 3,
+    "source_prompt": "v2_6"
+  },
+  {
+    "series_name": "Jock Row",
+    "author_name": "Sara Ney",
+    "estimated_books": 6,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "S.O.B.",
+    "author_name": "Meghan Quinn",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Boys of Winter",
+    "author_name": "Lexi Ryan",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Chestnut Springs",
+    "author_name": "Elsie Silver",
+    "estimated_books": 6,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Queen's Cove",
+    "author_name": "Stephanie Archer",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Aces",
+    "author_name": "Miranda Grace",
+    "estimated_books": 5,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Dallas Devils",
+    "author_name": "Lily Wildhart",
+    "estimated_books": 5,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Kings of Hockey",
+    "author_name": "Nicole French",
+    "estimated_books": 4,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "NYC Devils",
+    "author_name": "Gina L. Maxwell",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Fight For Me",
+    "author_name": "A.L. Jackson",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Offside",
+    "author_name": "L.P. Dover",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Overtime",
+    "author_name": "Kelly Siskind",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "The Titans",
+    "author_name": "Ava Harrison",
+    "estimated_books": 3,
+    "source_prompt": "v2_7"
+  },
+  {
+    "series_name": "Philadelphia Grizzlies",
+    "author_name": "V.L. Locey",
+    "estimated_books": 10,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Locker Room",
+    "author_name": "Kelly Jamieson",
+    "estimated_books": 9,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Windy City Warriors",
+    "author_name": "M.E. Carter",
+    "estimated_books": 7,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Game On in Seattle",
+    "author_name": "Jami Davenport",
+    "estimated_books": 7,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Miami Thunder",
+    "author_name": "Cathryn Fox",
+    "estimated_books": 7,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Rage Hockey",
+    "author_name": "Samantha Whiskey",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Steel Valley Storm",
+    "author_name": "Samantha Whiskey",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Taking the Shot",
+    "author_name": "Cindi Madsen",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Dallas Devils",
+    "author_name": "Ames Mills",
+    "estimated_books": 6,
+    "source_prompt": "v2_8"
+  },
+  {
+    "series_name": "Play Hard",
+    "author_name": "Gina L. Maxwell",
+    "estimated_books": 5,
+    "source_prompt": "v2_8"
+  }
+]

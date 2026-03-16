@@ -1,0 +1,812 @@
+[
+  {
+    "series_name": "SEAL of Protection: Legacy",
+    "author_name": "Susan Stoker",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Mountain Mercenaries",
+    "author_name": "Susan Stoker",
+    "estimated_books": 8,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Hostile Operations Team (H.O.T.)",
+    "author_name": "J.M. Madden",
+    "estimated_books": 19,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "USAF Pararescue Jumpers",
+    "author_name": "Megan Erikson",
+    "estimated_books": 8,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "SEALs of Honor",
+    "author_name": "Dale Mayer",
+    "estimated_books": 40,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Brotherhood of Steel",
+    "author_name": "Elle James",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Dark Ops",
+    "author_name": "Elle James",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Crisis & Control",
+    "author_name": "Lynn Raye Harris",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Evidence",
+    "author_name": "Rachel Grant",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Bagram Special Ops",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Titan",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 9,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Hostage Rescue Team",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 8,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Veterans' Affairs",
+    "author_name": "Mona Risk",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "SEALs on Tour",
+    "author_name": "Tessa Layne",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Alpha Elite Security",
+    "author_name": "Britney Bell",
+    "estimated_books": 7,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Valor On Duty",
+    "author_name": "Anna Hackett",
+    "estimated_books": 4,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Navy SEALs of Valor",
+    "author_name": "Sharon Hamilton",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Deadly Ops",
+    "author_name": "Katie Reus",
+    "estimated_books": 10,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Honor",
+    "author_name": "K.L. Stone",
+    "estimated_books": 6,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Shadow Company",
+    "author_name": "Alexis Winter",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "Black Dawn",
+    "author_name": "Angelica Dawson",
+    "estimated_books": 5,
+    "source_prompt": 1
+  },
+  {
+    "series_name": "SEAL Team Echo",
+    "author_name": "M.L. Rodriguez",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Texas K-9 Unit",
+    "author_name": "Nicole Helm",
+    "estimated_books": 12,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Navy SEALs of Coronado",
+    "author_name": "Cora Seton",
+    "estimated_books": 9,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "SEALs of Steele",
+    "author_name": "Lynn Raye Harris",
+    "estimated_books": 8,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Black Eagle Ops",
+    "author_name": "Zoe Dawson",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Alpha Team",
+    "author_name": "KaLyn Nicholson",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "SEALs of Protection",
+    "author_name": "Sharon Hamilton",
+    "estimated_books": 30,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "West Coast Navy SEALs",
+    "author_name": "Anne Elizabeth",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Alaska Wild",
+    "author_name": "Kat Mizera",
+    "estimated_books": 8,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "SEAL Team Tier 1",
+    "author_name": "Lena Bourne",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Protecting the Protectors",
+    "author_name": "Megan Mitcham",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Evidence Series",
+    "author_name": "Rachel Grant",
+    "estimated_books": 8,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "St. Louis Silencers",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Brotherhood of the Bullet",
+    "author_name": "Elle James",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Wounded Warrior Series",
+    "author_name": "Misty Evans",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "K-9 Search & Rescue",
+    "author_name": "Jeanne St. James",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "SEALed with a Kiss",
+    "author_name": "Susan Stokley",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Protecting Their Own",
+    "author_name": "Kennedy Layne",
+    "estimated_books": 10,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Navy SEAL Romance series",
+    "author_name": "Lynn Crush",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Steele Ridge",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 15,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "SEALs of Summer",
+    "author_name": "Amy Jarecki",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "SEALs of Silver Creek",
+    "author_name": "Savannah Rylan",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Combat Hearts",
+    "author_name": "Parker Kincade",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Black Knights Inc.",
+    "author_name": "Janice Whiteaker",
+    "estimated_books": 7,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Redemption Harbor",
+    "author_name": "Katie Reus",
+    "estimated_books": 6,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Heroes of Providence Creek",
+    "author_name": "Claire Adams",
+    "estimated_books": 4,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Alpha SEALs",
+    "author_name": "Anna Blakely",
+    "estimated_books": 5,
+    "source_prompt": 2
+  },
+  {
+    "series_name": "Stealth Ops",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 15,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Falcon Falls Security",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 12,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Savage Ops",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL Team Hawaii",
+    "author_name": "Riley Edwards",
+    "estimated_books": 15,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Bulletproof",
+    "author_name": "Riley Edwards",
+    "estimated_books": 12,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL of My Own",
+    "author_name": "Riley Edwards",
+    "estimated_books": 8,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL of Protection",
+    "author_name": "Susan Stoker",
+    "estimated_books": 30,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Titan Group",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 12,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Brimstone Security",
+    "author_name": "Kaylea Cross",
+    "estimated_books": 8,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Hostile Operations Team (HOT)",
+    "author_name": "Lynn Raye Harris",
+    "estimated_books": 25,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Soldiers of Fortune",
+    "author_name": "J.M. Madden",
+    "estimated_books": 10,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEALs of Coronado",
+    "author_name": "Paige Tyler",
+    "estimated_books": 15,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL Brotherhood",
+    "author_name": "Sharon Hamilton",
+    "estimated_books": 40,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "K9's in the Night",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 10,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Elite Ops",
+    "author_name": "Jenna Wolfhart",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Blackwood Security",
+    "author_name": "K.C. Cross",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Warrior Fight Club",
+    "author_name": "Laura Kaye",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Sins Brothers",
+    "author_name": "Rebecca Zanetti",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Outcasts",
+    "author_name": "Elle Kennedy & Sarina Bowen",
+    "estimated_books": 3,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Vigilante Justice",
+    "author_name": "Anna Hackett",
+    "estimated_books": 7,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL Team: Black Ops",
+    "author_name": "Tonya Brooks",
+    "estimated_books": 5,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Shadow SEALs",
+    "author_name": "Alexis Winter",
+    "estimated_books": 8,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Alpha Ops",
+    "author_name": "Jen Talty",
+    "estimated_books": 6,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "Protector's Edge",
+    "author_name": "Maddison Cole",
+    "estimated_books": 4,
+    "source_prompt": 3
+  },
+  {
+    "series_name": "SEAL of Protection Series",
+    "author_name": "Susan Stoker",
+    "estimated_books": 22,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Badge of Courage",
+    "author_name": "Susan Stoker",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Steele Shadows Security",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Alpha Ops",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 8,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Blackstone Security",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 13,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Seal Team 12",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "The Lost and Found Series",
+    "author_name": "J.M. Madden",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Black Ops Heroes",
+    "author_name": "J.M. Madden",
+    "estimated_books": 8,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Alpha Team",
+    "author_name": "Riley Edwards",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Phoenix Shadow Security",
+    "author_name": "Riley Edwards",
+    "estimated_books": 7,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Hot SEALs",
+    "author_name": "Sharon Hamilton",
+    "estimated_books": 21,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Navy SEALs of Coronado",
+    "author_name": "Sharon Hamilton",
+    "estimated_books": 15,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Hot SEAL Team",
+    "author_name": "Jessika Klide",
+    "estimated_books": 10,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Battle Scars",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "SEAL Team Tango",
+    "author_name": "M.L. Stein",
+    "estimated_books": 8,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Vigilance",
+    "author_name": "Anna Leigh",
+    "estimated_books": 7,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Lost and Found Inc.",
+    "author_name": "Kira Archer",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Four Kings Security",
+    "author_name": "K.M. Neuhold",
+    "estimated_books": 4,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "K-9 Hero Series",
+    "author_name": "Cara Connelly",
+    "estimated_books": 7,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "SEAL Team Seven",
+    "author_name": "Anna Antonia",
+    "estimated_books": 8,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Elite Warriors",
+    "author_name": "Kristy Centeno",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Deep Six Series",
+    "author_name": "Kim Fox",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Alpha Platoon",
+    "author_name": "Kaylie Hunter",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Scimitar Series",
+    "author_name": "Tina Folsom",
+    "estimated_books": 6,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Black Hawk Security",
+    "author_name": "Kat Mizera",
+    "estimated_books": 5,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "SEALs of Honor",
+    "author_name": "Amy Jarecki",
+    "estimated_books": 13,
+    "source_prompt": 4
+  },
+  {
+    "series_name": "Badge of Honor: Texas Heroes",
+    "author_name": "Susan Stoker",
+    "estimated_books": 12,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Defending the Line",
+    "author_name": "Susan Stoker",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Steel Knights MC",
+    "author_name": "Susan Stoker",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Special Ops: Homefront",
+    "author_name": "Susan Stoker",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Protect & Serve",
+    "author_name": "Riley Edwards",
+    "estimated_books": 6,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Echo Platoon",
+    "author_name": "Riley Edwards",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Brotherhood of the Black Eagle",
+    "author_name": "Elle James",
+    "estimated_books": 8,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Navy SEALs of San Diego",
+    "author_name": "Elle James",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Black Ops: Heroes of the Night",
+    "author_name": "J.M. Madden",
+    "estimated_books": 10,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Seal Team 7",
+    "author_name": "J.M. Madden",
+    "estimated_books": 9,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Devil's Due",
+    "author_name": "J.M. Madden",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Sacred Hearts MC",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Elite Warriors",
+    "author_name": "Brittany Elise",
+    "estimated_books": 7,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Dangerous Love",
+    "author_name": "Brittany Elise",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Shadows of Doubt",
+    "author_name": "R.M. Gilmore",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Blackwing Security",
+    "author_name": "Jessie Evans",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "SEAL Team Tango",
+    "author_name": "Cindy Skaggs",
+    "estimated_books": 5,
+    "source_prompt": 5
+  },
+  {
+    "series_name": "Stealth Guardians",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 12,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Lethal Protectants",
+    "author_name": "Brittney Sahin",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "SEAL Team 3",
+    "author_name": "Riley Edwards",
+    "estimated_books": 10,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Team 5",
+    "author_name": "Anna Hackett",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Elite Ops",
+    "author_name": "P.T. Michelle",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Armed & Dangerous",
+    "author_name": "L.P. Dover",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "King Cobra Security",
+    "author_name": "Brenda Rothert",
+    "estimated_books": 3,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "SEALs of Coronado",
+    "author_name": "Elle James",
+    "estimated_books": 12,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Black Cobra Series",
+    "author_name": "Kris Michaels",
+    "estimated_books": 10,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Dark Ops",
+    "author_name": "K.B. Winters",
+    "estimated_books": 8,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "SEAL Team Romeo",
+    "author_name": "Maren Murad",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Navy SEALs of San Diego",
+    "author_name": "Sharon Hamilton",
+    "estimated_books": 15,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "S.E.R.E.s",
+    "author_name": "Lexi Blake",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Whiskey and Lies",
+    "author_name": "Carrie Ann Ryan",
+    "estimated_books": 5,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "The Survivalist",
+    "author_name": "Jessica Gadziala",
+    "estimated_books": 6,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "I Like Big",
+    "author_name": "Lani Lynn Vale",
+    "estimated_books": 10,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Kings of Corruption",
+    "author_name": "Krista Wolf",
+    "estimated_books": 7,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Blackridge Security",
+    "author_name": "Roxie Rivera",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "Blackbridge Security",
+    "author_name": "Kylie Kent",
+    "estimated_books": 4,
+    "source_prompt": 6
+  },
+  {
+    "series_name": "SEAL of My Own",
+    "author_name": "Maryann Jordan",
+    "estimated_books": 15,
+    "source_prompt": 6
+  }
+]
