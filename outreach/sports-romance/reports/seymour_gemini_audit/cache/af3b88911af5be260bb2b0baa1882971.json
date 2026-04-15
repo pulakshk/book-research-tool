@@ -1,0 +1,267 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UIA-0K8Cgp1JQuvcAC873VlGE4lE5wILXhX6KPYUos8Yyl9SABb9w2Y9zPublVwJ9MkhUwErxsxR3Dar_MWhZcgIV1kiMCS8gtskShKc2JVdCA9ClGOFSi_dslUChZYH0vYzYHC0308Q\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"small town romance\",\n      \"print_publisher_or_imprint\": \"Umbrella Publishing Inc.\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\",\n      \"rbmedia_evidence_note\": \"The Landry Family Series, Part 1 (Books 1-3) and Sweet (Book 6) are available on Audible.\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSD269-mtKlCXlHe4egN4w0u8wPlIbh_QbEOIdZY8UCwUe-Hqcs8BjsYci7Z1FRGIPv9R3YuqwcGiuvauBpoO8cUt_IDDVAlde1MLk9xdfkVTsonFJq0jQviHpcdAsOrsUeAb47htBFOt4Pc=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\"\n      ],\n      \"confidence_notes\": \"Goodreads and Audible were used to gather information about the series.\"\n    },\n    {\n      \"series_name\": \"Carmichael Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Flirt\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.25,\n      \"first_book_goodreads_rating_count\": 13944,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"fake relationship\",\n      \"print_publisher_or_imprint\": \"Unknown\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana%20Locke\",\n      \"rbmedia_evidence_note\": \"Adriana Locke has multiple audiobooks distributed through Audible.\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx\"\n      ],\n      \"confidence_notes\": \"Goodreads and Audible were used to gather information about the series.\"\n    },\n    {\n      \"series_name\": \"Brewer Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Proposal\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.17,\n      \"first_book_goodreads_rating_count\": 14896,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"marriage of convenience\",\n      \"print_publisher_or_imprint\": \"Unknown\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana%20Locke\",\n      \"rbmedia_evidence_note\": \"Adriana Locke has multiple audiobooks distributed through Audible.\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=\"\n      ],\n      \"confidence_notes\": \"Goodreads and Audible were used to gather information about the series.\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"The Gibson Boys\",\n      \"reason_excluded\": \"Less than 5 primary works.\"\n    },\n    {\n      \"series_name\": \"Dogwood Lane\",\n      \"reason_excluded\": \"Less than 5 primary works.\"\n    },\n    {\n      \"series_name\": \"Mason Family\",\n      \"reason_excluded\": \"Less than 5 primary works.\"\n    },\n    {\n      \"series_name\": \"Play Me\",\n      \"reason_excluded\": \"Less than 5 primary works.\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana%20Locke\",\n  \"author_level_rbmedia_note\": \"Adriana Locke has multiple audiobooks distributed through Audible.\"\n}\n```"
+          },
+          {
+            "text": "\nHere's the series-level audit for author Adriana Locke:\n\n"
+          },
+          {
+            "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UIA-0K8Cgp1JQuvcAC873VlGE4lE5wILXhX6KPYUos8Yyl9SABb9w2Y9zPublVwJ9MkhUwErxsxR3Dar_MWhZcgIV1kiMCS8gtskShKc2JVdCA9ClGOFSi_dslUChZYH0vYzYHC0308Q\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"small town romance\",\n      \"print_publisher_or_imprint\": \"Umbrella Publishing Inc.\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\",\n      \"rbmedia_evidence_note\": \"The Landry Family Series, Part 1 (Books 1-3) and Sweet (Book 6) are available on Audible.\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSD269-mtKlCXlHe4egN4w0u8wPlIbh_QbEOIdZY8UCwUe-Hqcs8BjsYci7Z1FRGIPv9R3YuqwcGiuvauBpoO8cUt_IDDVAlde1MLk9xdfkVTsonFJq0jQviHpcdAsOrsUeAb47htBFOt4Pc=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2"
+          },
+          {
+            "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UIA-0K8Cgp1JQuvcAC873VlGE4lE5wILXhX6KPYUos8Yyl9SABb9w2Y9zPublVwJ9MkhUwErxsxR3Dar_MWhZcgIV1kiMCS8gtskShKc2JVdCA9ClGOFSi_dslUChZYH0vYzYHC0308Q\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"small town romance\",\n      \"print_publisher_or_imprint\": \"Umbrella Publishing Inc.\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\",\n      \"rbmedia_evidence_note\": \"The Landry Family Series, Part 1 (Books 1-3) and Sweet (Book 6) are available on Audible [cite:17].\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSD269-mtKlCXlHe4egN4w0u8wPlIbh_QbEOIdZY8UCwUe-Hqcs8BjsYci7Z1FRGIPv9R3YuqwcGiuvauBpoO8cUt_IDDVAlde1MLk9xdfkVTsonFJq0jQviHpcdAsOrsUeAb47htBFOt4Pc=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "MAX_TOKENS",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-P-9CIbNk7SkefT1fspbAFOnIJxM3L3z7N8stfMg4CgsNcBXEy7MM89rPbHJw1I7Vipc2Uk3-_ILNONGmXxtGkAYZ-ftjUSq_Rb9xknO_KW8G8R93azA5_cG2fduA00ttU7Ti34MIS3gwtY316Q4KzhCIHGgwoYlL1ltm_BU9_aHxIT8PZTke10sQABjAOIDnhvcf5Uea0SK1IC4YZp-rw5BOTQ0n9mfFNFkx\">Adriana Locke Landry Family series RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgEb4-9ENT5skAtWzTKzngWXxE7P79hX1_2t4tA6QdPhCl75jQ6V8d81PM79Gcrj3tIzz9VHUffzWfzRtZWEzJoSE6fsKckvYJqse7GhojG5eD2dU4iWk2_7N1GfkI9Aw3w3j3mHX_uldes3Ocpo7aPs_GesnrOTJ3KgAomzf0yp9UzfevAI1Yt_ae9-Go8xlJOJ3zj7A9b4x6KvbxG0Sp12XA-Ihyhx-skrrxPHuT\">Adriana Locke Callihan Story series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe7N5BTC9NuxPv4L4E3yP9I3xdpWLb8RH7g3GnfgWaM2PloX0cAKW7U4Rkbd8w43wMuEDIrsKPUTApb3H6VQaiYNevfpb6Rs8zXP28tvkJZyOa79Pa30QC6Bl8c9DV5Vi1SmF-O4CUZjIUxzp6L0c-0IXBYOJCm-S9cdVoVlbOwGMgLkZHVRkpe1YTxX4sKM_gBKHExaJ-3wYtORGevWpL\">Adriana Locke Goodreads series</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDAA6cgWk2sfJt8f6QPI-OFzJ63W_0io3-S5pc38gIyUzERpn3UKeK5KjdAiiWu6ox3TLzIsDlMIgKkNscAj6gICVXNFD4o1FiPIlZ4h_ifXnno3X75uCha0-WCkJ0eGkA8Z62YQoKgGa_JN72yE5s1yyu2-4zwKTnXJfrpMVZSMCH_vK4uWbsXZBDQLYPU2R_j5rTzNCiCK45JLOnMKTh_o=\">Adriana Locke The Seymour Agency</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR7VUJDI70EyD3Q--T9yWqDfiJKxkZxz4L_7kNOKiZOe1Q9uj0LkrTUy-H0EruLjTF2oljTZ8dk9DwKHoSPF5JR2y5YmUGWLe1tpEMKZncvR4wqJ_P80HKa6T0EUqBu29kszMldMixX8Mnpl_8rkClsC5gFV2o9NO4e2pH-ewwDb7feM32xr19p27COQVfxGNiBOEzKLVX\">Adriana Locke RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLQ0fLo9zy1tICPuolbBqhvyujVVNcPwKSxatNT-dbwQdQVt8G_97diloS_JBz5QSyvu_hIsQMPlXm_cWr1yNmy4oTdC9cLCQ8E9u0sODRpEWFTPTQJLvGNGM1-lAWgyCFzfHkj38N8eQ_JDDZPAkW7pkiSwTdtQCzohcDcQCCZmJqVDY6iZroa69BdN6dqGjP450yTmOPcFuWZP_n041FwrwEVI1fP_EW4SRttA==\">Adriana Locke Callihan Story series RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDVFDF_sRi_KzSnpOjKji895TIUQBqFanz9mOz9zdQtFVFB1EkaxdUdQyNLnxxyLqFxV8SQKv9rn0-2DCACPyl2vJieHPOTtqP6qo9Uf5eV9KyH_fMH9gFQvDgEfoz-428PsA3ies6fGymJXgzoIBQx6aXkvVzwgr8oILqNjLYh3Wy88FmXgSsHBdOjMkZa_lAVObFZ13kSu6zYgJEt-jfdpwwof8pY2PlG2qwfm4=\">Adriana Locke Landry Family series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIT4xZXHeTaE-opng3se98SLmM-AKN3yFavR5cWbhR0tJGRF8OL7gdIj0EXUSdDnWMYTg-9xmO1m6mKqBbKl69uHRYxPCunEN6ZBfBzqZ39TF-4SQJcmAu7iri_miahtO2u15E34dMK9MF9vzjLDBagBzpybjHN4wA_MpnsDQp4Wux0XPM1uhw4JBMiwW8u0H66ZOuLHiwN0GLp52qiJXYGG-zwmtO5fd6-4rH_w==\">Adriana Locke Finding Anna series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK8wE_w6u6MCdc6w9s3w7hbGRRf_ZQZqoLsBjeqcyuakwkPwCgLfUpxiRalXlygM0J5Og9FQIx1TWf01jWvlgMzq2NJxEAcM01KfJPn55GYifN4PZ2ei2LyPXFpP2NfcMJNfI1caUPlVbGY4vnPVNExw0dFK7MaP2iBAuk_7PRmWMbsJ0wH_wNO2M6honzt8fc3A070L-4n4TIdHySniisDprgzTMG3eU1oGk=\">Adriana Locke Finding Anna series RBmedia</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==",
+              "title": "audible.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAQzfty7FVW8t_9SYsEDMRTmLHGqS4E-PHoY4t8Pd4G7i28JoKE7eVZyIgh4iIKj8eKqsYFr93Gfg0k-gJXEQ1EB8NJ9Kv4Vvv6gh_CQXiSRk79tigU6T9gatqVeixG-uCOdelG3pCtjS0JwJonRNO6w==",
+              "title": "audible.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESzhwEodo_yba43YNAyC36_AYS0fujxZs3gCeoQayu3PLmP1xOdcvCQvZEuIlV_qBlqC8BFY3DrY3sil9L-qz2C6DQiyrO0z5GEJsUQ30CVRDq69RxRwBH8pWXM-fjmMSMSaEI1piPuJixbhiAjCm8sBYNj0EsnJ0=",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn1_58MJy5J0h8c4SLamvEScc9U5GCd-VebWWDvrkFlTvldPTEP_NJwiGWHjdFtwlmFTvDXmhVL6oZqYpPmn4lMpXlK-oo27mKbX4eSie82zlQp4PoPgghAU_Q4horyRjXHfDOPSqMfMtjzA==",
+              "title": "fantasticfiction.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "endIndex": 1790,
+              "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UIA-0K8Cgp1JQuvcAC873VlGE4lE5wILXhX6KPYUos8Yyl9SABb9w2Y9zPublVwJ9MkhUwErxsxR3Dar_MWhZcgIV1kiMCS8gtskShKc2JVdCA9ClGOFSi_dslUChZYH0vYzYHC0308Q\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"small town romance\",\n      \"print_publisher_or_imprint\": \"Umbrella Publishing Inc.\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\",\n      \"rbmedia_evidence_note\": \"The Landry Family Series, Part 1 (Books 1-3) and Sweet (Book 6) are available on Audible"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1791,
+              "endIndex": 2636,
+              "text": "\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSD269-mtKlCXlHe4egN4w0u8wPlIbh_QbEOIdZY8UCwUe-Hqcs8BjsYci7Z1FRGIPv9R3YuqwcGiuvauBpoO8cUt_IDDVAlde1MLk9xdfkVTsonFJq0jQviHpcdAsOrsUeAb47htBFOt4Pc=\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\"\n      ],\n      \"confidence_notes\": \"Goodreads and Audible were used to gather information about the series"
+            },
+            "groundingChunkIndices": [
+              1,
+              0
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2636,
+              "endIndex": 3872,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Carmichael Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Flirt\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.25,\n      \"first_book_goodreads_rating_count\": 13944,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"fake relationship\",\n      \"print_publisher_or_imprint\": \"Unknown\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana%20Locke\",\n      \"rbmedia_evidence_note\": \"Adriana Locke has multiple audiobooks distributed through Audible"
+            },
+            "groundingChunkIndices": [
+              2
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3873,
+              "endIndex": 4240,
+              "text": "\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx\"\n      ],\n      \"confidence_notes\": \"Goodreads and Audible were used to gather information about the series"
+            },
+            "groundingChunkIndices": [
+              3,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4240,
+              "endIndex": 5481,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Brewer Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Proposal\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.17,\n      \"first_book_goodreads_rating_count\": 14896,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"marriage of convenience\",\n      \"print_publisher_or_imprint\": \"Unknown\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana%20Locke\",\n      \"rbmedia_evidence_note\": \"Adriana Locke has multiple audiobooks distributed through Audible"
+            },
+            "groundingChunkIndices": [
+              2
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 5482,
+              "endIndex": 5845,
+              "text": "\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=\"\n      ],\n      \"confidence_notes\": \"Goodreads and Audible were used to gather information about the series"
+            },
+            "groundingChunkIndices": [
+              4,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 5845,
+              "endIndex": 5987,
+              "text": ".\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"The Gibson Boys\",\n      \"reason_excluded\": \"Less than 5 primary works"
+            },
+            "groundingChunkIndices": [
+              5
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 5987,
+              "endIndex": 6091,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Dogwood Lane\",\n      \"reason_excluded\": \"Less than 5 primary works"
+            },
+            "groundingChunkIndices": [
+              5
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 6091,
+              "endIndex": 6195,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Mason Family\",\n      \"reason_excluded\": \"Less than 5 primary works"
+            },
+            "groundingChunkIndices": [
+              5
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 6195,
+              "endIndex": 6294,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Play Me\",\n      \"reason_excluded\": \"Less than 5 primary works"
+            },
+            "groundingChunkIndices": [
+              6
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 6294,
+              "endIndex": 6498,
+              "text": ".\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana%20Locke\",\n  \"author_level_rbmedia_note\": \"Adriana Locke has multiple audiobooks distributed through Audible"
+            },
+            "groundingChunkIndices": [
+              2
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 6564,
+              "endIndex": 8354,
+              "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UIA-0K8Cgp1JQuvcAC873VlGE4lE5wILXhX6KPYUos8Yyl9SABb9w2Y9zPublVwJ9MkhUwErxsxR3Dar_MWhZcgIV1kiMCS8gtskShKc2JVdCA9ClGOFSi_dslUChZYH0vYzYHC0308Q\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"contemporary romance\",\n      \"primary_trope\": \"small town romance\",\n      \"print_publisher_or_imprint\": \"Umbrella Publishing Inc.\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==\",\n      \"rbmedia_evidence_note\": \"The Landry Family Series, Part 1 (Books 1-3) and Sweet (Book 6) are available on Audible"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "Adriana Locke The Seymour Agency",
+          "Adriana Locke Goodreads series",
+          "Adriana Locke RBmedia",
+          "Adriana Locke Callihan Story series Goodreads",
+          "Adriana Locke Landry Family series Goodreads",
+          "Adriana Locke Finding Anna series Goodreads",
+          "Adriana Locke Callihan Story series RBmedia",
+          "Adriana Locke Landry Family series RBmedia",
+          "Adriana Locke Finding Anna series RBmedia"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 753,
+    "candidatesTokenCount": 5183,
+    "totalTokenCount": 5936,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 753
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5183
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "enTeaYeiPN6rjuMP-ubkyQo"
+}

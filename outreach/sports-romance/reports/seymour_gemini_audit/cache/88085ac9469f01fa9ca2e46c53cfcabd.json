@@ -1,0 +1,126 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://www.theseymouragency.com/vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFPh593SUoczdal62kIS7i6qbi8Wwr4CaT-nZ_cAkTN0W0UkRI7KVkIQ5jov06XCm4Ot4yF41sBiELYZKWPfvbNsk0WZ_XmuJ-VhxDJS_983SVEfDF9ifk5aIGkHj9TmmP550XsuG9LhdYPw==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/194024-landry-family\",\n      \"primary_works\": 6,\n      \"total_books\": 8,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia.\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    },\n    {\n      \"series_name\": \"Carmichael Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/323195-carmichael-family\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Flirt\",\n      \"first_book_goodreads_rating\": 4.25,\n      \"first_book_goodreads_rating_count\": 13944,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Fake Relationship\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia.\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    },\n    {\n      \"series_name\": \"Brewer Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/342108-brewer-family\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Proposal\",\n      \"first_book_goodreads_rating\": 4.17,\n      \"first_book_goodreads_rating_count\": 14896,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Marriage of Convenience\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia.\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    },\n    {\n      \"series_name\": \"Mason Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/299724-mason-family\",\n      \"primary_works\": 5,\n      \"total_books\": 7,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Restraint\",\n      \"first_book_goodreads_rating\": 4.3,\n      \"first_book_goodreads_rating_count\": 9424,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Mason Family Series audiobooks available.\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiVlppSILB_NjGUbVteIbQaFmvV09Kx2iMKaqvk3h456feAyFZ3KHjoIb9g-V-0r9l2ZwGGHkIISE0racTOEYRC4BD3OsqviqkIqtqZz5qKYMY3gICUssI3E_ddDYn722gaoxEgK_OX4WcomdD87dBWgsJWZ8kTyY7DkTMrDI25qN59jj7CeOy-gY6J8sVSJ9bK7-ORLVTWuDZhA==\">Adriana Locke Dreamscape</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTiVUMjFZDz__XGhvF_8ASFuuRXiQ9v9FvPV7Rz-NWuX7tx1egv1sU7pnnlofKl1COWMCyS5L1ncz-_CjlnA8OIQSx4YbJJl0COxfavDQM9WkCc3or2weaAjvreTjI3bVGBvPlbkfclRtYVuri216YNESiS-cW0fjtYAjO5NyxWwwZ3kJpRnvya5I4F-YNBB7kb8Y4Iyuxgw==\">Adriana Locke RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjr6HRJ90MzH73Re3vJWZWBAmxlO7wyOPMVCPZ3ZXItBK2jcRyjpcCW6Zw4xdTXi8cjz3LxRhyLRYlD3R8QoOkw4FAwNaZs1UQA1SPwJLsyGaLKLL_qErCOIzAhd2-SuGJEkMOu_m3hbhmr-oH_hhB7KONktXQjtdDl_yyIXGgv9OYSN-bDOGZTduVPFxfioMCzenEobNEbhAV6a_CPaBK\">Adriana Locke Christian Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdKojTqRLEoJ5WoXII6Or8d7Ld_XrEJU6KfrPZzwdue8MV9blUYsfGAx2tyrZ1rjZtrYEpVkmftBbyxhpg82q9eUXuYCIAd3cKXghHcDYBCybTi0yavAuoOlFhHJel0zDVd3UeOXbWXVmqvqimKMrU6gY7LQMJqt12b-pfdqW3CoMKqNHFtUC-Q8yv6002DpoCtxjR30MFgpXNERzd\">Adriana Locke GraphicAudio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGugUkm599NpbZ6BKMGdnxWdRRcCCB3qekIBt_2t0UQJXpNb6be7jVACac2tGdTc0ezyLm7B4SNl5ZzNnYo_4lNXUG-ewYw84BrMrSGcYAukcQdY5vRsae_GQOnhsnbVU-tFqx1BwYTnM-D7eRLxI2niDdmvkK-dii1l78bqMPG0jsuf6O7Fhgk6HEvoD-6DEsJ-wI7eHXBfKe4\">Adriana Locke Wavesound</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9VRScJr-dJByqm_gFdQcbZwAUI-Sv6JPJoGyD_kVNI5yOZctuV5TUnxGVZ3x0kAKldbWOflGkSmcuFSrfyxnyG67YaC1rJQCIrZCS4StwUvcWB3dTeAzkgI_uIxt0T9tk0ZEFaHizLDVTo19IYll1G0gdrBWKA-xuTP-o4q-96wdgKmeWMcl3rHLADMQRO3fu--mgHA-Mia5fbcs=\">Adriana Locke W. F. Howes</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-UnbuPJiyb4ohNqmLA3uktm9r6DQPLW-UtPwsDRKP6HZvpU0jSQh2Z6v_OSTLZ9ge3UueQIeH0BX86vQ9ZVxRjjeXreX3GRuRZN-RaOiEY2sYTtZKAEInEM-Iv2mgC1yklZNJdweUvi9ioDbaOnOHPsUaz6AH2YxA20xIcaUjcSWRXmIjEBsC7Y-2-fQnX-w-tTb6liTxXYZBbNMgY2g=\">Adriana Locke Kalorama Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShHMWZY3NJraGfApUcGcSe-l4NcFSk3q1bPh3hZ2XWdJhT9jOu09hXhd5NyCBf5n3A6yCfVB_bDbWmz8Dd-7Npanj_bDHHx6_P6KXMb2qWJlHPzNLFwIYAKqEdpS3l2HgqSjuMENoNmL4q-Mp0rX5j-oaBDh8pSLQX6DGILFJqp8Btev9LlZQb3kQHgz6Wabj8yawrqSDgu7ksA==\">Adriana Locke HighBridge</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvsl9DpQlxGqVn6g_Z68wivw5bE9gl3mchMDCAgkXpClKTAABMYGYnOTdK1aj91v-xWepBid48tvZM7EMZf3mx43i40dPoSCCxj6YSb68ASGoxx-qswGrLVupaQCUKxW8Uc-jO0PfkMqOvQSl0lUYy78pNftmr0wBiwDROaulFlt3JHC4Xav4vZHaJQnQLJT3H-Q5lDRU8czDD0PUpgGPTa9cCOwfQt-0zjP2tsQ-K8PIr3XcYn0ueKHy3WYYVzfBgoVZrVTA=\">Adriana Locke Goodreads series romance drama &gt;=5 primary works</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7gUcdsOXmn6IT4xCugFbh7Qx_r6vXDORjLk1JZDmt3UvZ2M6tylRty84vh2xIJakibQuWWKmONDlQSr6DhHhxdaOxxRjdxKYzYpM2kRVOV01AT3U6TCiJFNBtQB42gole9FjxEsmeWXZn6qC9ir26Z-o0f9y2m4WZ7VzNefqrpXUy4Exrp4vFlVm-ilNvx5XPDRubKLXKRxAtZ1tZsCWsVT3p\">Adriana Locke The Seymour Agency</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEJe92A9-vm8dYFz6DQ5Dcw8scIHJmkgObXt6PKSakeSGX2nUX1XeNMhUzw_3Ia2vBW-7GuouxGW70tyE2O7DEcEDfe_a6vC6c1c1KJClmDjgwJAJG0d3sr8ndr7D4rIX-5yxnPp7gGZBs9nutG3_CTeg71gO7UpyfeEvlGu3OFuCvqR6YIFeH6rroRrsYXYGw-CF7bsd5Qpz5JTP3rBE=\">Adriana Locke Recorded Books</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8nMTXTsuFubZUue4u6tBgoxSeEckbdNNnJ4GUsnNvGBXcfIZVSZOjYN1vF-A0fpxz0VF4d2gbxl5mzFc9iTPhPPW1te338UEo9xEcJU8x79UvvpVUJrz2W8rz8ov89DgIXxYvsp6YSuZqRVv0pXCnrQ3fAXiU6GcoV_2YshTUyp40FIJIUmRUh-R7C1qEaWBj_Zqf6bsk\">Adriana Locke Tantor</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE_PthXnvl02RLg7NE7mHYARkZDb_xRaQp6_64x-5AueFnlSKWVjy-g3vsdHt5L7F39Y8V0Uf72Eu5YEjwYFRUt8ZtfzE8C-UFiGpPXhtQoIyfQ4Dn_-0Sl6loYtRDtqCEO4uykMUikF9r168ee_zNvmzhk1zr25i3ue5YkrUjsHt9jlbpeHg_vPzuOkOMpdPWR2ekEDcqAZTScgEvPwXdBKtNMw==\">Adriana Locke author page RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6pg7Axq5ahmUzLPur16mH4Sk041vtivcKTwuBOqgq2vwVI7KknOiJO6fGmq0Ocj11mDY-VI4myM3rV59eAp_WNhzTHovd3nUhhz6cf5zCNYlAJzM3HXm_SipFiueNONGRcjBXvqNhMWH1wu0lnJb5Bs1ApndbBqyDo1LW6KIm1XabjmENQfVWWYMsf3hqdwxU56AEqq1Ke8Bhngg0\">Adriana Locke Ascent Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnxpH3vDhfPxmDUuwzQ0hOnUUyEz4TeDGzSBZlfJmFn8Nn_B_5YS9x9fr4QKR54RnG90TkpB3XKcPN6SbY2HojOy3Bq9wUylkwk4Hbu5cBpjPqpcUf7PMoOuShq9A5lB-m9Bh9_VNpbhp_7xl4PJHW3vKOqFjv21G2D05CUlZMal49ivjPkczHmZm004Uxote_oNhYeb5C5m20\">Adriana Locke BookaVivo</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbnLpQlPQAEsXvG1dEVDOm6BmTBDq_fI_zEl7pTUuSqYrhfdJCu4xoHDEUw6dnafIi5F5w__J2BBzfviGlKqJJLq87lUNAO6jWbBHtLug1dfcYWNlPWkeDHUZr0gmJ0z38otdKhpPemS9TlvdZBqwljr8=",
+              "title": "audible.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFffUtxqmW3zE5GU2dmBq7EBgV0j9Tobc8er4axMza38k5k8IEHwN_1lwwO226ufFQl7maMMSIdKkBpicLqHUYloQcyNHZ7tB4Vi1U0vkSNizIygfuqLz0RXHEezjC3ISR5CVtnYG1WzdiqVMI3",
+              "title": "adrianalockeshop.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "endIndex": 1103,
+              "text": "```json\n{\n  \"author_name\": \"Adriana Locke\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://www.theseymouragency.com/vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFPh593SUoczdal62kIS7i6qbi8Wwr4CaT-nZ_cAkTN0W0UkRI7KVkIQ5jov06XCm4Ot4yF41sBiELYZKWPfvbNsk0WZ_XmuJ-VhxDJS_983SVEfDF9ifk5aIGkHj9TmmP550XsuG9LhdYPw==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Landry Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/194024-landry-family\",\n      \"primary_works\": 6,\n      \"total_books\": 8,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Sway\",\n      \"first_book_goodreads_rating\": 4.15,\n      \"first_book_goodreads_rating_count\": 15065,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1104,
+              "endIndex": 1942,
+              "text": "\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    },\n    {\n      \"series_name\": \"Carmichael Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/323195-carmichael-family\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Flirt\",\n      \"first_book_goodreads_rating\": 4.25,\n      \"first_book_goodreads_rating_count\": 13944,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Fake Relationship\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1943,
+              "endIndex": 2786,
+              "text": "\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    },\n    {\n      \"series_name\": \"Brewer Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/342108-brewer-family\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Proposal\",\n      \"first_book_goodreads_rating\": 4.17,\n      \"first_book_goodreads_rating_count\": 14896,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Marriage of Convenience\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2787,
+              "endIndex": 3605,
+              "text": "\",\n      \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\"\n    },\n    {\n      \"series_name\": \"Mason Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/299724-mason-family\",\n      \"primary_works\": 5,\n      \"total_books\": 7,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Restraint\",\n      \"first_book_goodreads_rating\": 4.3,\n      \"first_book_goodreads_rating_count\": 9424,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"rbmedia_sanity_check\": \"yes_series_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Adriana+Locke\",\n      \"rbmedia_evidence_note\": \"Mason Family Series audiobooks available"
+            },
+            "groundingChunkIndices": [
+              0,
+              1
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "Adriana Locke The Seymour Agency",
+          "Adriana Locke Goodreads series romance drama >=5 primary works",
+          "Adriana Locke RBmedia",
+          "Adriana Locke author page RBmedia",
+          "Adriana Locke Recorded Books",
+          "Adriana Locke Tantor",
+          "Adriana Locke Dreamscape",
+          "Adriana Locke HighBridge",
+          "Adriana Locke Christian Audio",
+          "Adriana Locke GraphicAudio",
+          "Adriana Locke Ascent Audio",
+          "Adriana Locke Wavesound",
+          "Adriana Locke W. F. Howes",
+          "Adriana Locke BookaVivo",
+          "Adriana Locke Kalorama Audio"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 745,
+    "candidatesTokenCount": 1367,
+    "totalTokenCount": 2112,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 745
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1367
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "rXfeac-bJNTUjuMPsOSa-Qg"
+}

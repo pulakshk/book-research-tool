@@ -30,8 +30,10 @@ This directive outlines how to use the deterministic tools in `execution/` to fu
 
 ## Data Management
 - **Primary Data**: Located in `data/`. Master file is `unified_book_data_enriched_ultra.csv`.
-- **Intermediate/Temp Data**: Located in `.tmp/`.
-- **Logs & Backups**: Located in `.tmp/logs/` and `.tmp/backups/`.
+- **Subgenre Final Outputs**: Located in `subgenre-pipeline/output/`.
+- **Outreach Workspaces**: Located in `outreach/`.
+- **Runtime Temp/Logs**: Some scripts still use `.tmp/` for scratch files and backups.
+- **Archived Intermediates/Legacy Files**: Located in `_archive/`.
 
 ---
 *Refer to `directives/AGENTS.md` for broader architectural principles.*

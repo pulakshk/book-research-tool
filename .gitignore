@@ -8,6 +8,9 @@ logs/
 archive/
 backups/
 *.log
+_archive/
+.tmp/
+.claude/worktrees/
 
 # Data (Sensitive & Large)
 *.csv

@@ -1135,7 +1135,7 @@ def main():
     parser.add_argument("--phase", type=str, choices=['discover', 'validate', 'enrich'],
                         help="Run only a specific phase")
     parser.add_argument("--existing-data", type=str,
-                        default=os.path.join(PROJECT_ROOT, "sub genre analysis", "Sub genre analysis- Self Pub universe.xlsx"),
+                        default=os.path.join(PROJECT_ROOT, "subgenre-pipeline", "source-data", "Sub genre analysis- Self Pub universe.xlsx"),
                         help="Path to existing data for deduplication")
     parser.add_argument("--workers", type=int, default=4, help="Parallel workers for validation")
     parser.add_argument("--visible", action="store_true", help="Run browser in visible mode")

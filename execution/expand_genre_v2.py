@@ -351,7 +351,7 @@ async def run_v2_for_subgenre(subgenre, existing_keys):
 async def main():
     """Run V2 expansion for all subgenres."""
     # Load existing data for dedup
-    xlsx_path = os.path.join(PROJECT_ROOT, "sub genre analysis", "Sub genre analysis- Self Pub universe.xlsx")
+    xlsx_path = os.path.join(PROJECT_ROOT, "subgenre-pipeline", "source-data", "Sub genre analysis- Self Pub universe.xlsx")
     existing_keys = load_existing_series(xlsx_path) if os.path.exists(xlsx_path) else set()
 
     # Also add V1 results

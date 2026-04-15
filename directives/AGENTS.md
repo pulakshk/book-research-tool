@@ -54,13 +54,17 @@ Errors are learning opportunities. When something breaks:
 - **Intermediates**: Temporary files needed during processing
 
 **Directory structure:**
-- `.tmp/` - All intermediate files (dossiers, scraped data, temp exports). Never commit, always regenerated.
+- `subgenre-pipeline/` - Research, enrichment, scoring, and final multi-genre outputs
+- `outreach/` - Outreach workspaces and licensing sheets
 - `execution/` - Python scripts (the deterministic tools)
+- `data/` - Canonical datasets and master files
 - `directives/` - SOPs in Markdown (the instruction set)
+- `.tmp/` - Runtime scratch space for logs/backups created by some scripts
+- `_archive/` - Archived intermediates, duplicates, and legacy files
 - `.env` - Environment variables and API keys
 - `credentials.json`, `token.json` - Google OAuth credentials (required files, in `.gitignore`)
 
-**Key principle:** Local files are only for processing. Deliverables live in cloud services (Google Sheets, Slides, etc.) where the user can access them. Everything in `.tmp/` can be deleted and regenerated.
+**Key principle:** Prefer active masters and final outputs. Treat `_archive/` as cold storage unless the task explicitly needs legacy context.
 
 ## Summary
 

@@ -5,7 +5,7 @@ from loguru import logger
 from playwright.async_api import async_playwright
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-NEW_GENRE_DIR = os.path.join(SCRIPT_DIR, 'sub genre analysis', 'New genre crawl')
+NEW_GENRE_DIR = os.path.join(SCRIPT_DIR, 'subgenre-pipeline', 'genre-crawl')
 
 import sys
 sys.path.insert(0, NEW_GENRE_DIR)

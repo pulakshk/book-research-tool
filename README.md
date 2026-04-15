@@ -1,48 +1,51 @@
-# Book Research Pipeline
+# Book Research Tool
 
-A robust, improved data pipeline for scraping, matching, and enriching book metadata (Goodreads + Amazon).
+Pipeline workspace for three connected jobs:
 
-## 🚀 Features
+1. Book research and scraping
+2. Validation and subjective/objective analysis
+3. Outreach and licensing prep
 
--   **Consolidated Pipeline**: A single `main.py` entry point.
--   **Turbo Scraping**: Uses Playwright + Gemini for massive scalability (extracts entire series hubs).
--   **AI Enrichment**: Fills metadata gaps (Publisher, Tropes, Descriptions) using Gemini 1.5.
--   **Commissioning Analysis**: Weighted scoring model (Volume, Quality, Retention, Appeal) to identify P0 series.
+## Start Here
 
-## 🛠️ Installation
+- LLM path: `OUTLINE.md` -> one module skill in `.agent/skills/` -> one target script/file
+- Human path: `README.md` -> `OUTLINE.md` -> relevant folder README
+- Ignore `_archive/` unless you explicitly need legacy or intermediate files.
 
-1.  Clone the repo.
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    playwright install
-    ```
-3.  Set up env:
-    ```bash
-    cp .env.example .env
-    # Add your GEMINI_API_KEY
-    ```
+## Current Layout
 
-## 🏃 Usage
+- `subgenre-pipeline/` - Multi-genre discovery, enrichment, scoring, and final outputs
+- `execution/` - Reusable scripts, repairs, utilities, and one-off operational jobs
+- `outreach/` - Ice hockey, sports romance, and licensing-sheet workspaces
+- `data/` - Canonical shared datasets and master CSVs
+- `reference/` - Reference workbooks and learnings
+- `directives/` - SOP-style instructions and agent guidance
+- `_archive/` - Legacy, intermediate, and archived artifacts
+- `.tmp/` - Runtime scratch area some scripts still recreate for logs and backups
+
+## Quick Commands
 
 ```bash
-# Run Everything (Scrape -> Clean -> Enrich -> Analyze)
+# Original pipeline
 python3 main.py --all
 
-# Run Individual Phases
-python3 main.py --scrape   # Series Exhaustion
-python3 main.py --clean    # Filter & Dedupe
-python3 main.py --enrich   # Gemini Metadata
-python3 main.py --analyze  # Generate Report
+# Multi-genre pipeline
+python3 run_v2_pipeline.py
+
+# Final scoring output
+python3 subgenre-pipeline/final_aggregate_and_score.py
 ```
 
-## 📂 Structure
+## Environment Notes
 
--   `src/pipeline/`: Core logic modules.
--   `main.py`: CLI entry point.
--   `utils/`: Helper utilities (legacy).
+- `GEMINI_API_KEY` is present in `.env` and passed a live Gemini check.
+- Codex Google Drive is connected for `khimesara.pulaksh@pocketfm.com`.
+- Local Python Google Sheets OAuth for `gspread` does not appear to be configured in this repo yet.
 
-## 🔒 Security
+## Reorg Notes
 
--   **Never commit `.env`**.
--   Ensure `GEMINI_API_KEY` is kept secret.
+- High-noise intermediates were moved into `_archive/`.
+- Historical reports were moved out of active folders.
+- Active Python files no longer reference the old folder names.
+- The project is organized by module in docs, while keeping script paths stable enough to avoid breaking the working code.
+- `.ignore` is configured so common search tools skip archive, worktrees, runtime scratch, and archived report docs.

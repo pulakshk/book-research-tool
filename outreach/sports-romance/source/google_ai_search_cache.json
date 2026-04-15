@@ -1,0 +1,145 @@
+{
+  "teagan hunter": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Teagan Hunter",
+    "series": "Carolina Comets",
+    "priority": "P0"
+  },
+  "rebecca jenshak": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Rebecca Jenshak",
+    "series": "Wildcat Hockey",
+    "priority": "P0"
+  },
+  "emma st. clair": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Emma St. Clair",
+    "series": "Sweater Weather",
+    "priority": "P0"
+  },
+  "nikki lawson": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Nikki Lawson",
+    "series": "Love and Hockey",
+    "priority": "P0"
+  },
+  "samantha whiskey": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Samantha Whiskey",
+    "series": "Carolina Reapers",
+    "priority": "P0"
+  },
+  "kenna king": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Kenna King",
+    "series": "Hawkeyes Hockey",
+    "priority": "P1"
+  },
+  "ashlyn kane": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Ashlyn Kane",
+    "series": "Hockey Ever After",
+    "priority": "P1"
+  },
+  "l.a. casey": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "L.A. Casey",
+    "series": "Slater Brothers",
+    "priority": "P1"
+  },
+  "catherine gayle": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Catherine Gayle",
+    "series": "Portland Storm",
+    "priority": "P1"
+  },
+  "aurora rose reynolds": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Aurora Rose Reynolds",
+    "series": "Underground Kings",
+    "priority": "P1"
+  },
+  "s. massery": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "S. Massery",
+    "series": "Hockey Gods",
+    "priority": "P1"
+  },
+  "kristen hope mazzola": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Kristen Hope Mazzola",
+    "series": "Shots on Goal",
+    "priority": "P1"
+  },
+  "avon gale": {
+    "email": "",
+    "email_source": "",
+    "agent_name": "",
+    "agent_email": "",
+    "website": "",
+    "method": "",
+    "author": "Avon Gale",
+    "series": "Scoring Chances",
+    "priority": "P1"
+  }
+}

@@ -1,0 +1,9 @@
+Generated: 2026-04-14T22:39:45.588078
+Threshold: 5+ primary works
+Series rows: 27
+Verified authors: Adriana Locke, Bella Matthews, Charity Ferrell, Devney Perry, Fiona Cole, Fiona Miers, Giana Darling, Kait Ballenger, Karla Sorensen, Mira Lyn Kelly, Rebecca Jenshak, Willow Aster
+
+RBmedia breakdown:
+- yes_series_level: 6
+- yes_author_level: 18
+- no: 3

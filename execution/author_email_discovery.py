@@ -6,7 +6,7 @@ and uses Gemini as a knowledge-based fallback.
 
 Usage:
     python execution/author_email_discovery.py \
-        --input "sub genre analysis/Sub genre analysis- Self Pub universe.xlsx" \
+        --input "subgenre-pipeline/source-data/Sub genre analysis- Self Pub universe.xlsx" \
         --sheet "Ice Hockey and sports" \
         --output "data/author_contacts_ice_hockey.csv"
 """
@@ -829,7 +829,7 @@ def main():
         authors = load_authors_from_xlsx(args.input, args.sheet)
     else:
         # Default
-        default_xlsx = os.path.join(PROJECT_ROOT, "sub genre analysis", "Sub genre analysis- Self Pub universe.xlsx")
+        default_xlsx = os.path.join(PROJECT_ROOT, "subgenre-pipeline", "source-data", "Sub genre analysis- Self Pub universe.xlsx")
         if os.path.exists(default_xlsx):
             authors = load_authors_from_xlsx(default_xlsx, args.sheet)
         else:

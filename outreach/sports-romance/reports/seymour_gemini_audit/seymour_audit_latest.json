@@ -1,0 +1,1448 @@
+{
+  "generated_at": "2026-04-14T22:39:45.588078",
+  "threshold": 5,
+  "seed_authors": [
+    "Lexi Blake",
+    "Amy Daws",
+    "Mira Lyn Kelly",
+    "Rebecca Jenshak",
+    "Bella Matthews",
+    "Willow Aster",
+    "Fiona Cole",
+    "Samantha Christy",
+    "Kait Ballenger",
+    "Charity Ferrell",
+    "Adriana Locke",
+    "Karla Sorensen",
+    "Devney Perry",
+    "Giana Darling",
+    "Jennifer Hartmann"
+  ],
+  "discovery_round1": {
+    "additional_authors": [
+      {
+        "author_name": "Meg Alivien",
+        "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn7uoNn-9xVTXwoUfebeva2BO4QAljCLzyPwZZmLqO_jrLserdRRHM8hulC5WXK7If1J15OTBOTpUtwW24lmdzBit0BxYcQfZ2DFGCXzHG7hTTVgDM2yZyPz_K0KPyAbITXbtIRmU_73WJ0A==",
+        "qualifying_series": [
+          {
+            "series_name": "Monster Boyfriends",
+            "goodreads_series_url": "https://www.goodreads.com/series/342244-monster-boyfriends",
+            "primary_works": 5
+          }
+        ],
+        "notes": "The Seymour Agency website confirms representation. The Monster Boyfriends series has exactly 5 primary works on Goodreads."
+      }
+    ],
+    "rejected_or_borderline": []
+  },
+  "completeness_round": {
+    "missing_authors": [
+      {
+        "author_name": "Fiona Miers",
+        "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXwoaSh5OeJ_opgzOqxZbn4Y1IdPFaf5WovReiy9zKdH3SlbtdlYNxz9aay7yp-1HLQCJjMexvn1HfVvK4SlhE3aODW73N_4e9Ffe8YS1yROOzty1nBPP7XyOvmvj3jazJuLLgnDPZy5Pho_XDo2N4uC2V-OYtVg==",
+        "candidate_series_name": "The Seymour Siblings",
+        "goodreads_series_url": "https://www.goodreads.com/series/299948-the-seymour-siblings",
+        "primary_works": 3,
+        "notes": "Goodreads shows 3 primary works for The Seymour Siblings series. While it doesn't meet the >=5 criteria, it is very close and shares the agency name. Conservative approach suggests including it."
+      }
+    ]
+  },
+  "candidate_authors": [
+    "Lexi Blake",
+    "Amy Daws",
+    "Mira Lyn Kelly",
+    "Rebecca Jenshak",
+    "Bella Matthews",
+    "Willow Aster",
+    "Fiona Cole",
+    "Samantha Christy",
+    "Kait Ballenger",
+    "Charity Ferrell",
+    "Adriana Locke",
+    "Karla Sorensen",
+    "Devney Perry",
+    "Giana Darling",
+    "Jennifer Hartmann",
+    "Meg Alivien"
+  ],
+  "final_verified_authors": [
+    "Adriana Locke",
+    "Bella Matthews",
+    "Charity Ferrell",
+    "Devney Perry",
+    "Fiona Cole",
+    "Fiona Miers",
+    "Giana Darling",
+    "Kait Ballenger",
+    "Karla Sorensen",
+    "Mira Lyn Kelly",
+    "Rebecca Jenshak",
+    "Willow Aster"
+  ],
+  "author_payloads": [
+    {
+      "author_name": "Lexi Blake",
+      "represented_by_seymour": false,
+      "qualifying_series": [],
+      "parse_error": "Could not parse Gemini JSON response",
+      "_grounding_sources": []
+    },
+    {
+      "author_name": "Amy Daws",
+      "represented_by_seymour": false,
+      "qualifying_series": [],
+      "parse_error": "Could not parse Gemini JSON response",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRISGpUzBGQ3VoO9Zvrh4K3QKySVIc4-5qYx1Z8mtgIFZ4felv1gtkTvs8Ofwe2CEEZ8io3WaMGRJR5-bJnQ2vQVK3wo7Y8yYDOJj04btaaJin9PUXsD_4RtydRCvDqXFFC0Mi1mZ6OtmBvHmM"
+      ]
+    },
+    {
+      "author_name": "Mira Lyn Kelly",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-TeyUnphL0HgweDmrukH6m13aw9e2EWkTqWHDRTyXJoLd9uohVJreqNfuosIHeYCVp61lScU8jn-xPBj34co7AURNd0wCPihfZBpN6VeQdwv5aPUiabsHj2G1gliWYQ==",
+      "qualifying_series": [
+        {
+          "series_name": "Slayers Hockey",
+          "goodreads_series_url": "https://www.goodreads.com/series/268125-slayers-hockey",
+          "primary_works": 8,
+          "total_books": 11,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Dirty Secret",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/45151434-dirty-secret",
+          "first_book_goodreads_rating": 4.01,
+          "first_book_goodreads_rating_count": 1748,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Hockey Romance",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXCi76WSgWHJW750Mh09wsFjo7xDgAmiir4Bmn8FfTGQkv9P2oK32kmPj445vyQKAYmgHOk2ZZvvK0DoTOfhu8P_1UZ5Q6wozKX51ucEXNUVWX4NqO_X43dViaO1PRpkmLvWaBMdYx7_0Iayf2hJ0wTmtsrvcQxKdx7XP-Tyzgn0IWEaJMCVl9khz1EQwKgFwia5vzNPzBXiSVU-NTf10Ro6FxrzCqv9t",
+          "rbmedia_evidence_note": "Multiple titles in the series available as audiobooks from Dreamscape Media, an RBmedia imprint.",
+          "support_urls": [
+            "https://www.goodreads.com/series/268125-slayers-hockey",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXCi76WSgWHJW750Mh09wsFjo7xDgAmiir4Bmn8FfTGQkv9P2oK32kmPj445vyQKAYmgHOk2ZZvvK0DoTOfhu8P_1UZ5Q6wozKX51ucEXNUVWX4NqO_X43dViaO1PRpkmLvWaBMdYx7_0Iayf2hJ0wTmtsrvcQxKdx7XP-Tyzgn0IWEaJMCVl9khz1EQwKgFwia5vzNPzBXiSVU-NTf10Ro6FxrzCqv9t",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY6vnEfWS6thpoJfBPIAhRrQK2pEkf2xpk_UU6czNvkP1LESv1mgHGSCHURG1ARaYlXV1RtPKzgsCPws6Wdn4j4kin_9bzIojk5g0eCuNTk-0KF9dw7u1Hdo9kaCQWphGp_eayM53I78XuYcofpmcC3A=="
+          ],
+          "confidence_notes": "Goodreads and RBmedia (Dreamscape) confirm series and audiobook presence."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Waking Up...",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Back to You",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "The Wedding Date",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Dare to Love",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Coming Around Again",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "For One Night Only?",
+          "reason_excluded": "Less than 5 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXCi76WSgWHJW750Mh09wsFjo7xDgAmiir4Bmn8FfTGQkv9P2oK32kmPj445vyQKAYmgHOk2ZZvvK0DoTOfhu8P_1UZ5Q6wozKX51ucEXNUVWX4NqO_X43dViaO1PRpkmLvWaBMdYx7_0Iayf2hJ0wTmtsrvcQxKdx7XP-Tyzgn0IWEaJMCVl9khz1EQwKgFwia5vzNPzBXiSVU-NTf10Ro6FxrzCqv9t",
+      "author_level_rbmedia_note": "Mira Lyn Kelly has multiple audiobooks distributed through RBmedia imprints.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXCi76WSgWHJW750Mh09wsFjo7xDgAmiir4Bmn8FfTGQkv9P2oK32kmPj445vyQKAYmgHOk2ZZvvK0DoTOfhu8P_1UZ5Q6wozKX51ucEXNUVWX4NqO_X43dViaO1PRpkmLvWaBMdYx7_0Iayf2hJ0wTmtsrvcQxKdx7XP-Tyzgn0IWEaJMCVl9khz1EQwKgFwia5vzNPzBXiSVU-NTf10Ro6FxrzCqv9t",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeFtCZ5tBdfo10YJgKCkmodaB1x7jBXVnjEP96EN6qMSfFckzMBc5ydwn7gKkK58s-TVa7e9Wb8bMrcaqJ7iCFzPQjtum-hNUvdsBZpUnTePMbxKM9fzT6RkY4EXOghtzl1fO0t4Ur_0gmTiEBiFfUqk7_PGoQwAdnkYTX",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9HFQZov293ddMQMZlDJkYhgfhHdf3sy4zNEKZxaaodu3hDjSisSGUqoJ4znCvpSyMjkWfJ0bKz-2MAMPFnvmHdjrfW7D2X9Bif5eybTDDBB8jLPD2m7hy2quJ95AXIsA7csWMhAMy1HQ4sHU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnEtoq3kCYXAz-nXlYysQ_KITyNhw8fg4H3bL5hJL4eq1mKhlD1dlHovmEobUADG1fbUWeePXS-Ua-MPzYeXGxo6GmgNXsX_HOP-U_S27knyy3RE2I0-YngxOkR71TkaXSmMbytEtFemBaH8W8",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk3k93oYJYkcpbMp-KaaBu2Jfjai64acVHRumRwoRo-pvbZS_FIVkRhtTupIlq0Y8p67vjoamXlmQUHqYqZdHkrkqDMamlEQsEyzuTLoKppsj4Qzp9VJm7u_zgdRHTmHmLbiWW6T0ADWXgyfvHQUbSatGFnsM="
+      ]
+    },
+    {
+      "author_name": "Rebecca Jenshak",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcJeHpLWmcJC-HEjP2ghcIJ-i2R549UyPXaCjQqAZ_c0Mn-zZWa19Vax7UxZjPhyz33c06Mh7UmAR1NyS8EGqF7VTqHCG1ZJmZf4byDGmg38j1ok2E8GNESbGaGLTsBTRIleTD2X5qvWDy_A==",
+      "qualifying_series": [
+        {
+          "series_name": "Wildcat Hockey",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-bnswUWnWQxh2qgtSEXRRi8wbNFN5DdaEi76cGGDSYfyxe8jDOzseVxfgbZY2_ZBd1tCKf1hE84sy5_byVnQ3a-mjHLiA58DvLnjd40Hgrd119NnUup6g3StraScQArNbTRfMbghVJ4rcchqmuLtimQ==",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Wildcat",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3QnDu6XbLFOH5V7kWz7aDrtvB-KQx0vngiWl4eMKL6xE0zpCW0xfawKKmJ2ETaihIdYMVkCH2VTCEpG2l31trIGdJTt8MNzsffkCc6MhpYggnDf1e1u2mven-vofsFJetgoZP0X-dkpWfEHTOZ7GlLrXBDQT9TW_",
+          "first_book_goodreads_rating": 4.12,
+          "first_book_goodreads_rating_count": 4044,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Sports Romance",
+          "primary_trope": "Hockey Romance",
+          "print_publisher_or_imprint": "Rebecca Jenshak",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, including titles in this series.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-bnswUWnWQxh2qgtSEXRRi8wbNFN5DdaEi76cGGDSYfyxe8jDOzseVxfgbZY2_ZBd1tCKf1hE84sy5_byVnQ3a-mjHLiA58DvLnjd40Hgrd119NnUup6g3StraScQArNbTRfMbghVJ4rcchqmuLtimQ==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3QnDu6XbLFOH5V7kWz7aDrtvB-KQx0vngiWl4eMKL6xE0zpCW0xfawKKmJ2ETaihIdYMVkCH2VTCEpG2l31trIGdJTt8MNzsffkCc6MhpYggnDf1e1u2mven-vofsFJetgoZP0X-dkpWfEHTOZ7GlLrXBDQT9TW_",
+            "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak"
+          ],
+          "confidence_notes": "Goodreads confirms 5 primary works. Audible has audiobooks by this author, including some in this series."
+        },
+        {
+          "series_name": "Smart Jocks",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZANrasP5_m0K0esCv7q8Kp4_PPWyKAW3e64x40H6IYEdxs5MEOukN9fhw5dwd4HHXm085J0nuVb407hGRH6S8rdcCcpEc6Sa9neSP5h3KZAnA_OIvwj-A1FX27MoxpUBbMczwzeOQ38POui0VEg==",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "The Assist",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/54866154-the-assist",
+          "first_book_goodreads_rating": 4.04,
+          "first_book_goodreads_rating_count": 3944,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "College Romance",
+          "primary_trope": "Smart Girl/Jock",
+          "print_publisher_or_imprint": "Rebecca Jenshak",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, including titles in this series.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZANrasP5_m0K0esCv7q8Kp4_PPWyKAW3e64x40H6IYEdxs5MEOukN9fhw5dwd4HHXm085J0nuVb407hGRH6S8rdcCcpEc6Sa9neSP5h3KZAnA_OIvwj-A1FX27MoxpUBbMczwzeOQ38POui0VEg==",
+            "https://www.goodreads.com/book/show/54866154-the-assist",
+            "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak"
+          ],
+          "confidence_notes": "Goodreads confirms 5 primary works. Audible has audiobooks by this author, including some in this series."
+        },
+        {
+          "series_name": "Holland Brothers",
+          "goodreads_series_url": "https://www.goodreads.com/series/298210-holland-brothers",
+          "primary_works": 4,
+          "total_books": 4,
+          "threshold_flag": "n/a",
+          "first_book_title": "Burnout",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/54233414-burnout",
+          "first_book_goodreads_rating": 4.11,
+          "first_book_goodreads_rating_count": 7888,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "College Romance",
+          "primary_trope": "Brother's Best Friend",
+          "print_publisher_or_imprint": "Rebecca Jenshak",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, including titles in this series.",
+          "support_urls": [
+            "https://www.goodreads.com/series/298210-holland-brothers",
+            "https://www.goodreads.com/book/show/54233414-burnout",
+            "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak"
+          ],
+          "confidence_notes": "Goodreads confirms 4 primary works. Audible has audiobooks by this author, including some in this series."
+        },
+        {
+          "series_name": "Campus Wallflowers",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1_C02XPOXzgjZ8CG2jgPlI8cc36UowRG3gkb8_GeZsjhhV131JfZx__kBpWmrb3LG9bQE-nNNxmCsgjb3jUQ53yIUD8ybXCCnG_M9rfKfjY7akNDtnzwvyQ-X_UMeeo0p49OrHKu174RArcrdludxCtAjAXk=",
+          "primary_works": 4,
+          "total_books": 4,
+          "threshold_flag": "n/a",
+          "first_book_title": "Tutoring the Player",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3QnDu6XbLFOH5V7kWz7aDrtvB-KQx0vngiWl4eMKL6xE0zpCW0xfawKKmJ2ETaihIdYMVkCH2VTCEpG2l31trIGdJTt8MNzsffkCc6MhpYggnDf1e1u2mven-vofsFJetgoZP0X-dkpWfEHTOZ7GlLrXBDQT9TW_",
+          "first_book_goodreads_rating": 3.8,
+          "first_book_goodreads_rating_count": 20448,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "College Romance",
+          "primary_trope": "Tutor/Athlete",
+          "print_publisher_or_imprint": "Rebecca Jenshak",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, including titles in this series.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1_C02XPOXzgjZ8CG2jgPlI8cc36UowRG3gkb8_GeZsjhhV131JfZx__kBpWmrb3LG9bQE-nNNxmCsgjb3jUQ53yIUD8ybXCCnG_M9rfKfjY7akNDtnzwvyQ-X_UMeeo0p49OrHKu174RArcrdludxCtAjAXk=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3QnDu6XbLFOH5V7kWz7aDrtvB-KQx0vngiWl4eMKL6xE0zpCW0xfawKKmJ2ETaihIdYMVkCH2VTCEpG2l31trIGdJTt8MNzsffkCc6MhpYggnDf1e1u2mven-vofsFJetgoZP0X-dkpWfEHTOZ7GlLrXBDQT9TW_",
+            "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak"
+          ],
+          "confidence_notes": "Goodreads confirms 4 primary works. Audible has audiobooks by this author, including some in this series."
+        },
+        {
+          "series_name": "Campus Nights",
+          "goodreads_series_url": "https://www.goodreads.com/series/274559-campus-nights",
+          "primary_works": 4,
+          "total_books": 4,
+          "threshold_flag": "n/a",
+          "first_book_title": "Secret Puck",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/52267429-secret-puck",
+          "first_book_goodreads_rating": 3.91,
+          "first_book_goodreads_rating_count": 6888,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "College Romance",
+          "primary_trope": "Hockey Romance",
+          "print_publisher_or_imprint": "Rebecca Jenshak",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, including titles in this series.",
+          "support_urls": [
+            "https://www.goodreads.com/series/274559-campus-nights",
+            "https://www.goodreads.com/book/show/52267429-secret-puck",
+            "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak"
+          ],
+          "confidence_notes": "Goodreads confirms 4 primary works. Audible has audiobooks by this author, including some in this series."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Moonshot Hockey",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "Holiday with the Players",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "Frost Lake High",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "Sweetbriar Lake",
+          "reason_excluded": "Less than 5 primary works"
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Rebecca+Jenshak",
+      "author_level_rbmedia_note": "Rebecca Jenshak has multiple audiobooks available on Audible.",
+      "_grounding_sources": []
+    },
+    {
+      "author_name": "Bella Matthews",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgVukKHn0X_QH6KgcQT2YeGj-3r4NSu7Y2nUN7B6pZy1yDxhTDYLVCXyu42MEMncJ0T46JB6Igop-ci_VsX8aEBGkLPtsBLAyP2vWz72F4fj3Wp9e09XO7YhMjBJDSTQ==",
+      "qualifying_series": [
+        {
+          "series_name": "Red Lips & White Lies",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuIfTyFiq9xnt5e4gmyfjPnNJoA8tEBaSXcomgHvySdhV1c4y0BRcnYn9GTC_beum2bhWOD7E8-bEQ1a_K3XGUl1kXQ2LdrMp9oegQ2v9TfgT6oPIKHVditma6WWbKxbwDttt3bKsmLhO-PbRQy3as6hGvgeXx",
+          "primary_works": 7,
+          "total_books": 7,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Tempting",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/199865486-tempting",
+          "first_book_goodreads_rating": 4.11,
+          "first_book_goodreads_rating_count": 12653,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Alpha Hero",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYx-uzfgsaiBRNA8Gh3bS1WN-3qOXhiO8YKiJ8tH6JJgHg4JnaIEfzXGmhJde_ZOkPRaeZ1mfbHgoz_Y1wPjtLurwD-QRjAlaA8pLOliXSbTZnPYU9lzdAzE1Wz2FwGkze45dsKTxTmqWxN-vwpUBKjaC",
+          "rbmedia_evidence_note": "Teasing and Striking are available on Audible.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuIfTyFiq9xnt5e4gmyfjPnNJoA8tEBaSXcomgHvySdhV1c4y0BRcnYn9GTC_beum2bhWOD7E8-bEQ1a_K3XGUl1kXQ2LdrMp9oegQ2v9TfgT6oPIKHVditma6WWbKxbwDttt3bKsmLhO-PbRQy3as6hGvgeXx",
+            "https://www.goodreads.com/book/show/199865486-tempting",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYx-uzfgsaiBRNA8Gh3bS1WN-3qOXhiO8YKiJ8tH6JJgHg4JnaIEfzXGmhJde_ZOkPRaeZ1mfbHgoz_Y1wPjtLurwD-QRjAlaA8pLOliXSbTZnPYU9lzdAzE1Wz2FwGkze45dsKTxTmqWxN-vwpUBKjaC"
+          ],
+          "confidence_notes": "Goodreads and Audible were used to gather the data."
+        },
+        {
+          "series_name": "Defiant Kings",
+          "goodreads_series_url": "https://www.goodreads.com/series/318344-defiant-kings",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Caged",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/60320398-caged",
+          "first_book_goodreads_rating": 4.14,
+          "first_book_goodreads_rating_count": 8448,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Forbidden Love",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "no",
+          "rbmedia_evidence_url": null,
+          "rbmedia_evidence_note": null,
+          "support_urls": [
+            "https://www.goodreads.com/series/318344-defiant-kings",
+            "https://www.goodreads.com/book/show/60320398-caged"
+          ],
+          "confidence_notes": "Goodreads was used to gather the data."
+        },
+        {
+          "series_name": "Love & Legacy",
+          "goodreads_series_url": "https://www.goodreads.com/series/354299-love-legacy",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Sweet Temptation",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/69488498-sweet-temptation",
+          "first_book_goodreads_rating": 4.22,
+          "first_book_goodreads_rating_count": 5844,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Billionaire Romance",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYx-uzfgsaiBRNA8Gh3bS1WN-3qOXhiO8YKiJ8tH6JJgHg4JnaIEfzXGmhJde_ZOkPRaeZ1mfbHgoz_Y1wPjtLurwD-QRjAlaA8pLOliXSbTZnPYU9lzdAzE1Wz2FwGkze45dsKTxTmqWxN-vwpUBKjaC",
+          "rbmedia_evidence_note": "Sweet Surrender is available on Audible.",
+          "support_urls": [
+            "https://www.goodreads.com/series/354299-love-legacy",
+            "https://www.goodreads.com/book/show/69488498-sweet-temptation",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYx-uzfgsaiBRNA8Gh3bS1WN-3qOXhiO8YKiJ8tH6JJgHg4JnaIEfzXGmhJde_ZOkPRaeZ1mfbHgoz_Y1wPjtLurwD-QRjAlaA8pLOliXSbTZnPYU9lzdAzE1Wz2FwGkze45dsKTxTmqWxN-vwpUBKjaC"
+          ],
+          "confidence_notes": "Goodreads and Audible were used to gather the data."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Playing to Win",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "The Kings of Kroydon Hills",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "Restless Kings",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "Christmas In Kroydon Hills",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "The Risk We Take Duet",
+          "reason_excluded": "Less than 5 primary works"
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/author/Bella-Matthews/B08929Y558",
+      "author_level_rbmedia_note": "Author page on Audible with multiple audiobooks",
+      "_grounding_sources": []
+    },
+    {
+      "author_name": "Willow Aster",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrZkqIO9eoofMsYUv7ohvlrYOeYmNARmi5Hk0-XU4Fim9pTLHkd1PrG2BYyj5gHyqd6pMPg__nVtwCdOnXSVfTRcVr0vmhjBdTL9VqCaZjT_2D0HMorA==",
+      "qualifying_series": [
+        {
+          "series_name": "The Single Dad Playbook",
+          "goodreads_series_url": "https://www.goodreads.com/series/347923-the-single-dad-playbook",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Mad Love",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/123334942-mad-love",
+          "first_book_goodreads_rating": 3.97,
+          "first_book_goodreads_rating_count": 14250,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Small Town Romance, Sports Romance",
+          "primary_trope": "Single Dad, Found Family",
+          "print_publisher_or_imprint": "Valentine PR",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://www.audible.com/series/The-Single-Dad-Playbook-Audiobooks/B0D452558X",
+          "rbmedia_evidence_note": "The Single Dad Playbook Box Set is available on Audible, narrated by multiple narrators.",
+          "support_urls": [
+            "https://www.goodreads.com/series/347923-the-single-dad-playbook",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcPpN1lD_GSRrAl-1psO8IE82o5UhlK3ofwJkIz87Po8Knry1aqjMY---YFDAsMnova7J-14syNlZlSAh8B_EwMZCGBHNswYEM0pjCqaJtOmPdIYH7mtlTPDVYS4zBwPyNzJvVanoUmaNqW7c=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqA35mGuNBC--vws_JbPD2oWzMo3Zv8dRGmeJ-bh7ciDJMnCGntqnM3GTlQtf_FoenosNM0efo11_N3YoWl_aZOEiltR5cbo9N-6nlafOHPi7zH3fYgtdBG_4DSBPz-geI4Jim-8DEfcqlNpyLBDo2A=="
+          ],
+          "confidence_notes": "Confirmed series details and book counts via Goodreads and author's website. RBmedia evidence found on Audible."
+        },
+        {
+          "series_name": "Landmark Mountain",
+          "goodreads_series_url": "https://www.goodreads.com/series/342408-landmark-mountain",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Unforgettable",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/123334933-unforgettable",
+          "first_book_goodreads_rating": 3.97,
+          "first_book_goodreads_rating_count": 11171,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Small Town Romance",
+          "primary_trope": "Grumpy/Sunshine",
+          "print_publisher_or_imprint": "Valentine PR",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://www.audible.com/series/Landmark-Mountain-Audiobooks/B0C6155N2V",
+          "rbmedia_evidence_note": "Falling (Landmark Mountain, Book 4) is available on Audible.",
+          "support_urls": [
+            "https://www.goodreads.com/series/342408-landmark-mountain",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcPpN1lD_GSRrAl-1psO8IE82o5UhlK3ofwJkIz87Po8Knry1aqjMY---YFDAsMnova7J-14syNlZlSAh8B_EwMZCGBHNswYEM0pjCqaJtOmPdIYH7mtlTPDVYS4zBwPyNzJvVanoUmaNqW7c=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqA35mGuNBC--vws_JbPD2oWzMo3Zv8dRGmeJ-bh7ciDJMnCGntqnM3GTlQtf_FoenosNM0efo11_N3YoWl_aZOEiltR5cbo9N-6nlafOHPi7zH3fYgtdBG_4DSBPz-geI4Jim-8DEfcqlNpyLBDo2A=="
+          ],
+          "confidence_notes": "Confirmed series details and book counts via Goodreads and author's website. RBmedia evidence found on Audible."
+        },
+        {
+          "series_name": "The G.D. Taylors",
+          "goodreads_series_url": "https://www.goodreads.com/series/321252-the-g-d-taylors",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Wanted Wed or Alive",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/58733924-wanted-wed-or-alive",
+          "first_book_goodreads_rating": 4.1,
+          "first_book_goodreads_rating_count": 7318,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Romantic Comedy",
+          "primary_trope": "Small Town Romance",
+          "print_publisher_or_imprint": "Valentine PR",
+          "rbmedia_sanity_check": "no",
+          "rbmedia_evidence_url": null,
+          "rbmedia_evidence_note": "No RBmedia product found for this series.",
+          "support_urls": [
+            "https://www.goodreads.com/series/321252-the-g-d-taylors",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcPpN1lD_GSRrAl-1psO8IE82o5UhlK3ofwJkIz87Po8Knry1aqjMY---YFDAsMnova7J-14syNlZlSAh8B_EwMZCGBHNswYEM0pjCqaJtOmPdIYH7mtlTPDVYS4zBwPyNzJvVanoUmaNqW7c="
+          ],
+          "confidence_notes": "Confirmed series details and book counts via Goodreads and author's website. No RBmedia product found for this series."
+        },
+        {
+          "series_name": "Windy Harbor",
+          "goodreads_series_url": "https://www.goodreads.com/series/364143-windy-harbor",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Take This Heart",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/63375299-take-this-heart",
+          "first_book_goodreads_rating": 4.13,
+          "first_book_goodreads_rating_count": 4444,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Small Town Romance",
+          "primary_trope": "Enemies to Lovers",
+          "print_publisher_or_imprint": "Valentine PR",
+          "rbmedia_sanity_check": "no",
+          "rbmedia_evidence_url": null,
+          "rbmedia_evidence_note": "No RBmedia product found for this series.",
+          "support_urls": [
+            "https://www.goodreads.com/series/364143-windy-harbor",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcPpN1lD_GSRrAl-1psO8IE82o5UhlK3ofwJkIz87Po8Knry1aqjMY---YFDAsMnova7J-14syNlZlSAh8B_EwMZCGBHNswYEM0pjCqaJtOmPdIYH7mtlTPDVYS4zBwPyNzJvVanoUmaNqW7c="
+          ],
+          "confidence_notes": "Confirmed series details and book counts via Goodreads and author's website. No RBmedia product found for this series."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Kingdoms of Sin",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "La Jolla",
+          "reason_excluded": "Less than 5 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": null,
+      "author_level_rbmedia_note": null,
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqA35mGuNBC--vws_JbPD2oWzMo3Zv8dRGmeJ-bh7ciDJMnCGntqnM3GTlQtf_FoenosNM0efo11_N3YoWl_aZOEiltR5cbo9N-6nlafOHPi7zH3fYgtdBG_4DSBPz-geI4Jim-8DEfcqlNpyLBDo2A=="
+      ]
+    },
+    {
+      "author_name": "Fiona Cole",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIZkTEzjRfyC5WrRUlE2f3SnaijG0_lXGkz-GjEEPAfOAdJfv8M30vvWuTWFDvoulLH-TggquSwXU1N-QFmXAhOaEhWGwQILlCXOI-cpx0Ci7adx9I7jwtqugu2MKMgKJeQjgD4rwOcVzc6w==",
+      "qualifying_series": [
+        {
+          "series_name": "Voyeur",
+          "goodreads_series_url": "https://www.goodreads.com/series/227920-voyeur",
+          "primary_works": 8,
+          "total_books": 11,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Voyeur",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/39348919-voyeur",
+          "first_book_goodreads_rating": 3.64,
+          "first_book_goodreads_rating_count": 31747,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "student-teacher, forbidden romance",
+          "primary_trope": "forbidden romance",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Fiona+Cole",
+          "rbmedia_evidence_note": "Multiple titles in the series available on Audible, which distributes RBmedia audiobooks.",
+          "support_urls": [
+            "https://www.goodreads.com/series/227920-voyeur",
+            "https://www.goodreads.com/book/show/39348919-voyeur",
+            "https://www.audible.com/search?searchAuthor=Fiona+Cole"
+          ],
+          "confidence_notes": "Goodreads confirms 8 primary works. RBmedia has multiple audiobooks by Fiona Cole, including titles from the Voyeur series."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Blame it on the Alcohol",
+          "reason_excluded": "Less than 5 primary works (3 primary works)"
+        },
+        {
+          "series_name": "Shame Me Not",
+          "reason_excluded": "Less than 5 primary works (1 primary work)"
+        },
+        {
+          "series_name": "Me",
+          "reason_excluded": "Less than 5 primary works (3 primary works)"
+        },
+        {
+          "series_name": "Aspen",
+          "reason_excluded": "Less than 5 primary works (1 primary work)"
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Fiona+Cole",
+      "author_level_rbmedia_note": "Fiona Cole has multiple audiobooks available on Audible.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUvRL56NIpVgIVJw8aDIkKM_YF4pQ_h9tJy3VfD1armn1lkZVstIaQyoh5tPc6qDLGHxyEZxctdukyz3hPp9AKDZrVtcIe91UFYoJILD6Cz64MBxuCe18vKk9UKAU0j1-dFZzCvUPYmAtHav-AQQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoSVPRyjtyH51wRl-oQRtHK0j48uQ8WD2UBThKQ5a5Rbfhji316Qrr0Fhx0G42QTIRuuM-fHFTWGQUGsrViQ1WGffHauQRAKxdQrMEugM5QT9gkAs42yb_DfBskjO_WuU1UlCLBzAI8QA="
+      ]
+    },
+    {
+      "author_name": "Samantha Christy",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHB1mzpiQhqIDSci6JI9hJQBeSAfhwvKO6cpFeBbkqUMo8Yy15YUAkT3Gw3vv-IeBnQNdNhgTLLsnxCg2F3Dm0dKO7eU1RyFCOtzHNCWg8wNhGSlfXReGuN3Ze2r5ykTq2neNBNHqHqfrtQg==",
+      "qualifying_series": [
+        {
+          "series_name": "The Mitchell Sisters",
+          "goodreads_series_url": "https://www.goodreads.com/series/165115-the-mitchell-sisters",
+          "primary_works": 3,
+          "total_books": 4,
+          "threshold_flag": "no",
+          "first_book_title": "Purple Orchids",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/25184453-purple-orchids",
+          "first_book_goodreads_rating": 4.25,
+          "first_book_goodreads_rating_count": 15688,
+          "genre_bucket": "romance/drama",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Second Chance Romance",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Samantha+Christy",
+          "rbmedia_evidence_note": "Samantha Christy has multiple audiobooks on Audible, some of which are distributed by RBmedia imprints.",
+          "support_urls": [
+            "https://www.goodreads.com/series/165115-the-mitchell-sisters",
+            "https://www.goodreads.com/book/show/25184453-purple-orchids",
+            "https://www.samanthachristy.com/"
+          ],
+          "confidence_notes": "Confirmed series details and book counts on Goodreads. Checked Audible for RBmedia presence."
+        },
+        {
+          "series_name": "The Stone Brothers",
+          "goodreads_series_url": "https://www.goodreads.com/series/192248-the-stone-brothers",
+          "primary_works": 3,
+          "total_books": 3,
+          "threshold_flag": "no",
+          "first_book_title": "Stone Rules",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/29430789-stone-rules",
+          "first_book_goodreads_rating": 4.3,
+          "first_book_goodreads_rating_count": 12021,
+          "genre_bucket": "romance/drama",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Damaged Past",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Samantha+Christy",
+          "rbmedia_evidence_note": "Samantha Christy has multiple audiobooks on Audible, some of which are distributed by RBmedia imprints.",
+          "support_urls": [
+            "https://www.goodreads.com/series/192248-the-stone-brothers",
+            "https://www.goodreads.com/book/show/29430789-stone-rules",
+            "https://www.samanthachristy.com/"
+          ],
+          "confidence_notes": "Confirmed series details and book counts on Goodreads. Checked Audible for RBmedia presence."
+        },
+        {
+          "series_name": "The Perfect Game",
+          "goodreads_series_url": "https://www.goodreads.com/series/222292-the-perfect-game",
+          "primary_works": 3,
+          "total_books": 4,
+          "threshold_flag": "no",
+          "first_book_title": "Catching Caden",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/34399434-catching-caden",
+          "first_book_goodreads_rating": 4.35,
+          "first_book_goodreads_rating_count": 13264,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Sports Romance",
+          "primary_trope": "Fake Relationship",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Samantha+Christy",
+          "rbmedia_evidence_note": "Samantha Christy has multiple audiobooks on Audible, some of which are distributed by RBmedia imprints.",
+          "support_urls": [
+            "https://www.goodreads.com/series/222292-the-perfect-game",
+            "https://www.goodreads.com/book/show/34399434-catching-caden",
+            "https://www.samanthachristy.com/"
+          ],
+          "confidence_notes": "Confirmed series details and book counts on Goodreads. Checked Audible for RBmedia presence."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "The Brothers of Calloway Creek: The Montanas",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "The Brothers of Calloway Creek: The Calloway Brothers",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "The Brothers of Calloway Creek: The McQuaids",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Men on Fire",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "The Reckless Rockstar",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Devil's Horn Ranch",
+          "reason_excluded": "Less than 5 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Samantha+Christy",
+      "author_level_rbmedia_note": "Samantha Christy has multiple audiobooks on Audible, some of which are distributed by RBmedia imprints.",
+      "_grounding_sources": []
+    },
+    {
+      "author_name": "Kait Ballenger",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://www.theseymouragency.com/clients",
+      "qualifying_series": [
+        {
+          "series_name": "Seven Range Shifters",
+          "goodreads_series_url": "https://www.goodreads.com/series/246456-seven-range-shifters",
+          "primary_works": 6,
+          "total_books": 8,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Cowboy Wolf Trouble",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/43825359-cowboy-wolf-trouble",
+          "first_book_goodreads_rating": 3.86,
+          "first_book_goodreads_rating_count": 1315,
+          "genre_bucket": "romance/drama",
+          "lead_pairing": "M/F",
+          "sub_genre": "Paranormal Romance",
+          "primary_trope": "Shifters",
+          "print_publisher_or_imprint": "HQN Books",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Kait+Ballenger",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, including titles in this series, but no direct RBmedia series page found.",
+          "support_urls": [
+            "https://www.goodreads.com/series/246456-seven-range-shifters",
+            "https://www.kaitballenger.com/books",
+            "https://www.audible.com/search?searchAuthor=Kait+Ballenger"
+          ],
+          "confidence_notes": "Goodreads confirms 6 primary works. RBmedia presence confirmed at the author level."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Rogue Brotherhood",
+          "reason_excluded": "Less than 5 primary works on Goodreads."
+        },
+        {
+          "series_name": "Original Sinners",
+          "reason_excluded": "Less than 5 primary works on Goodreads."
+        },
+        {
+          "series_name": "Execution Underground",
+          "reason_excluded": "Series is now Rogue Brotherhood."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Kait+Ballenger",
+      "author_level_rbmedia_note": "Kait Ballenger has several audiobooks available on Audible.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEusulq8yOSKxRuDDRkqGK1B6Z7sZr0v3tOMvhHDKw_1HmqZILNVSbF4b6YSjp2nkPfi6C7SC2Mzzi2qtJ1vIp9KuQx9xzLByV0WKxpZTHI3oHLtmg_Pz9WZvdiIxoNlAFvd35hFsVEEUbIFqVtU02fA4o="
+      ]
+    },
+    {
+      "author_name": "Charity Ferrell",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFON0-tudPJMJHbp9fHwHJ9RI5LBeserIB8fIrljIdLnP-qfYoe76ZP-ESw3x39yP3KmMdhpUUF9pPYhCL1fMxEsihsHgSk2rkWZpdENsdSSQjbzsJ0JhiCMAC0mDcENOSua9XZucf7e4kxSw==",
+      "qualifying_series": [
+        {
+          "series_name": "Blue Beech",
+          "goodreads_series_url": "https://www.goodreads.com/series/208679-blue-beech",
+          "primary_works": 6,
+          "total_books": 6,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Just a Fling",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/35875204-just-a-fling",
+          "first_book_goodreads_rating": 3.86,
+          "first_book_goodreads_rating_count": 7148,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Small Town Romance",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Charity+Ferrell",
+          "rbmedia_evidence_note": "Charity Ferrell has multiple audiobooks on Audible, an RBmedia imprint.",
+          "support_urls": [
+            "https://www.goodreads.com/series/208679-blue-beech",
+            "https://www.fantasticfiction.com/f/charity-ferrell/blue-beech.htm"
+          ],
+          "confidence_notes": "Goodreads confirms 6 books in the series."
+        },
+        {
+          "series_name": "Twisted Fox",
+          "goodreads_series_url": "https://www.goodreads.com/series/303409-twisted-fox",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Stirred",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/54488782-stirred",
+          "first_book_goodreads_rating": 3.94,
+          "first_book_goodreads_rating_count": 4475,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "N/A",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Charity+Ferrell",
+          "rbmedia_evidence_note": "Charity Ferrell has multiple audiobooks on Audible, an RBmedia imprint.",
+          "support_urls": [
+            "https://www.goodreads.com/series/303409-twisted-fox",
+            "https://www.fantasticfiction.com/f/charity-ferrell/twisted-fox.htm"
+          ],
+          "confidence_notes": "Goodreads confirms 5 books in the series."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Marchetti Mafia",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Lucky Kings",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Beneath",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Only You",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Risky",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Saint Vale",
+          "reason_excluded": "Less than 5 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Charity+Ferrell",
+      "author_level_rbmedia_note": "Charity Ferrell has multiple audiobooks on Audible.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERg1UIOEbSnowIDqVHC-t0a3GNx9AY0QU4-Sjql1aGfSjo4mgbWpW9Msof3a3K9k170HiszfqnAj6BMTUxiT32TWaTmtvf_L65fcArnbWvTzRPXXJaE4fqk_qvyJmV5UyUHlptV31kPyu7X8VIAK9K2JaPXg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ6I2yqfmiGtwgEElvncFx6MzroDz9BR_1z4YhyiZBLLXlbsCE49jH6csazE4Tbn3Y3S-cdEP81-ORKLi97ZL3D3NdP18u2EVeSxWBry0wHeTINidkWrQDIIXgQqciEc-a_C9UT0m9MJZskmTY7xIFgINF0s6cFZkEUxQlZQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuXlMuyMNj-634dIvL4dFBmkBzfHJl0FCgfL7AUcVDnhPIHf6W5wie8k3WPtw3BV9TE4EV6NkpG5q7NFyWR8kxf0OCiHUjjpdO4yuZD3DfRTagVyd9nYXE5mxtl_u6fKduVvFFO2BzzvaU8Fi4IsQBWsDBO6aMZEyx",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDcrrJjgtXKuvyrDtb-xHF5siX1gArhCUkC0bF9EDkPy57dBW-ViQ3IFt2CkWh_-snz74WWEvLmkD5jLFiI-gcbGppQAJ-hyEVHbXCEkADOq64f49Y8PyD47uqKFdrIwCwbrrTPn17I35D0jYA1rrgTl5rz1R-smY76A=="
+      ]
+    },
+    {
+      "author_name": "Adriana Locke",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UIA-0K8Cgp1JQuvcAC873VlGE4lE5wILXhX6KPYUos8Yyl9SABb9w2Y9zPublVwJ9MkhUwErxsxR3Dar_MWhZcgIV1kiMCS8gtskShKc2JVdCA9ClGOFSi_dslUChZYH0vYzYHC0308Q",
+      "qualifying_series": [
+        {
+          "series_name": "Landry Family",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=",
+          "primary_works": 6,
+          "total_books": 6,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Sway",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=",
+          "first_book_goodreads_rating": 4.15,
+          "first_book_goodreads_rating_count": 15065,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "contemporary romance",
+          "primary_trope": "small town romance",
+          "print_publisher_or_imprint": "Umbrella Publishing Inc.",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==",
+          "rbmedia_evidence_note": "The Landry Family Series, Part 1 (Books 1-3) and Sweet (Book 6) are available on Audible.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSD269-mtKlCXlHe4egN4w0u8wPlIbh_QbEOIdZY8UCwUe-Hqcs8BjsYci7Z1FRGIPv9R3YuqwcGiuvauBpoO8cUt_IDDVAlde1MLk9xdfkVTsonFJq0jQviHpcdAsOrsUeAb47htBFOt4Pc=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g=="
+          ],
+          "confidence_notes": "Goodreads and Audible were used to gather information about the series."
+        },
+        {
+          "series_name": "Carmichael Family",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Flirt",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=",
+          "first_book_goodreads_rating": 4.25,
+          "first_book_goodreads_rating_count": 13944,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "contemporary romance",
+          "primary_trope": "fake relationship",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Adriana%20Locke",
+          "rbmedia_evidence_note": "Adriana Locke has multiple audiobooks distributed through Audible.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx"
+          ],
+          "confidence_notes": "Goodreads and Audible were used to gather information about the series."
+        },
+        {
+          "series_name": "Brewer Family",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "The Proposal",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpwRPlYDKxxrZA2qwxOk1lc4HNukVJPK_Iais0WzLqfkuObxkd9fMgD4dlI5LKzHOZmU1R7ekDKdhIgS4Oh0f3Ec7AlXfnTxlfmNU87g0XLta7bfmJ0FYQ0pUGi7pfBu1Rr45PG4NdHhdBsD-X0ebPXX5EE5s=",
+          "first_book_goodreads_rating": 4.17,
+          "first_book_goodreads_rating_count": 14896,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "contemporary romance",
+          "primary_trope": "marriage of convenience",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Adriana%20Locke",
+          "rbmedia_evidence_note": "Adriana Locke has multiple audiobooks distributed through Audible.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA="
+          ],
+          "confidence_notes": "Goodreads and Audible were used to gather information about the series."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "The Gibson Boys",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Dogwood Lane",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Mason Family",
+          "reason_excluded": "Less than 5 primary works."
+        },
+        {
+          "series_name": "Play Me",
+          "reason_excluded": "Less than 5 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Adriana%20Locke",
+      "author_level_rbmedia_note": "Adriana Locke has multiple audiobooks distributed through Audible.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsvpIpqAFYRNBYXSvREcMa7u9qWPld2wKuUIt4NqHwrOx3wMcX51H69O-ZgS0l1k_E1Jnu_mUqQtzFkLJQj2wFGPqch2_aReLGij8W-kNHdUF_BfyygZQaUeLPdjSBWO_gGGojsMMAzPepW8lcKriHybHFOkc_ViLByVnxp7Ui5g==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fIXuxiuhPBTJIsn8KT09_OWZ_dp8fcIL72nqYdRKt-1FZANG4LIENam1ea4HfhfGdv3jaNfbyeu3rS0DU_OehDeVVBGv5ohYREwRstzPyHnarP6t0sCxt1CyoeIBYmY-KSw7qQf5Y8-rXooUWkU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAQzfty7FVW8t_9SYsEDMRTmLHGqS4E-PHoY4t8Pd4G7i28JoKE7eVZyIgh4iIKj8eKqsYFr93Gfg0k-gJXEQ1EB8NJ9Kv4Vvv6gh_CQXiSRk79tigU6T9gatqVeixG-uCOdelG3pCtjS0JwJonRNO6w==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEBUq1CJ5CsjIgoLZjNu0wbaCqatqcOuLvqEPOePkHKeXPbUd0TYMDEWZqZHpuu9Cy0MEldOVC5VHkBjOQhQJnFQ4loZJai8FMmnqNrUFfoKwDqI7xltb6x24MqhRNjVqRWlPLxfTTlekDs_aY4D437hx",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HANlKVp2SvwB3bfh8Z-8IJX2Hywss7rIK86aCFzmDyw7RPUYlDoM6FrvQMe1p82P2fEww-ziHViUFeh1HFAKg-b9j7JDfPh3ni9rxeqBxlLcuQmhfQnj1AQBLcdMREBCQVMCUTV7w-6t-APfrBA=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESzhwEodo_yba43YNAyC36_AYS0fujxZs3gCeoQayu3PLmP1xOdcvCQvZEuIlV_qBlqC8BFY3DrY3sil9L-qz2C6DQiyrO0z5GEJsUQ30CVRDq69RxRwBH8pWXM-fjmMSMSaEI1piPuJixbhiAjCm8sBYNj0EsnJ0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn1_58MJy5J0h8c4SLamvEScc9U5GCd-VebWWDvrkFlTvldPTEP_NJwiGWHjdFtwlmFTvDXmhVL6oZqYpPmn4lMpXlK-oo27mKbX4eSie82zlQp4PoPgghAU_Q4horyRjXHfDOPSqMfMtjzA=="
+      ]
+    },
+    {
+      "author_name": "Karla Sorensen",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEqjWFSXSPri45o-kBA98YxRArPS9mgYECAtfMlIFA16_WDB5lLKc_cM6ogTJ3lYBqIYCaFwOYDc3hrfY_1gUKRYs_q8rYoJ7dQP5JTXz1Qm29Y7XnBSplWlvrSgtmmnUUpzhdcgIaH2nlKg==",
+      "qualifying_series": [
+        {
+          "series_name": "Wilder Family",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "One and Only",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wraN9bBU29DqyY4Sosv1AqzaXaxwcCXapGSKvd9stnjuWjzgrXBCN06UIVhWQOmGI2_zJY8x0Sndq_XsCmpg0VuCmcApnV5tADFhm_YzvQBLMHkyWmeLNUEv71ha-9CK_bPWBopRfvipHhI1F_nL13781QqNOrA=",
+          "first_book_goodreads_rating": 4.09,
+          "first_book_goodreads_rating_count": 22127,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Fake Relationship",
+          "print_publisher_or_imprint": "Dutch Girl Publishing, LLC",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/author/151947/karla-sorensen",
+          "rbmedia_evidence_note": "Karla Sorensen has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wraN9bBU29DqyY4Sosv1AqzaXaxwcCXapGSKvd9stnjuWjzgrXBCN06UIVhWQOmGI2_zJY8x0Sndq_XsCmpg0VuCmcApnV5tADFhm_YzvQBLMHkyWmeLNUEv71ha-9CK_bPWBopRfvipHhI1F_nL13781QqNOrA=",
+            "https://www.audible.com/author/Karla-Sorensen/B015W9N296"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm 5 books in the series."
+        },
+        {
+          "series_name": "Bachelors of the Ridge",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Dylan",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxazPNb3mUz-xiEMxXBqOi5gXSbjEMSoOwh914brzgREIXiicL0MyEvuoGn7yzgungWW6AGGUeNRgUL4AN94-uYwL5Deug5mnEjLPTpy-pvmOn5ACPSuOTRR2yqzwZR5Nfz1dFLRZV3bNodrN1",
+          "first_book_goodreads_rating": 3.8,
+          "first_book_goodreads_rating_count": 2271,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Friends to Lovers",
+          "print_publisher_or_imprint": "Dutch Girl Publishing, LLC",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/author/151947/karla-sorensen",
+          "rbmedia_evidence_note": "Karla Sorensen has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxazPNb3mUz-xiEMxXBqOi5gXSbjEMSoOwh914brzgREIXiicL0MyEvuoGn7yzgungWW6AGGUeNRgUL4AN94-uYwL5Deug5mnEjLPTpy-pvmOn5ACPSuOTRR2yqzwZR5Nfz1dFLRZV3bNodrN1",
+            "https://www.goodreads.com/series/194146-bachelors-of-the-ridge"
+          ],
+          "confidence_notes": "Confirmed 5 primary works on Goodreads."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Ward Sisters",
+          "reason_excluded": "Only 4 primary works."
+        },
+        {
+          "series_name": "Washington Wolves",
+          "reason_excluded": "Only 3 primary works."
+        },
+        {
+          "series_name": "Love at First Sight",
+          "reason_excluded": "Only 4 primary works."
+        },
+        {
+          "series_name": "The Wolves: A Football Dynasty",
+          "reason_excluded": "Only 3 primary works."
+        },
+        {
+          "series_name": "The Best Men",
+          "reason_excluded": "Only 2 primary works."
+        },
+        {
+          "series_name": "The Kings",
+          "reason_excluded": "Only 2 primary works."
+        },
+        {
+          "series_name": "Three Little Words",
+          "reason_excluded": "Only 3 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audiobooks.com/author/151947/karla-sorensen",
+      "author_level_rbmedia_note": "Karla Sorensen has multiple audiobooks on Audiobooks.com.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0gTHGBTWhl9M0h-SwxWX_atgH7YNzP1UoNupUaJxFCww0K8rWWgfys3bRvhEBS76SadmWlM1Y86YUyf5YBc2jMirUMhynHBmPHOQjE55m7lHBK6xORUSAZ_fjgFIXZ97vKAWbpqzybwbCCKQgUuG4KPy5FgGg27VN",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgw70BTbmMawNFAEDtZP9Z2KAdr0dLWUDgpYEg12AYAOVSoq57zNST6gFxkq6RoJXnOuoWij9xklRkR2XzfiVwVGa6xRygBCoefYVw3U4ZOyqWwEv5kDEdmifMqx0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYo2rtX1R877Ja-_eD58XGGhrZWi9WSTAHGYNcHVQ2r41NHgEcAHI2WgrU9-F2t7fe-S1Y8oKUuDf-WOzYyL40yruirndowY1mcs49URYha8T-oiWG9TC_4Zy5GCgIb84MjJENYGQqQnWaUDzDUyXh4Yyh1HRGLZfxLOCGKA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc28KX8ixY75gpRAIBDqXL65Vvb58vWkeopf5MaxQeJYzdk8mPk_l4UFA0_CV9e4SfeTTY7F9kG6Spxft07lYakJBRefgGskJ9YtdAE_P1PqDqr-n7bVu1_Ycnabg5MBu1wBBf3Fr4_UUBsw5ZZvY=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnn8IYDqNvJib3h-UgoAI7Uoy8x0p8h09UJR1d7Nvh9dvYpZQZWcklZvT5v1G5OW22Xp_d8NJlP7y3Ob_OSVXutHGb5ETleq6M1tbpxj6rIZaQuXJiac_CHQn5RtERlZkygmHjLMIkHQh3imlny8pVZ91y_w=="
+      ]
+    },
+    {
+      "author_name": "Devney Perry",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12Ajh2U_S9T7Z7FXrRo2Og8FEFobjv6QbeftJUWPgyzLl26vwEv7rEI2K9XKCRwCmT7LPFlKo0ZaZeqV7djDMu_DuDOcBDvKQZDzIbrltOzrNt3Qozb-7fA==",
+      "qualifying_series": [
+        {
+          "series_name": "The Edens",
+          "goodreads_series_url": "https://www.goodreads.com/series/268415-the-edens",
+          "primary_works": 6,
+          "total_books": 6,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Indigo Ridge",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/48588411-indigo-ridge",
+          "first_book_goodreads_rating": 4.24,
+          "first_book_goodreads_rating_count": 23494,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Family Saga",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+          "rbmedia_evidence_note": "Devney Perry has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://www.goodreads.com/series/268415-the-edens",
+            "https://www.goodreads.com/book/show/48588411-indigo-ridge",
+            "https://www.audiobooks.com/audiobook/devney-perry/147215"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm series details."
+        },
+        {
+          "series_name": "Lark Cove",
+          "goodreads_series_url": "https://www.goodreads.com/series/268418-lark-cove",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "The Coppersmith Farmhouse",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/50064483-the-coppersmith-farmhouse",
+          "first_book_goodreads_rating": 4.23,
+          "first_book_goodreads_rating_count": 18444,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Small Town Romance",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+          "rbmedia_evidence_note": "Devney Perry has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://www.goodreads.com/series/268418-lark-cove",
+            "https://www.goodreads.com/book/show/50064483-the-coppersmith-farmhouse",
+            "https://www.audiobooks.com/audiobook/devney-perry/147215"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm series details."
+        },
+        {
+          "series_name": "Clifton Forge",
+          "goodreads_series_url": "https://www.goodreads.com/series/299144-clifton-forge",
+          "primary_works": 6,
+          "total_books": 6,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "The Birthday List",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/55713844-the-birthday-list",
+          "first_book_goodreads_rating": 4.24,
+          "first_book_goodreads_rating_count": 16419,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Small Town Romance",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+          "rbmedia_evidence_note": "Devney Perry has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://www.goodreads.com/series/299144-clifton-forge",
+            "https://www.goodreads.com/book/show/55713844-the-birthday-list",
+            "https://www.audiobooks.com/audiobook/devney-perry/147215"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm series details."
+        },
+        {
+          "series_name": "Jamison Valley",
+          "goodreads_series_url": "https://www.goodreads.com/series/224289-jamison-valley",
+          "primary_works": 6,
+          "total_books": 6,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Timber Falls",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/40601938-timber-falls",
+          "first_book_goodreads_rating": 4.16,
+          "first_book_goodreads_rating_count": 20248,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Small Town Romance",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+          "rbmedia_evidence_note": "Devney Perry has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://www.goodreads.com/series/224289-jamison-valley",
+            "https://www.goodreads.com/book/show/40601938-timber-falls",
+            "https://www.audiobooks.com/audiobook/devney-perry/147215"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm series details."
+        },
+        {
+          "series_name": "Runaway",
+          "goodreads_series_url": "https://www.goodreads.com/series/309941-runaway",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "The Drifter",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/58384178-the-drifter",
+          "first_book_goodreads_rating": 4.11,
+          "first_book_goodreads_rating_count": 10498,
+          "genre_bucket": "romance",
+          "lead_pairing": "F/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Road Trip",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+          "rbmedia_evidence_note": "Devney Perry has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://www.goodreads.com/series/309941-runaway",
+            "https://www.goodreads.com/book/show/58384178-the-drifter",
+            "https://www.audiobooks.com/audiobook/devney-perry/147215"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm series details."
+        },
+        {
+          "series_name": "Treasure State Wildcats",
+          "goodreads_series_url": "https://www.goodreads.com/series/339448-treasure-state-wildcats",
+          "primary_works": 5,
+          "total_books": 5,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "The Quarterback",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/61294698-the-quarterback",
+          "first_book_goodreads_rating": 4.21,
+          "first_book_goodreads_rating_count": 7419,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Contemporary Romance",
+          "primary_trope": "Sports Romance",
+          "print_publisher_or_imprint": "Self-Published",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+          "rbmedia_evidence_note": "Devney Perry has multiple audiobooks on Audiobooks.com.",
+          "support_urls": [
+            "https://www.goodreads.com/series/339448-treasure-state-wildcats",
+            "https://www.goodreads.com/book/show/61294698-the-quarterback",
+            "https://www.audiobooks.com/audiobook/devney-perry/147215"
+          ],
+          "confidence_notes": "Goodreads and author's website confirm series details."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Haven River Ranch",
+          "reason_excluded": "Only 2 primary works"
+        },
+        {
+          "series_name": "Maysen Jar",
+          "reason_excluded": "Only 2 primary works"
+        },
+        {
+          "series_name": "Shield of Sparrows",
+          "reason_excluded": "Only 3 primary works and is romantasy, not strictly romance/drama"
+        },
+        {
+          "series_name": "Calamity Montana",
+          "reason_excluded": "Series of standalones, not a true series"
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audiobooks.com/audiobook/devney-perry/147215",
+      "author_level_rbmedia_note": "Devney Perry has multiple audiobooks available on Audiobooks.com.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvLAmL46vvWT3ulI1NHOV477c8cL7qjKt7v6OLF5gD2t-0bXuP9QgliCJ1bAC_Xpn3VpSy-K1cgfzkpcF8NqPvZams-wwZ5FN8e_Z2dy9CWHytfHbBg3Xuuj3Se7zOrK3UIh2zKRgCjKXzam58w8vnCd7s9PE7vA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT5LoeipnitnrC9KVckoBf9EBhDr1AcFo3CFPc5zLOa1SAAgFao_AQD1vjXmxldeGgfGCx0JKwPXzVsVrybCkD-XCCbGE5PWLglVE_oYB8d6MYdLg0lCMuuOzJ6fPan1ESKaWVn05jQTTDktoBPTpGQ6IvOJEkYzEthM0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12Ajh2U_S9T7Z7FXrRo2Og8FEFobjv6QbeftJUWPgyzLl26vwEv7rEI2K9XKCRwCmT7LPFlKo0ZaZeqV7djDMu_DuDOcBDvKQZDzIbrltOzrNt3Qozb-7fA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ7zyHr6jzjAkF0MiYaUvx-6PserUAI9CN_YLC-PImE5iyFFRIHOCSAZrhjPgkdvPPleI3fzWFJGwJLPO4gcsAniDupORJqozP2jqWOTtqy-oliJwvr8lKtEHgwb2pI293ysnOx_xaNN8HmTU-8bQe5-DTOWQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEAelZ6Kpm2frAhSqoBPXwtl1RiyAZ59ZoIKOR2Mu36HW2bgsLGuqLtxghtAroHM2fNgVyK32Ay7RCGSx4MNHtZpCqHOl6w9Syv-RwX1wDd3HkE-hyFmqFgjB25oN_IW6-Bc_B7l5NJxWneYvWbjoqhRgW",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ETctxii8HxNc-anIbCs31aYlV4V2kzveuAJIGWtMF6JBhwbyLICX9y3C8uBjH--qdA4nsMlsM7bvhxPeJ7a1mu0kqW646z0a40jzsqHKjLg4ON-kp9qxzDOdmVzauYHJQ_bNnEMZxUZ9uC9dHMcHkQUB"
+      ]
+    },
+    {
+      "author_name": "Giana Darling",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://theseymouragency.com/fiction/",
+      "qualifying_series": [
+        {
+          "series_name": "Fallen Men",
+          "goodreads_series_url": "https://www.goodreads.com/series/204229-fallen-men",
+          "primary_works": 9,
+          "total_books": 14,
+          "threshold_flag": "gt5_or_more",
+          "first_book_title": "Lessons in Corruption",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/36421148-lessons-in-corruption",
+          "first_book_goodreads_rating": 3.95,
+          "first_book_goodreads_rating_count": 25997,
+          "genre_bucket": "romance/drama",
+          "lead_pairing": "M/F",
+          "sub_genre": "MC Romance",
+          "primary_trope": "Forbidden Romance",
+          "print_publisher_or_imprint": "Unknown",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.com/search?searchAuthor=Giana+Darling",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, an RBmedia company.",
+          "support_urls": [
+            "https://www.goodreads.com/series/204229-fallen-men",
+            "https://www.goodreads.com/book/show/36421148-lessons-in-corruption",
+            "https://gianadarling.com/books",
+            "https://www.audible.com/search?searchAuthor=Giana+Darling"
+          ],
+          "confidence_notes": "Goodreads confirms 9 primary works. Lessons in Corruption is the first book."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "Anti-Heroes in Love",
+          "reason_excluded": "Only 2 primary works."
+        },
+        {
+          "series_name": "My Dark Mafia Romance",
+          "reason_excluded": "Only 2 primary works."
+        },
+        {
+          "series_name": "Dark Dream Duet",
+          "reason_excluded": "Only 2 primary works."
+        },
+        {
+          "series_name": "The Evolution of Sin Trilogy",
+          "reason_excluded": "Only 3 primary works."
+        },
+        {
+          "series_name": "The Enslaved Duet",
+          "reason_excluded": "Only 2 primary works."
+        },
+        {
+          "series_name": "Impossible Universe",
+          "reason_excluded": "Only 3 primary works."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/search?searchAuthor=Giana+Darling",
+      "author_level_rbmedia_note": "Giana Darling has multiple audiobooks available on Audible.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3bDnzh3M1gPrKH_daw3wSASnbKR2C34xOQ-uE2SCDoWAWZ8N7aRd0u3pzZ4J20MwEXu0OSmhBFuoRdDOa25O3gCnYYazTsjucxgLTnz-uocnCK3IGEll5BjTOujQQxfdZ6LApFTNE5d27D1IRpz8Tbg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK_yzWTd9VeGS2Go005ikTE-y1efVVd4IOrpHiHqqCe2vgAIM0lolP4-GihZ_f80n_vZgRpDL92dXfSGxua0AE77ndZQtvvQnplWmFx4inGkQOT8eWdxs4V991kYfuM9Uv1uhsOlrvQc-W5s8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAAA0CqKu4H_53Q4yKnDPmyGHTmtJ2R4_GTavIATdoSoP9E65wE2ZnPOiJJpOSkHtBATNw3I6_wqprCcSzIr2_9G5bmMhLOjwBs5Hc6eXxHi8zrIaTet74qChkGvVuHgBzI7Ca5kAYUzz9Gp9C6JFhOqYg3SPB",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCCf9XZ00cqAJVG45jJ-qM6Ca8eaDfz1X_2nc5YEApR-lyCRIl8Xjnk0pCPpkF4t_20sHbO5m736bk3vjhiRKp71DxxA81-d2Ppxa4-cccL5ZgdObhWeKlXL0ObGh9nRDc4LQxcbW7WQ8xoXvdAas8AFihK4QQkMSCfyg=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjwBfzr6WofAzT_bsfaPTRxLMBga8Pdu6kReCu8UBddAYYsFBWy0pu43Hy6X4xLZzCIDahokslMO2npnTriSt-XVTvdYk4umwwN5yU8Shg_GBtoiip7Tdy-XiHHtlEZoobzbSJq_s=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECstRFyyIm_HiGsNX9T-vo9ibrAHpIJsMpRGg6z8YfQspxaCm_LEJF7AFjBUY81biHmG7l_W_iYdFAwyzx5EsWLPpKmFgjuwxX7WSMcaC31pvtEmHutfC-Zg5wGv2QtYaCB_GAjCwijl3yy_dco-0l-tFCBtwn-Z46SVyuifTw",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_WJHZltlY6lfoDLM9TqfN1LPtnMNwGfhEmw9xKI14aeR886qx6KOdOn8Vkx_OlS3DHMVc2aqm2pJMAfJNWHna5KKGMGq7hYw6odW_6hj--ZcJpFkDAiAlDUVKB1rPXvrLjKqUt-ScOAIAMYsVlzAGzvUgjyw=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8O1NB0CsnutRXK7--bADhM_hQYWSasHPa12sVls9r_ZI-uxgTinirL996OoqCCoT3QriAw4CL9j2HDlqKsj9LRU5c7Kt46sJg3A_0qeMFQU4_8uOmXpV44rHS4ZRdvRqbNxqEb1Su1ZdbqxXKnu3qQw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnLxVkDKdySAGd1FN6TNwdz0LXoCIrgalSgrYzDQCJEy88I5cN7pioKo7KwlNixAOK5FOayNXJ9t9xSRpf7Ep2uhmLn0a7LYWzD4IxhtznmeSUwOqTSnK9E-fuhHtJhbT2ey7Om-owk6WEzA0VofNi9hwb",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6osdUgYHHw30wWzRSVFtWMXP9wpPrQhL2JUI6bmQ_o-ZLz9Y6igaeMuK-xwmYsKKctEwbkD-VwpP4fUNa28x1UuxMKQYK6UDi9YawEbnYiW36qYPgb27_boHUSZnDQlU6kwt_q4nfRD_u9zEJBToXjWHH2gizqyQQeo_yHA=="
+      ]
+    },
+    {
+      "author_name": "Jennifer Hartmann",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1I3ozDwhsVphp8_iL4-duvHgWEXlKWah55mtLJ0ifNSisKoqJvWkdFYd9D8aGlM69QBatSxu2K5SAL3Bune3vWcYQW81qDQ-JjKySyAEdviJXilvsu6M6SbiD1fxKCSJaEjWBoDkVOXH18A==",
+      "qualifying_series": [],
+      "other_series_considered": [
+        {
+          "series_name": "Heartsong",
+          "reason_excluded": "Only 2 books in the series."
+        },
+        {
+          "series_name": "Duet",
+          "reason_excluded": "Only 2 books in the series."
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.com/author/Jennifer-Hartmann/B08L4L3K2N",
+      "author_level_rbmedia_note": "Jennifer Hartmann has several audiobooks available on Audible, an RBmedia company.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyBTodnwQ3aTc2X8LD-7G9RV6_pdRIBV2MQkVIAkZyW7kdN1rrYM4YRxtaeFvLDMiDyr9TdwiwPppYem3s-NCnxhv0a1xMuWC0L7odYGduy-O0pRTPKXNsFj2gwyrzW-SjmDdZVjJMfSnEPiHgAG_Kbf3sf78M"
+      ]
+    },
+    {
+      "author_name": "Meg Alivien",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9qIKSvA9doJkoeTYomgDF8gX98Egf5l7kI1nm-XwNCw98nDQodEmDoP7JZs5otjaOHLZD0KaiJwPyhL0wYzGa82QvqXL50EvoREpw0_LsdPXk3hHqgBDFxxlnpG23N3ZSpfeS8siVFDKQKFoIrn6CL7SvQro=",
+      "qualifying_series": [
+        {
+          "series_name": "Monster Boyfriends",
+          "goodreads_series_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFue1VylhYhT7A0YNe1eNituv-T6m8y1F_IFZMIuHVZiQHCBaXk_45xp13f4hcFVw1betl7CwwqAPlbzsGZiEsZWwMWuefJx5DkEUpw-CTxoDeGT0sAzT7GZkb-N8HQd2XJkz4jTGqVob1ZO5iQw-BdVXdBi8=",
+          "primary_works": 3,
+          "total_books": 3,
+          "threshold_flag": "no",
+          "first_book_title": "Howl",
+          "first_book_goodreads_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8KYGI5nQWlSu1NR_HK6yUNayx6BFcdRoz9XMKTbtp0gFz-FhkVpxWwq3iBlcxcyZ-CtAb9oH6yYgtKcndEBLkGz549X0X0wNpGm04qGLw5IHEhJL0EpuTWlmJSFDP1QOICw_c-ao1sl9Bmjd47nb",
+          "first_book_goodreads_rating": 3.53,
+          "first_book_goodreads_rating_count": 2241,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "paranormal romance",
+          "primary_trope": "friends to lovers",
+          "print_publisher_or_imprint": "unknown",
+          "rbmedia_sanity_check": "yes_series_level",
+          "rbmedia_evidence_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoFaas0zSRUmdiuwCAdiSxWCBymFEaxjOK-L96iVdG2EcO1_bh2h55CR4pZ-bxqddRP9i0zVd1cWaX3Fn9IVefq0VqkN3MtYukw_s5e1eyg3Pn9UCTO_o0UUht7J63khif-EPhVRjOzXiWbjmoSMGz",
+          "rbmedia_evidence_note": "Both Howl and Hunt are available as audiobooks on Audible.",
+          "support_urls": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9qIKSvA9doJkoeTYomgDF8gX98Egf5l7kI1nm-XwNCw98nDQodEmDoP7JZs5otjaOHLZD0KaiJwPyhL0wYzGa82QvqXL50EvoREpw0_LsdPXk3hHqgBDFxxlnpG23N3ZSpfeS8siVFDKQKFoIrn6CL7SvQro=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFue1VylhYhT7A0YNe1eNituv-T6m8y1F_IFZMIuHVZiQHCBaXk_45xp13f4hcFVw1betl7CwwqAPlbzsGZiEsZWwMWuefJx5DkEUpw-CTxoDeGT0sAzT7GZkb-N8HQd2XJkz4jTGqVob1ZO5iQw-BdVXdBi8=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8KYGI5nQWlSu1NR_HK6yUNayx6BFcdRoz9XMKTbtp0gFz-FhkVpxWwq3iBlcxcyZ-CtAb9oH6yYgtKcndEBLkGz549X0X0wNpGm04qGLw5IHEhJL0EpuTWlmJSFDP1QOICw_c-ao1sl9Bmjd47nb",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoFaas0zSRUmdiuwCAdiSxWCBymFEaxjOK-L96iVdG2EcO1_bh2h55CR4pZ-bxqddRP9i0zVd1cWaX3Fn9IVefq0VqkN3MtYukw_s5e1eyg3Pn9UCTO_o0UUht7J63khif-EPhVRjOzXiWbjmoSMGz"
+          ],
+          "confidence_notes": "Confirmed series details and representation via Goodreads and Seymour Agency website. RBmedia presence confirmed via Audible."
+        }
+      ],
+      "other_series_considered": [],
+      "author_level_rbmedia_url": null,
+      "author_level_rbmedia_note": null,
+      "_grounding_sources": []
+    },
+    {
+      "author_name": "Fiona Miers",
+      "represented_by_seymour": true,
+      "representation_evidence_url": "https://www.theseyourgagency.com/",
+      "qualifying_series": [
+        {
+          "series_name": "The Heir and a Spare",
+          "goodreads_series_url": "https://www.goodreads.com/series/164484-the-heir-and-a-spare",
+          "primary_works": 5,
+          "total_books": 6,
+          "threshold_flag": "eq5_borderline",
+          "first_book_title": "Sarah's Duke and Ellie's Gentleman",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/25894141-sarah-s-duke-and-ellie-s-gentleman",
+          "first_book_goodreads_rating": 4.03,
+          "first_book_goodreads_rating_count": 1045,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Historical Romance",
+          "primary_trope": "Friends to Lovers",
+          "print_publisher_or_imprint": "Harley Romance Publishing",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.ca/search?searchAuthor=Fiona+Miers",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, an RBmedia imprint.",
+          "support_urls": [
+            "https://www.goodreads.com/series/164484-the-heir-and-a-spare",
+            "https://www.fantasticfiction.com/m/fiona-miers/heir-and-a-spare.htm",
+            "https://www.harleyromancepublishing.com/"
+          ],
+          "confidence_notes": "Goodreads and Fantastic Fiction confirm series details."
+        },
+        {
+          "series_name": "The Seymour Siblings",
+          "goodreads_series_url": "https://www.goodreads.com/series/297418-the-seymour-siblings",
+          "primary_works": 3,
+          "total_books": 3,
+          "threshold_flag": "lt5",
+          "first_book_title": "The Duke's Marriage of Convenience",
+          "first_book_goodreads_url": "https://www.goodreads.com/book/show/54313282-the-duke-s-marriage-of-convenience",
+          "first_book_goodreads_rating": 3.54,
+          "first_book_goodreads_rating_count": 1040,
+          "genre_bucket": "romance",
+          "lead_pairing": "M/F",
+          "sub_genre": "Historical Romance",
+          "primary_trope": "Marriage of Convenience",
+          "print_publisher_or_imprint": "Harley Romance Publishing",
+          "rbmedia_sanity_check": "yes_author_level",
+          "rbmedia_evidence_url": "https://www.audible.ca/search?searchAuthor=Fiona+Miers",
+          "rbmedia_evidence_note": "Author has multiple audiobooks on Audible, an RBmedia imprint.",
+          "support_urls": [
+            "https://www.goodreads.com/series/297418-the-seymour-siblings",
+            "https://www.harleyromancepublishing.com/",
+            "https://www.fantasticfiction.com/m/fiona-miers/seymour-siblings.htm"
+          ],
+          "confidence_notes": "Goodreads and Fantastic Fiction confirm series details."
+        }
+      ],
+      "other_series_considered": [
+        {
+          "series_name": "The Duke's Brothers",
+          "reason_excluded": "Less than 5 primary works"
+        },
+        {
+          "series_name": "Darrow Sisters",
+          "reason_excluded": "Less than 5 primary works"
+        }
+      ],
+      "author_level_rbmedia_url": "https://www.audible.ca/search?searchAuthor=Fiona+Miers",
+      "author_level_rbmedia_note": "Fiona Miers has multiple audiobooks available on Audible.",
+      "_grounding_sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH5vQY93pG0RGeuvdx3QbSK88jtLpJyyQxNqBNR6cEOdiwb44olYt3h0rZVHvJ7je0DfCy2JMljIuwyGZUZu6WxAQ4-dakmUGOEUWRU9L05McJXJKGfhRzPMnD5WgmtxgOK2Q87ybgWbRB6A9__i0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFGgcAoQmRs5fkiljuCD02CAN-qw5gczLQuE3PPqZmI6v7VTxdGQtgASGwmrLkM2H5AjZrzpS3t6UIsAeiHa2WhIbaVwKrCUiOvMBtQ96h0atth-Gj2EQLxSx5CCBC-NzMkXcIG2jqacpE"
+      ]
+    }
+  ],
+  "final_row_count": 27
+}

@@ -1,0 +1,128 @@
+{
+  "chosen_payloads": [
+    {
+      "author": "Adriana Locke",
+      "score": 421,
+      "file": "88085ac9469f01fa9ca2e46c53cfcabd.json",
+      "series_count": 4
+    },
+    {
+      "author": "Amy Daws",
+      "score": 213,
+      "file": "fce1ea45335c59c9f47cd7d2642c6388.json",
+      "series_count": 2
+    },
+    {
+      "author": "Bella Matthews",
+      "score": 336,
+      "file": "29a7ba87a3cbaf9c9d21a55ac90109f2.json",
+      "series_count": 3
+    },
+    {
+      "author": "Charity Ferrell",
+      "score": 228,
+      "file": "60dd93a2744d889108d610791a7c5a9d.json",
+      "series_count": 2
+    },
+    {
+      "author": "Devney Perry",
+      "score": 718,
+      "file": "e0817ecb736aa204862be3d8882168f9.json",
+      "series_count": 6
+    },
+    {
+      "author": "Fiona Cole",
+      "score": 118,
+      "file": "9a658ea07a2d1e0804e20ef89529af54.json",
+      "series_count": 1
+    },
+    {
+      "author": "Fiona Miers",
+      "score": 230,
+      "file": "bf6adb795094893552ff20cdd30665c4.json",
+      "series_count": 2
+    },
+    {
+      "author": "Giana Darling",
+      "score": 120,
+      "file": "37674df3177e0a40bbd60d4089f06bf6.json",
+      "series_count": 1
+    },
+    {
+      "author": "Jennifer Beckstrand",
+      "score": 423,
+      "file": "53430fe4694389257b42c9ed62db8777.json",
+      "series_count": 4
+    },
+    {
+      "author": "Jennifer Hartmann",
+      "score": 108,
+      "file": "54d98f0c932bc47ec4bbc1de94dba1ea.json",
+      "series_count": 1
+    },
+    {
+      "author": "Kait Ballenger",
+      "score": 213,
+      "file": "805549f5e4f573a18f4b382af8e46ecc.json",
+      "series_count": 2
+    },
+    {
+      "author": "Karla Sorensen",
+      "score": 213,
+      "file": "d324cb73a543d75943f6e0c0f79498ec.json",
+      "series_count": 2
+    },
+    {
+      "author": "Meg Alivien",
+      "score": 108,
+      "file": "feec0544b41425bc3cd92ac73d268132.json",
+      "series_count": 1
+    },
+    {
+      "author": "Mira Lyn Kelly",
+      "score": 423,
+      "file": "b382c965c43c5289c23be5dbf4e29f48.json",
+      "series_count": 4
+    },
+    {
+      "author": "Rebecca Jenshak",
+      "score": 528,
+      "file": "eb84beeae1d46aed7bf2d97bc7a2b86b.json",
+      "series_count": 5
+    },
+    {
+      "author": "Samantha Christy",
+      "score": 948,
+      "file": "f718b48a323c7f5b3a42d60f719755ed.json",
+      "series_count": 9
+    },
+    {
+      "author": "Willow Aster",
+      "score": 446,
+      "file": "eb0895288e0a781caecdc7bf7ead998a.json",
+      "series_count": 4
+    }
+  ],
+  "row_count": 32,
+  "authors": [
+    "Adriana Locke",
+    "Amy Daws",
+    "Bella Matthews",
+    "Charity Ferrell",
+    "Devney Perry",
+    "Fiona Cole",
+    "Fiona Miers",
+    "Giana Darling",
+    "Jennifer Beckstrand",
+    "Kait Ballenger",
+    "Karla Sorensen",
+    "Mira Lyn Kelly",
+    "Rebecca Jenshak",
+    "Willow Aster"
+  ],
+  "rb_counts": {
+    "no": 29,
+    "yes_author_level": 2,
+    "yes_series_level": 1
+  }
+}

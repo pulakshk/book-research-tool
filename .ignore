@@ -1,0 +1,20 @@
+# Cold storage and duplicated trees
+_archive/
+.claude/worktrees/
+
+# Runtime scratch
+.tmp/
+
+# Historical reports kept only for reference
+outreach/**/reports/*.md
+!outreach/**/reports/README.md
+outreach/sheets/docs/*.md
+!outreach/sheets/docs/README.md
+subgenre-pipeline/genre-crawl/*.md
+!subgenre-pipeline/genre-crawl/README.md
+subgenre-pipeline/output/*.md
+!subgenre-pipeline/output/README.md
+
+# Local noise
+.DS_Store
+*.log

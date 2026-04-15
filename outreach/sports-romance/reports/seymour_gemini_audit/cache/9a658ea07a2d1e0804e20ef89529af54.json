@@ -1,0 +1,137 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Fiona Cole\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIZkTEzjRfyC5WrRUlE2f3SnaijG0_lXGkz-GjEEPAfOAdJfv8M30vvWuTWFDvoulLH-TggquSwXU1N-QFmXAhOaEhWGwQILlCXOI-cpx0Ci7adx9I7jwtqugu2MKMgKJeQjgD4rwOcVzc6w==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Voyeur\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/227920-voyeur\",\n      \"primary_works\": 8,\n      \"total_books\": 11,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Voyeur\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/39348919-voyeur\",\n      \"first_book_goodreads_rating\": 3.64,\n      \"first_book_goodreads_rating_count\": 31747,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"student-teacher, forbidden romance\",\n      \"primary_trope\": \"forbidden romance\",\n      \"print_publisher_or_imprint\": \"Unknown\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Fiona+Cole\",\n      \"rbmedia_evidence_note\": \"Multiple titles in the series available on Audible, which distributes RBmedia audiobooks.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/227920-voyeur\",\n        \"https://www.goodreads.com/book/show/39348919-voyeur\",\n        \"https://www.audible.com/search?searchAuthor=Fiona+Cole\"\n      ],\n      \"confidence_notes\": \"Goodreads confirms 8 primary works. RBmedia has multiple audiobooks by Fiona Cole, including titles from the Voyeur series.\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Blame it on the Alcohol\",\n      \"reason_excluded\": \"Less than 5 primary works (3 primary works)\"\n    },\n    {\n      \"series_name\": \"Shame Me Not\",\n      \"reason_excluded\": \"Less than 5 primary works (1 primary work)\"\n    },\n    {\n      \"series_name\": \"Me\",\n      \"reason_excluded\": \"Less than 5 primary works (3 primary works)\"\n    },\n    {\n      \"series_name\": \"Aspen\",\n      \"reason_excluded\": \"Less than 5 primary works (1 primary work)\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Fiona+Cole\",\n  \"author_level_rbmedia_note\": \"Fiona Cole has multiple audiobooks available on Audible.\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkQzKGRFazEusR3mkos8azhUoHOqYbMyJBEu4u5WzN4yX8RP4TR9OlFvNE-_sp83ACC-p7-7-rMjKx-SSyIt8NYnoiOoDrGdSBslFfYkO47GkUrHTHBy09kPSRRTX7Y2Gtak4dQws3jFwl5c3e6TbGu9uozWEJXQPNodDLzcdtNEntaVfCx8wjAjLGpTIR7qbMfq6Skhuu5UWrmx34\">Fiona Cole Christian Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx_fypokrqGqJUVzdjERZ_TMUI7gEwNmnvAUUth-kdnfU2MvO1sX_Xs5K2KUOVBIDktr5DeeOnFwaf1adHVwMPmRCzgkHKMUm97VYXu3XZpumNy17Mmr_G1N8qvpVtZ0P_gof-0GNcmyutNXF4VquvpOX8aknJpbWoBFpTfzbfI98eSyWBXDjtMKqD1r42_OUG9jLLKtX86BAhX616tA==\">Fiona Cole series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRLflgH_pG4xZJ_f-GFgsEmAAHAgCSLoHwy8vx8a3TVGiBoxJNlCrYZH4BKzV8XqmYpuJKc7uz3hpAYZrli0DCNhpFLeBVJBpPwSw0C9yRDF0X8J0q6I1ivwYKPEGn-79nyjoExoCk9SIEV3WFi-xVV9sYXbiQfaHgTmPtxVeMuNE76z_3nN83eOWbe_8uRvO-cvlcJA2cO0qIk9hvqbOx\">Fiona Cole The Seymour Agency</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR5msxKhHEr83W05BRPICQVBD6_tnuaICo4ZHiOBCFiymZ5PaolURiTPcc4gRxjlIarPUKIAoATeoYTyFHaMEgJtGycmu-hXEnIfGGCXmiR_oTxYyKT4s3br4Qqv5oqlj2zmK_ZzFr8RSCHAmEMHoYRAkSZ9pBIX58EhoU0gp36tkj3Qvj87EBOdzzxp1Vf49OEwvu\">Fiona Cole Tantor</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH82cQR_dJzqaJnB7OKO5wuQxbimnw74H7GNmnTsLVIdigmADOb2aWOIUgjIiWCxBevPD_aF7Uo7hSDT8SqLJ9ekC5ttAebRZGKcfXF9o7BCMSueXK_TiYAmiFeIenW_K6Y5woK-Q7CxGXYKVSeKNfCq6QQlXS6S9oTSE9CdY2XtaMqRIpza2PH93KsUBFt_5UgoPEYwzEp_g==\">Fiona Cole Dreamscape</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHthTPS1RZPapBK_eFeRtc3xgHX2TXhVE24itGYV8TgxWEBErmvkBy7CFwz6BBvT-sd1j9YHJfYZYSEv6TZu7oLRgQiL3bZAnNpycVwEfsAVZxS161UhX-4bTTkO0vVHcEVefj8HSN_Ql214P8LvdeOgVNfFwEB587DYvW3y3YAcO_4NlFtXeYeTEW0KM-qsc1SX4Lzdg==\">Fiona Cole RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFijN4XEiSdP0cYUd37PEPOJdww0PwoPjSi8ZyXXoLPWNUVBdBIyh3clpZ7ejFNFOoeBe1-kMWDRRWdTuBO8hXrF9xcIKPtq9YM__N1iNcD8aavRPeI8TBwYSeyuOboG0eqTjyuR2or9AcAJnyfRNMZGsSp8Dp7Fy1P8H782Dlt0_Wbioz-zMXlgLnuhmy8o6at_Qu5T_ro\">Fiona Cole Wavesound</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHba-N6M4BvIX794POkHlBQGmuYx4HO5CN_J6PweLIeevLWUOUcCjt8m7dJxNEgWeY5VWSwfma0t2FNdY3WJZ5OcPeXsFrgWFmtdadDCsuuEJcUJYwtnatKdJyz6zkL5YXidYoIQ7fxd6ShBagDGE6H69S_8Vqn_hHxPCxO7hWy-XIUdk4-sJAa_DV03cFRF1BCDQeH5mCaPM4=\">Fiona Cole W. F. Howes</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2W-jpndML2UUm481h8ZhuNkpsrOUcQgpl-vl5QykkYSRef25CJPQGKa6voCmynuckd_7fu5PLskClzyLsRFI9Rw1YPDkvNznF7qK-u1pY7R9H6rJgUY2ilQ2xxdbYIAc2TcTVjbaG9xKsvIwdlvlgjy2WTmjZKHCVxBk-U5xh7Z6kSV4IeW2X4lMaexaJZBke-V0Fi8LUhr4Z2iI=\">Fiona Cole Kalorama Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKWjZ5CHTH-dZ-ttGYVwSwfTdMS8vI8yQsSlK8911ESlx7saJFD3H12WMdldhH6iEIAZIkIAK3H9fJ3LxbpmC4VPhZMqpZErJIW4zA-s3m1VzPIyUu2UhJWBeOE2X_HiTGYxx-YmLK6tMWwHwoMS13ggPQ3gtPK5JRq-Bzzs79gEOXE1bnOVzzMQRTzn5-9IqCe9cEgm2F7g==\">Fiona Cole HighBridge</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEBB1yb1Jxl9chcZJomkekyuPa0ogD1x56XD_sfDQL3fhxfhcQry4spB1JxQSWYfI1-xb_QKQU7N4i2X5H0-hTrx4o7q2-OObNpqIk7c8nBSBARL5yOaiALCsDdXhl28p-Nh6-up8t2R2ibNVq6uM61m3ZuvcsJ6dH7gXo6gTZSvM5qiUApOMrKh900IvzGzKbr7S114w4EMNdEw=\">Fiona Cole Recorded Books</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqQvwHWBhFADcN3iidqLNt6gll3Sqm17_4xb8kGhI3ypXYta30vE9YVZRL0e6tUScegJL1_5nQmgjsQdShchCzfm3ff3FkVnWBnsTTrKiXuy5Vk4ndIJtdmKVfx5hoiIeSYh8upMHmZ3In8gu1pWvQkwSCnrsmZ6NwaJJvxR8EjajW2LIHPXXxGUMg0EPMpBqP7SJxxJuL\">Fiona Cole Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHK7oqNjLXHD4VFJrkCiqz2DjDPvcz6FIMiWMoZEhVub_wL_ks1Ubgco-Ovryass4B8fA8cyTuyLPYxSCN_KMg1W0qQOcxSuoyLNunj60yaSzNaviluPpAMuKq6RypCysgI9EGW-jd9icQlSnpvKEiEIA-O9zrt_gnl6Z57_nFWkKkA_4LBY978aAdPX3m_7TlIycZRJb36MZl\">Fiona Cole Ascent Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc3hfVB7bRTddg9D1A3JCDLk1cn7pkN9K4y8tb_FPRcIvyEYnmPkxkdKk9Hdu_w7pOpo9i90vciht5uW5O3VGDFhjCinxGIkQMbtVCI_ZQltwrxoqsiRFfP5PdPPkKU8ZGiTrEFs-7YIbDn7MPrp7qkh31imAA-uTAeQ_rFekTUlFuvHXD3QnMaeBB8Ywt3b5BYyIweU6q\">Fiona Cole BookaVivo</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Tdm1AAziCdBaXPxcpYOjJNcOaNWJCuMmxd1ZC_OwcWUI01fexJfWdahAZJmPob3FXNknP9QSu2RRWlTKKtc1PSftYWGTyMJmNi0UAzxPASFJ1tKZEzVM5pGCPGBIgzJWh2is5Zkz5ktHecRvQasxfJ4dlHhLzEJ4f6BoulI52iLIqApMbuH4ZF7iDj22wsEJv1H-0re01pkY\">Fiona Cole GraphicAudio</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUvRL56NIpVgIVJw8aDIkKM_YF4pQ_h9tJy3VfD1armn1lkZVstIaQyoh5tPc6qDLGHxyEZxctdukyz3hPp9AKDZrVtcIe91UFYoJILD6Cz64MBxuCe18vKk9UKAU0j1-dFZzCvUPYmAtHav-AQQ=",
+              "title": "audible.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoSVPRyjtyH51wRl-oQRtHK0j48uQ8WD2UBThKQ5a5Rbfhji316Qrr0Fhx0G42QTIRuuM-fHFTWGQUGsrViQ1WGffHauQRAKxdQrMEugM5QT9gkAs42yb_DfBskjO_WuU1UlCLBzAI8QA=",
+              "title": "fantasticfiction.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "endIndex": 1245,
+              "text": "```json\n{\n  \"author_name\": \"Fiona Cole\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIZkTEzjRfyC5WrRUlE2f3SnaijG0_lXGkz-GjEEPAfOAdJfv8M30vvWuTWFDvoulLH-TggquSwXU1N-QFmXAhOaEhWGwQILlCXOI-cpx0Ci7adx9I7jwtqugu2MKMgKJeQjgD4rwOcVzc6w==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Voyeur\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/227920-voyeur\",\n      \"primary_works\": 8,\n      \"total_books\": 11,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Voyeur\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/39348919-voyeur\",\n      \"first_book_goodreads_rating\": 3.64,\n      \"first_book_goodreads_rating_count\": 31747,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"student-teacher, forbidden romance\",\n      \"primary_trope\": \"forbidden romance\",\n      \"print_publisher_or_imprint\": \"Unknown\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Fiona+Cole\",\n      \"rbmedia_evidence_note\": \"Multiple titles in the series available on Audible, which distributes RBmedia audiobooks"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1531,
+              "endIndex": 1617,
+              "text": "RBmedia has multiple audiobooks by Fiona Cole, including titles from the Voyeur series"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1617,
+              "endIndex": 2016,
+              "text": ".\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Blame it on the Alcohol\",\n      \"reason_excluded\": \"Less than 5 primary works (3 primary works)\"\n    },\n    {\n      \"series_name\": \"Shame Me Not\",\n      \"reason_excluded\": \"Less than 5 primary works (1 primary work)\"\n    },\n    {\n      \"series_name\": \"Me\",\n      \"reason_excluded\": \"Less than 5 primary works (3 primary works)"
+            },
+            "groundingChunkIndices": [
+              1
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2016,
+              "endIndex": 2129,
+              "text": "\"\n    },\n    {\n      \"series_name\": \"Aspen\",\n      \"reason_excluded\": \"Less than 5 primary works (1 primary work)"
+            },
+            "groundingChunkIndices": [
+              1
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2129,
+              "endIndex": 2317,
+              "text": "\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Fiona+Cole\",\n  \"author_level_rbmedia_note\": \"Fiona Cole has multiple audiobooks available on Audible"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "Fiona Cole The Seymour Agency",
+          "Fiona Cole Goodreads",
+          "Fiona Cole series Goodreads",
+          "Fiona Cole RBmedia",
+          "Fiona Cole Recorded Books",
+          "Fiona Cole Tantor",
+          "Fiona Cole Dreamscape",
+          "Fiona Cole HighBridge",
+          "Fiona Cole Christian Audio",
+          "Fiona Cole GraphicAudio",
+          "Fiona Cole Ascent Audio",
+          "Fiona Cole Wavesound",
+          "Fiona Cole W. F. Howes",
+          "Fiona Cole BookaVivo",
+          "Fiona Cole Kalorama Audio"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 753,
+    "candidatesTokenCount": 829,
+    "totalTokenCount": 1582,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 753
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 829
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "VXTeaebRM62Ag8UP-tun8QU"
+}

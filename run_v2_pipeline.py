@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from playwright.async_api import async_playwright
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-NEW_GENRE_DIR = os.path.join(SCRIPT_DIR, 'sub genre analysis', 'New genre crawl')
+NEW_GENRE_DIR = os.path.join(SCRIPT_DIR, 'subgenre-pipeline', 'genre-crawl')
 sys.path.insert(0, NEW_GENRE_DIR)
 
 from genre_crawl import crawl_subgenre, SUBGENRE_URLS

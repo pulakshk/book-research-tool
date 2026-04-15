@@ -1,0 +1,294 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Devney Perry\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12Ajh2U_S9T7Z7FXrRo2Og8FEFobjv6QbeftJUWPgyzLl26vwEv7rEI2K9XKCRwCmT7LPFlKo0ZaZeqV7djDMu_DuDOcBDvKQZDzIbrltOzrNt3Qozb-7fA==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"The Edens\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/268415-the-edens\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Indigo Ridge\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/48588411-indigo-ridge\",\n      \"first_book_goodreads_rating\": 4.24,\n      \"first_book_goodreads_rating_count\": 23494,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Family Saga\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/268415-the-edens\",\n        \"https://www.goodreads.com/book/show/48588411-indigo-ridge\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details.\"\n    },\n    {\n      \"series_name\": \"Lark Cove\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/268418-lark-cove\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Coppersmith Farmhouse\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/50064483-the-coppersmith-farmhouse\",\n      \"first_book_goodreads_rating\": 4.23,\n      \"first_book_goodreads_rating_count\": 18444,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/268418-lark-cove\",\n        \"https://www.goodreads.com/book/show/50064483-the-coppersmith-farmhouse\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details.\"\n    },\n    {\n      \"series_name\": \"Clifton Forge\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/299144-clifton-forge\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"The Birthday List\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/55713844-the-birthday-list\",\n      \"first_book_goodreads_rating\": 4.24,\n      \"first_book_goodreads_rating_count\": 16419,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/299144-clifton-forge\",\n        \"https://www.goodreads.com/book/show/55713844-the-birthday-list\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details.\"\n    },\n    {\n      \"series_name\": \"Jamison Valley\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/224289-jamison-valley\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Timber Falls\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/40601938-timber-falls\",\n      \"first_book_goodreads_rating\": 4.16,\n      \"first_book_goodreads_rating_count\": 20248,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/224289-jamison-valley\",\n        \"https://www.goodreads.com/book/show/40601938-timber-falls\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details.\"\n    },\n    {\n      \"series_name\": \"Runaway\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/309941-runaway\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Drifter\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/58384178-the-drifter\",\n      \"first_book_goodreads_rating\": 4.11,\n      \"first_book_goodreads_rating_count\": 10498,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"F/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Road Trip\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/309941-runaway\",\n        \"https://www.goodreads.com/book/show/58384178-the-drifter\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details.\"\n    },\n    {\n      \"series_name\": \"Treasure State Wildcats\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/339448-treasure-state-wildcats\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Quarterback\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/61294698-the-quarterback\",\n      \"first_book_goodreads_rating\": 4.21,\n      \"first_book_goodreads_rating_count\": 7419,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Sports Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/339448-treasure-state-wildcats\",\n        \"https://www.goodreads.com/book/show/61294698-the-quarterback\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details.\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Haven River Ranch\",\n      \"reason_excluded\": \"Only 2 primary works\"\n    },\n    {\n      \"series_name\": \"Maysen Jar\",\n      \"reason_excluded\": \"Only 2 primary works\"\n    },\n    {\n      \"series_name\": \"Shield of Sparrows\",\n      \"reason_excluded\": \"Only 3 primary works and is romantasy, not strictly romance/drama\"\n    },\n    {\n      \"series_name\": \"Calamity Montana\",\n      \"reason_excluded\": \"Series of standalones, not a true series\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n  \"author_level_rbmedia_note\": \"Devney Perry has multiple audiobooks available on Audiobooks.com.\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtxttk8N9ZxQjvT-nL1u1okirVJtfpMeMc9HOW3ij7YJNBpoXoJDllbD9vgVFVcepO3e9KRzXyjJrabXByq3QCpDQUikQRKR4dzJnzoz5anS7fpY2d7QfCS7fvYEE7OLLUhZG-UPxdYPGNOwkTiE-5u_9oCwqXSOUvOoKtMEr00vYoRU_w4mUqb-d-419ZGHpTh-42H7SAvLA46ZxVIlmiFgk=\">Devney Perry RBmedia audiobooks</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG92T6Z0p4cVftY8OaFgfhpQUlZSzCNMXjUJH_3nW6D7w6CWHBZKwWQ-LuljcYoXpl3MwSBlP3aGxQmPnzi0ffJAV0P8b_321fDnj3jLnKEpRGz7St7dHj8ZVxd2YrnjBmE-S8PO8WzZFHt0Ft6V4T7aYjG8Ojq9bnEnCNbcihRYGfhr_u9TQZ9eGZO2ZqOIs-KdWleRYoFAL8tcIk68VhQ\">Devney Perry series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu5dZrgKHSlY573We92UoeVXgHtQWlObAVz59amwVu-mHhJvIBdymM-TvGXMCxpw2Sep6sdxpKBa2wL2-3fF3bfn1sTZMBQutn42XXJTT0y3-IZ9gABgKjqRrAFYKItz22Xez_QLIoDkx373-MGzRyAbhkIc7xULreQIiUvJSAVmXV4ATUNvbimrkVWsGoDX4m6yvKuFzpr-gUe7CkceeBQdg=\">Devney Perry The Seymour Agency</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOQyvME85uQCqQPJWvXSJFu2VUsk5Cem6Z7BF4yuE1HqomYSM5mOF48lpSkEZcAK46ORKJCYakzXuilY8pC1U9xuT_xbjr4vW8d7oRhYLsa63REXVmSFKOdX50hUBckRkpIcTQuZfsIY2MeBmT827jA-QsfF-ytN0NsmoyuaFC0a30GXdchGkxTSPIePx590ee7b_oIT_T0XxUVaJpvK23ugiL\">Devney Perry author page RBmedia</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvLAmL46vvWT3ulI1NHOV477c8cL7qjKt7v6OLF5gD2t-0bXuP9QgliCJ1bAC_Xpn3VpSy-K1cgfzkpcF8NqPvZams-wwZ5FN8e_Z2dy9CWHytfHbBg3Xuuj3Se7zOrK3UIh2zKRgCjKXzam58w8vnCd7s9PE7vA==",
+              "title": "audiobooks.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT5LoeipnitnrC9KVckoBf9EBhDr1AcFo3CFPc5zLOa1SAAgFao_AQD1vjXmxldeGgfGCx0JKwPXzVsVrybCkD-XCCbGE5PWLglVE_oYB8d6MYdLg0lCMuuOzJ6fPan1ESKaWVn05jQTTDktoBPTpGQ6IvOJEkYzEthM0=",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12Ajh2U_S9T7Z7FXrRo2Og8FEFobjv6QbeftJUWPgyzLl26vwEv7rEI2K9XKCRwCmT7LPFlKo0ZaZeqV7djDMu_DuDOcBDvKQZDzIbrltOzrNt3Qozb-7fA==",
+              "title": "devneyperry.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ7zyHr6jzjAkF0MiYaUvx-6PserUAI9CN_YLC-PImE5iyFFRIHOCSAZrhjPgkdvPPleI3fzWFJGwJLPO4gcsAniDupORJqozP2jqWOTtqy-oliJwvr8lKtEHgwb2pI293ysnOx_xaNN8HmTU-8bQe5-DTOWQ=",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEAelZ6Kpm2frAhSqoBPXwtl1RiyAZ59ZoIKOR2Mu36HW2bgsLGuqLtxghtAroHM2fNgVyK32Ay7RCGSx4MNHtZpCqHOl6w9Syv-RwX1wDd3HkE-hyFmqFgjB25oN_IW6-Bc_B7l5NJxWneYvWbjoqhRgW",
+              "title": "entangledpublishing.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ETctxii8HxNc-anIbCs31aYlV4V2kzveuAJIGWtMF6JBhwbyLICX9y3C8uBjH--qdA4nsMlsM7bvhxPeJ7a1mu0kqW646z0a40jzsqHKjLg4ON-kp9qxzDOdmVzauYHJQ_bNnEMZxUZ9uC9dHMcHkQUB",
+              "title": "goodreads.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "endIndex": 1195,
+              "text": "```json\n{\n  \"author_name\": \"Devney Perry\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12Ajh2U_S9T7Z7FXrRo2Og8FEFobjv6QbeftJUWPgyzLl26vwEv7rEI2K9XKCRwCmT7LPFlKo0ZaZeqV7djDMu_DuDOcBDvKQZDzIbrltOzrNt3Qozb-7fA==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"The Edens\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/268415-the-edens\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Indigo Ridge\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/48588411-indigo-ridge\",\n      \"first_book_goodreads_rating\": 4.24,\n      \"first_book_goodreads_rating_count\": 23494,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Family Saga\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1196,
+              "endIndex": 1509,
+              "text": "\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/268415-the-edens\",\n        \"https://www.goodreads.com/book/show/48588411-indigo-ridge\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1509,
+              "endIndex": 2420,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Lark Cove\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/268418-lark-cove\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Coppersmith Farmhouse\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/50064483-the-coppersmith-farmhouse\",\n      \"first_book_goodreads_rating\": 4.23,\n      \"first_book_goodreads_rating_count\": 18444,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2421,
+              "endIndex": 2747,
+              "text": "\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/268418-lark-cove\",\n        \"https://www.goodreads.com/book/show/50064483-the-coppersmith-farmhouse\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2747,
+              "endIndex": 3647,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Clifton Forge\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/299144-clifton-forge\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"The Birthday List\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/55713844-the-birthday-list\",\n      \"first_book_goodreads_rating\": 4.24,\n      \"first_book_goodreads_rating_count\": 16419,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3648,
+              "endIndex": 3970,
+              "text": "\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/299144-clifton-forge\",\n        \"https://www.goodreads.com/book/show/55713844-the-birthday-list\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3970,
+              "endIndex": 4862,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Jamison Valley\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/224289-jamison-valley\",\n      \"primary_works\": 6,\n      \"total_books\": 6,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Timber Falls\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/40601938-timber-falls\",\n      \"first_book_goodreads_rating\": 4.16,\n      \"first_book_goodreads_rating_count\": 20248,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4863,
+              "endIndex": 5181,
+              "text": "\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/224289-jamison-valley\",\n        \"https://www.goodreads.com/book/show/40601938-timber-falls\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 5181,
+              "endIndex": 6051,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Runaway\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/309941-runaway\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Drifter\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/58384178-the-drifter\",\n      \"first_book_goodreads_rating\": 4.11,\n      \"first_book_goodreads_rating_count\": 10498,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"F/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Road Trip\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 6052,
+              "endIndex": 6362,
+              "text": "\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/309941-runaway\",\n        \"https://www.goodreads.com/book/show/58384178-the-drifter\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 6362,
+              "endIndex": 7276,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Treasure State Wildcats\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/339448-treasure-state-wildcats\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"The Quarterback\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/61294698-the-quarterback\",\n      \"first_book_goodreads_rating\": 4.21,\n      \"first_book_goodreads_rating_count\": 7419,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Sports Romance\",\n      \"print_publisher_or_imprint\": \"Self-Published\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n      \"rbmedia_evidence_note\": \"Devney Perry has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 7277,
+              "endIndex": 7607,
+              "text": "\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/339448-treasure-state-wildcats\",\n        \"https://www.goodreads.com/book/show/61294698-the-quarterback\",\n        \"https://www.audiobooks.com/audiobook/devney-perry/147215\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm series details"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 7607,
+              "endIndex": 7991,
+              "text": ".\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Haven River Ranch\",\n      \"reason_excluded\": \"Only 2 primary works\"\n    },\n    {\n      \"series_name\": \"Maysen Jar\",\n      \"reason_excluded\": \"Only 2 primary works\"\n    },\n    {\n      \"series_name\": \"Shield of Sparrows\",\n      \"reason_excluded\": \"Only 3 primary works and is romantasy, not strictly romance/drama"
+            },
+            "groundingChunkIndices": [
+              3,
+              4
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 7991,
+              "endIndex": 8113,
+              "text": "\"\n    },\n    {\n      \"series_name\": \"Calamity Montana\",\n      \"reason_excluded\": \"Series of standalones, not a true series"
+            },
+            "groundingChunkIndices": [
+              5
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 8113,
+              "endIndex": 8312,
+              "text": "\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audiobooks.com/audiobook/devney-perry/147215\",\n  \"author_level_rbmedia_note\": \"Devney Perry has multiple audiobooks available on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "Devney Perry The Seymour Agency",
+          "Devney Perry series Goodreads",
+          "Devney Perry author page RBmedia",
+          "Devney Perry RBmedia audiobooks"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 754,
+    "candidatesTokenCount": 2997,
+    "totalTokenCount": 3751,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 754
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2997
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "pHTeacuaMbu1juMP25bZyQY"
+}

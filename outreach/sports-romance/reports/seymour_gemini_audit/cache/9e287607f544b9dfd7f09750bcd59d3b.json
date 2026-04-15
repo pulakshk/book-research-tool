@@ -1,0 +1,267 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Karla Sorensen\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEqjWFSXSPri45o-kBA98YxRArPS9mgYECAtfMlIFA16_WDB5lLKc_cM6ogTJ3lYBqIYCaFwOYDc3hrfY_1gUKRYs_q8rYoJ7dQP5JTXz1Qm29Y7XnBSplWlvrSgtmmnUUpzhdcgIaH2nlKg==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Wilder Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"One and Only\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wraN9bBU29DqyY4Sosv1AqzaXaxwcCXapGSKvd9stnjuWjzgrXBCN06UIVhWQOmGI2_zJY8x0Sndq_XsCmpg0VuCmcApnV5tADFhm_YzvQBLMHkyWmeLNUEv71ha-9CK_bPWBopRfvipHhI1F_nL13781QqNOrA=\",\n      \"first_book_goodreads_rating\": 4.09,\n      \"first_book_goodreads_rating_count\": 22127,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Fake Relationship\",\n      \"print_publisher_or_imprint\": \"Dutch Girl Publishing, LLC\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/author/151947/karla-sorensen\",\n      \"rbmedia_evidence_note\": \"Karla Sorensen has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wraN9bBU29DqyY4Sosv1AqzaXaxwcCXapGSKvd9stnjuWjzgrXBCN06UIVhWQOmGI2_zJY8x0Sndq_XsCmpg0VuCmcApnV5tADFhm_YzvQBLMHkyWmeLNUEv71ha-9CK_bPWBopRfvipHhI1F_nL13781QqNOrA=\",\n        \"https://www.audible.com/author/Karla-Sorensen/B015W9N296\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm 5 books in the series.\"\n    },\n    {\n      \"series_name\": \"Bachelors of the Ridge\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Dylan\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxazPNb3mUz-xiEMxXBqOi5gXSbjEMSoOwh914brzgREIXiicL0MyEvuoGn7yzgungWW6AGGUeNRgUL4AN94-uYwL5Deug5mnEjLPTpy-pvmOn5ACPSuOTRR2yqzwZR5Nfz1dFLRZV3bNodrN1\",\n      \"first_book_goodreads_rating\": 3.8,\n      \"first_book_goodreads_rating_count\": 2271,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Friends to Lovers\",\n      \"print_publisher_or_imprint\": \"Dutch Girl Publishing, LLC\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/author/151947/karla-sorensen\",\n      \"rbmedia_evidence_note\": \"Karla Sorensen has multiple audiobooks on Audiobooks.com.\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxazPNb3mUz-xiEMxXBqOi5gXSbjEMSoOwh914brzgREIXiicL0MyEvuoGn7yzgungWW6AGGUeNRgUL4AN94-uYwL5Deug5mnEjLPTpy-pvmOn5ACPSuOTRR2yqzwZR5Nfz1dFLRZV3bNodrN1\",\n        \"https://www.goodreads.com/series/194146-bachelors-of-the-ridge\"\n      ],\n      \"confidence_notes\": \"Confirmed 5 primary works on Goodreads.\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Ward Sisters\",\n      \"reason_excluded\": \"Only 4 primary works.\"\n    },\n    {\n      \"series_name\": \"Washington Wolves\",\n      \"reason_excluded\": \"Only 3 primary works.\"\n    },\n    {\n      \"series_name\": \"Love at First Sight\",\n      \"reason_excluded\": \"Only 4 primary works.\"\n    },\n    {\n      \"series_name\": \"The Wolves: A Football Dynasty\",\n      \"reason_excluded\": \"Only 3 primary works.\"\n    },\n    {\n      \"series_name\": \"The Best Men\",\n      \"reason_excluded\": \"Only 2 primary works.\"\n    },\n    {\n      \"series_name\": \"The Kings\",\n      \"reason_excluded\": \"Only 2 primary works.\"\n    },\n    {\n      \"series_name\": \"Three Little Words\",\n      \"reason_excluded\": \"Only 3 primary works.\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audiobooks.com/author/151947/karla-sorensen\",\n  \"author_level_rbmedia_note\": \"Karla Sorensen has multiple audiobooks on Audiobooks.com.\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsVSIzcQB7JJhTGIZjPoL513fnOhuUNLpbElH0kseOkLyZ4IDswFlpfrQlco3d9Y-Tfk47oXE2JPOse6nsgksvtl48T1U-w1oQRSLIL7zoWMU99N6N1Atj7ULv0DNsh5O8O92zg1Yu2PLNtmO2yMBrI0lxG5ZQIHfZFXqrDe6uLwVr-afYpk3TDpubUFdqIozWXAU1o3j5peE=\">Karla Sorensen RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkhwVcFt-doh3EOhs0EDq4geWvHyVn3X3_V8H7DdwAvR3glSB-CzmZhdt6kzzccnfsJ7ya94hmvYhPPnZZr3xqsohFvEUivUzuXgwlQLYPUItehhSC6Vy620TkBhLBm2PkfHD1pAsRNtMlMdlIlNV2d4BZoaLudV79Np1lKGp67wIPk8bPjGG9C0QVWf_1fgIairNn0HkiNzC-mRMQlBRrg0-cRHhG4kaArGlbIGqvPSX4BPuLtphr\">Karla Sorensen &#39;Love in Laguna&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsM93TXmHMH0-t-8sqUbCreXgYFmpAASt5T357IojUT5fDIqHBhGR0wZ6xqRkjF5ROcMRnuv-66KsKPvz4gyY5wsG8B5tFdp5QwNV6RT4wWCk0Ugnp71KdVHaRlLH3vmlkVZZO-q3Rlqzke595K5QPOfggUM8JbMwBJBDPfreVXzPV4F8pxMvoOggAUsNppUrY00LfbAdqlDyp2eF3T1MpmmZMuEEr84_YzhMTRbFtD3w0\">Karla Sorensen &#39;The Edens&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM3ldMse9nmahAe5ODFvm7YDM3nApt6wV4V3fFd5M05f4IfQqNjs06XHPgU6i9tJ1xFA-9xf4a7mexkObj1G6hWYd5fZy_VOq4mdxPj-Nj22B0fR_waSIbWaLLBhPtauJtCN_7QGnjZio3lXoSaANGJ29_IyISBciEu1SMbF2fx_oyoLg-wReRUnxpPZKKsgRBhIyhkFIl5n9gO5KUaCBKMCm3bZz5ocrcu4NLslu84aFv2QeaFPMlQXM=\">Karla Sorensen &#39;The Rossi Family&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_yhjhoCewbs2VJaPApQVoEDBqvGt-2U9vSU9gn7jey00RnQnW8ADChydSCGhVtSZjUh7QKO2RLIfOCs3k5wpZV9AahXrzp-cQ8ImzsWmA9WVrDAdbQiqjXNiKYdSeSncvMT3yc_xHBJXrkUhIlt5-c8a3n-DV4PRYxpqpFuk2-n5X94NZ25SirOesWYCgPVVzqFeELSQRFhdM_GAEI6PAQ6fG7uun9dk1U4lWjh4mlwY=\">Karla Sorensen &#39;Wildwood&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5XbRUh1hTayV-BoIxyXSPyc2ejhOJWGpesKRum0c987nsg6MznbEBmZGliEUegqDp7h1OPm0Zps2K47L2cspBMKkaHLHbrTMejRBaam-KUrGtZmzRc90VWama-y6eoR00t-5uZVz5unYwq12MbqUFUoB3rkLwdFxpKMDhhgpByZ-hJuU9rzKot--2VZaNado8siCOYEeEoan_0tISAGpU1xQV1t0SpEaYxmJFf5AvHwXe1t6zU3uvfrZzSy0RXGU=\">Karla Sorensen &#39;Bachelors of the Ridge&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrhnu4p1_tfxiB3G9k-Q4ZtJGcxSDMQjPtkl04sn8aohstrEeC-Y5WOH9xuRVXJvbt9g5xJR590fSeD8eEhrWbz7CQSj72VjxcdID_eP0X2Io8nUoUq1anWPITBV7Q7paI8iWnlHMtJjmgSX-YtxBe4mmyW_hqdEo-_BjacbB7PlDoEEYmS_KTzw1POQP6DgODPVJzQdpmNjjVYT3cxN0aik=\">Karla Sorensen Goodreads series</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzG1xoRA6QXj0s8z3FKK2sjL8eCBOSN_f5NZBvBG-ywKipiF99E7qPnK2uQ0gYzEXXHWsylVpHiZywwGi5QL5wMdXVa1P7YvJhE8uYg_tgh-aX-ywoiS34QAVp0SNsUHAcqNEjcYOcYtDhrGPRM7uxM95uNhx54QQ-BIK5Gu9hz0CGLOuc4FahND0HjM-t8EhIzGOXkN98Tw51sDJq4TLXGTdYow==\">Karla Sorensen The Seymour Agency</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcbUwdGRRgX5asuLRJW8tWEGelInScxBDfWYKnFLWF-Y_7tUSdGUoXI7T2CWlckP8vkcki7YwUbZPDtO8Auf7GvPNuEcmwEPsWrYIdBXzkC9IegrNznGzt9ornV_sBzZHMCHbLZPmTaDOoke8jSwKwcEZgYLO5E38TLZs2Y_NIb7saeHhUafc4SO3SpVLBZTU2LHHlSgUkGmL3Uy3mYYSNlgonZ4iOQoMZHzBrvUpwEmwHqn3Xlw==\">Karla Sorensen &#39;Ward Sisters&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6dEFPEqAqYxzBh9hMnlGhMGmZKAoGNckgPzj7_vsCpmTjmCEv-QryXoNn24g9Fd9SZ_Jym1g70VXPTSZjuxfvJTakuqHHq9PHThKWB_iBInwT2cEtaGrYhmNyaGuJerTJD34dZlaWawFUvK6E4aXCa9qIx9n-KZtbirp88e_frLCed1atXi_rqsc8HdTyQPpC0iArIunsIpuGbR3aPf1ulZr_\">Karla Sorensen RBmedia audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEawH9cYBFvL40M7JRga7NAN7l6kUBNDCPU5NkAXE2z1QNdS3iFLlsWMVDVjKoYVZc3LDJHqalFMX-USUC3-0tUrLXA9A2kI98g9a9ke88APyJaL00ZUFjtMwIfcRJ2F6FyDMpb4dmwOGL9_i6J5Fw4KOMTfKppfa4DoMI6ItaVKg3tGzcYHY1NFHWx6881G38WfowSO6WNedZ_qLqMVlZdQQsVCwYK9AFySxBSbe5zeS3H\">Karla Sorensen &#39;Hooligans&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIK7b3BPZx3OISSctTb4JmwCTnN9cNyTzoJ3lb_J5Y_pasPxW0gLz2ITfCKVDgp5posB40bA15JqeZnP1lJlszqbGCoxTaukAcYUYfvCozBa2klIcXcz2yJQ34aRvSqUE2jmfKcGqYMXKyDqSNL58TJCis4yzWpsnuXtHLf49znSwDYE8RFMZhj3mxJ_Te14MLc4Y-bS35NH7Fh32CFbsLXydpE8mtT6ygKgDFxWRpWGUGNN4mLl9OYWz0\">Karla Sorensen &#39;The Marriage Game&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiCgPtjVftjOSy0-zNe-P_uOQIkH2j1cp_vz5zMaGG9uNiS2i1GVKvTHvtY0RwgHismv1r391SgsdUpINwmr79b2qfHoPAI_zeOYP1nIzJM7LKfqjS2_FUXDIQoAtK2sE1i0BllbN9oOJLvjM8HxuW4kQ8yVeSFBLkqORCQFI2eWS7FtPi48ENpsZeSq9ECkhiZ0Y-BeMPNkrsRZCZVHxz5USovKl7OnhyAO2xHcioxMixtMEMKF_r-sNJAg75\">Karla Sorensen &#39;Dirty Little Secrets&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX8sFWT0R0YHhx1AgQt6VftJP0CLwRiiRW3kEcuqRUoAv49b4wBy8_fL29FqA4mFPRP5R_9H9UnU8ByG15ZuNtMoHYvmn51d52qpJMiKBnBReDLz4HFBd2jVIRt8r-CKffgAp06sgYh---CRD1mWbH29jT64t5uN5rGJV6RkJ0-YjP3tbpfNtpejgFTfRqD4oNiKg6eYjzDK8F2kMhsdVWmUmVqERlvh6rX6pQDfi2DgvENVAK_-Mpaw==\">Karla Sorensen &#39;Steele Security&#39; series Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqZ3QQiKE01L-ZfUcRivmUL2HzGk8AybwSbosO-G8CC1igA2c3GvDCBNsT_xZU2QAs2ow8ypPb7aNn1lQ-AxDuQQM23NJxfQ4Y7W66JH8JvXovTpfJoCkmA9Z5awP9fQLu949S5F9X_LlTG4uzB9YJ2ut7b8zSaxOP5mfpRZK_XzbghcaV_UbT5gEa7Yo5lOn0q00y73HbNLebHjKY5ssI461QEmU=\">Karla Sorensen author page RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvut8RydiI09Gnp9uDo5sFvhzC6X1W4D_gmZKfjtKG20AwijbyiGd_VpqsIoMHVy52-okemcxEiTGX9V5IDeReB7muAz0HEfrlbnf4zFhxVr3V8aVD4_SaH9lsk2Uo_HBgjTNscDArWvntCMzzLpwf74hgTn3HuzVCeDa9FOEogcrmiph4RxK2l7WgbuYPZDZc6C3UeTIsAxHXGMsJQCGMxoxpVFfC5qctjWDjwnmuKnsjgA==\">Karla Sorensen &#39;The Lawton Series&#39; Goodreads</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0gTHGBTWhl9M0h-SwxWX_atgH7YNzP1UoNupUaJxFCww0K8rWWgfys3bRvhEBS76SadmWlM1Y86YUyf5YBc2jMirUMhynHBmPHOQjE55m7lHBK6xORUSAZ_fjgFIXZ97vKAWbpqzybwbCCKQgUuG4KPy5FgGg27VN",
+              "title": "audiobooks.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgw70BTbmMawNFAEDtZP9Z2KAdr0dLWUDgpYEg12AYAOVSoq57zNST6gFxkq6RoJXnOuoWij9xklRkR2XzfiVwVGa6xRygBCoefYVw3U4ZOyqWwEv5kDEdmifMqx0=",
+              "title": "karlasorensen.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYo2rtX1R877Ja-_eD58XGGhrZWi9WSTAHGYNcHVQ2r41NHgEcAHI2WgrU9-F2t7fe-S1Y8oKUuDf-WOzYyL40yruirndowY1mcs49URYha8T-oiWG9TC_4Zy5GCgIb84MjJENYGQqQnWaUDzDUyXh4Yyh1HRGLZfxLOCGKA==",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc28KX8ixY75gpRAIBDqXL65Vvb58vWkeopf5MaxQeJYzdk8mPk_l4UFA0_CV9e4SfeTTY7F9kG6Spxft07lYakJBRefgGskJ9YtdAE_P1PqDqr-n7bVu1_Ycnabg5MBu1wBBf3Fr4_UUBsw5ZZvY=",
+              "title": "goodreads.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnn8IYDqNvJib3h-UgoAI7Uoy8x0p8h09UJR1d7Nvh9dvYpZQZWcklZvT5v1G5OW22Xp_d8NJlP7y3Ob_OSVXutHGb5ETleq6M1tbpxj6rIZaQuXJiac_CHQn5RtERlZkygmHjLMIkHQh3imlny8pVZ91y_w==",
+              "title": "goodreads.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "endIndex": 1591,
+              "text": "```json\n{\n  \"author_name\": \"Karla Sorensen\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEqjWFSXSPri45o-kBA98YxRArPS9mgYECAtfMlIFA16_WDB5lLKc_cM6ogTJ3lYBqIYCaFwOYDc3hrfY_1gUKRYs_q8rYoJ7dQP5JTXz1Qm29Y7XnBSplWlvrSgtmmnUUpzhdcgIaH2nlKg==\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Wilder Family\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"One and Only\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wraN9bBU29DqyY4Sosv1AqzaXaxwcCXapGSKvd9stnjuWjzgrXBCN06UIVhWQOmGI2_zJY8x0Sndq_XsCmpg0VuCmcApnV5tADFhm_YzvQBLMHkyWmeLNUEv71ha-9CK_bPWBopRfvipHhI1F_nL13781QqNOrA=\",\n      \"first_book_goodreads_rating\": 4.09,\n      \"first_book_goodreads_rating_count\": 22127,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Fake Relationship\",\n      \"print_publisher_or_imprint\": \"Dutch Girl Publishing, LLC\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/author/151947/karla-sorensen\",\n      \"rbmedia_evidence_note\": \"Karla Sorensen has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1592,
+              "endIndex": 2256,
+              "text": "\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2mkIOBsQ7lROjIwoNUBDbj7Jksl7iUTsCBUfWeQZjCxVcpZ7HWc0fyN6UW61NGCsZB8oKSwGGKNyTLBcTmwfJAcCijneKQuXSmFQ44n6aYDIHkMMDvns1P5E5hQZl5ThdeEkHjjCZbpO5atmuBdN\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_wraN9bBU29DqyY4Sosv1AqzaXaxwcCXapGSKvd9stnjuWjzgrXBCN06UIVhWQOmGI2_zJY8x0Sndq_XsCmpg0VuCmcApnV5tADFhm_YzvQBLMHkyWmeLNUEv71ha-9CK_bPWBopRfvipHhI1F_nL13781QqNOrA=\",\n        \"https://www.audible.com/author/Karla-Sorensen/B015W9N296\"\n      ],\n      \"confidence_notes\": \"Goodreads and author's website confirm 5 books in the series"
+            },
+            "groundingChunkIndices": [
+              1,
+              2
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2256,
+              "endIndex": 3497,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Bachelors of the Ridge\",\n      \"goodreads_series_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Dylan\",\n      \"first_book_goodreads_url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxazPNb3mUz-xiEMxXBqOi5gXSbjEMSoOwh914brzgREIXiicL0MyEvuoGn7yzgungWW6AGGUeNRgUL4AN94-uYwL5Deug5mnEjLPTpy-pvmOn5ACPSuOTRR2yqzwZR5Nfz1dFLRZV3bNodrN1\",\n      \"first_book_goodreads_rating\": 3.8,\n      \"first_book_goodreads_rating_count\": 2271,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Friends to Lovers\",\n      \"print_publisher_or_imprint\": \"Dutch Girl Publishing, LLC\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audiobooks.com/author/151947/karla-sorensen\",\n      \"rbmedia_evidence_note\": \"Karla Sorensen has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3498,
+              "endIndex": 4142,
+              "text": "\",\n      \"support_urls\": [\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcE2mfgKFLQbH7hHNiwhut78jYutWjw9pD-fr1yfbliQurSIiwXt877vDbtovBu_wTO4U-Wz90llJhPo7MipEa6daWB7fPGDdwF__NvZSSrybgFIZ0DT38_YNSMX0n7xqQhPEOIYK_c-QttCkdbaA2Mpq__YybRfN\",\n        \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxazPNb3mUz-xiEMxXBqOi5gXSbjEMSoOwh914brzgREIXiicL0MyEvuoGn7yzgungWW6AGGUeNRgUL4AN94-uYwL5Deug5mnEjLPTpy-pvmOn5ACPSuOTRR2yqzwZR5Nfz1dFLRZV3bNodrN1\",\n        \"https://www.goodreads.com/series/194146-bachelors-of-the-ridge\"\n      ],\n      \"confidence_notes\": \"Confirmed 5 primary works on Goodreads"
+            },
+            "groundingChunkIndices": [
+              3,
+              4
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4142,
+              "endIndex": 4276,
+              "text": ".\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Ward Sisters\",\n      \"reason_excluded\": \"Only 4 primary works"
+            },
+            "groundingChunkIndices": [
+              3,
+              5
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4276,
+              "endIndex": 4380,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Washington Wolves\",\n      \"reason_excluded\": \"Only 3 primary works"
+            },
+            "groundingChunkIndices": [
+              3,
+              6
+            ],
+            "confidenceScores": [
+              1,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4380,
+              "endIndex": 4486,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Love at First Sight\",\n      \"reason_excluded\": \"Only 4 primary works"
+            },
+            "groundingChunkIndices": [
+              3
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4486,
+              "endIndex": 4603,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"The Wolves: A Football Dynasty\",\n      \"reason_excluded\": \"Only 3 primary works"
+            },
+            "groundingChunkIndices": [
+              3
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4603,
+              "endIndex": 4702,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"The Best Men\",\n      \"reason_excluded\": \"Only 2 primary works"
+            },
+            "groundingChunkIndices": [
+              3
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4702,
+              "endIndex": 4798,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"The Kings\",\n      \"reason_excluded\": \"Only 2 primary works"
+            },
+            "groundingChunkIndices": [
+              3
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4798,
+              "endIndex": 4903,
+              "text": ".\"\n    },\n    {\n      \"series_name\": \"Three Little Words\",\n      \"reason_excluded\": \"Only 3 primary works"
+            },
+            "groundingChunkIndices": [
+              3
+            ],
+            "confidenceScores": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 4903,
+              "endIndex": 5094,
+              "text": ".\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audiobooks.com/author/151947/karla-sorensen\",\n  \"author_level_rbmedia_note\": \"Karla Sorensen has multiple audiobooks on Audiobooks.com"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              1
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "Karla Sorensen The Seymour Agency",
+          "Karla Sorensen Goodreads series",
+          "Karla Sorensen RBmedia",
+          "Karla Sorensen 'The Edens' series Goodreads",
+          "Karla Sorensen 'Love in Laguna' series Goodreads",
+          "Karla Sorensen 'Bachelors of the Ridge' series Goodreads",
+          "Karla Sorensen 'Ward Sisters' series Goodreads",
+          "Karla Sorensen 'Wildwood' series Goodreads",
+          "Karla Sorensen 'Hooligans' series Goodreads",
+          "Karla Sorensen 'The Marriage Game' series Goodreads",
+          "Karla Sorensen 'Dirty Little Secrets' series Goodreads",
+          "Karla Sorensen 'Steele Security' series Goodreads",
+          "Karla Sorensen 'The Rossi Family' series Goodreads",
+          "Karla Sorensen 'The Lawton Series' Goodreads",
+          "Karla Sorensen RBmedia audiobook",
+          "Karla Sorensen author page RBmedia"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 755,
+    "candidatesTokenCount": 2200,
+    "totalTokenCount": 2955,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 755
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2200
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "k3TeaeW4J7vJ4-EPnt3AoAk"
+}

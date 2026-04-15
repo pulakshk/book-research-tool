@@ -1,0 +1,97 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Karla Sorensen\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://www.theseymouragency.com/clients/karla-sorensen\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Wilder Family\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/331624-wilder-family\",\n      \"primary_works\": 5,\n      \"total_books\": 5,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"One and Only\",\n      \"first_book_goodreads_rating\": 4.09,\n      \"first_book_goodreads_rating_count\": 22127,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Karla+Sorensen\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks distributed by RBmedia imprints.\",\n      \"rbmedia_author_level_url\": null\n    },\n    {\n      \"series_name\": \"Bachelors of the Ridge\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/269942-bachelors-of-the-ridge\",\n      \"primary_works\": 5,\n      \"total_books\": 6,\n      \"threshold_flag\": \"eq5_borderline\",\n      \"first_book_title\": \"Dylan\",\n      \"first_book_goodreads_rating\": 4.05,\n      \"first_book_goodreads_rating_count\": 10314,\n      \"genre_bucket\": \"romance\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Contemporary Romance\",\n      \"primary_trope\": \"Small Town Romance\",\n      \"rbmedia_sanity_check\": \"no\",\n      \"rbmedia_evidence_url\": null,\n      \"rbmedia_evidence_note\": null,\n      \"rbmedia_author_level_url\": null\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Karla+Sorensen\"\n}\n```"
+          },
+          {
+            "text": "\nHere's the series-level audit for author Karla Sorensen:\n\n1.  **Representation by The Seymour Agency:** Karla Sorensen is represented by The Seymour Agency. The agency lists her on their website.\n    *   **Representation Evidence URL:** [https://www.theseymouragency.com/clients/karla-sorensen](https://www.theseymouragency.com/clients/karla-sorensen)\n2.  **Qualifying Series:** The following romance/drama series by Karla Sorensen meet the criteria of having 5 or more primary works on Goodreads:\n\n    *   **Series Name:** Wilder Family\n\n        *   **Goodreads Series URL:** [https://www.goodreads.com/series/331624-wilder-family](https://www.goodreads.com/series/331624-wilder-family)\n        *   **Primary Works:** 5\n        *   **Total Books:** 5\n        *   **Threshold Flag:** eq5_borderline\n        *   **First Book Title:** One and Only\n        *   **First Book Goodreads Rating:** 4.09\n        *   **First Book Goodreads Rating Count:** 22127\n        *   **Genre Bucket:** romance\n        *   **Lead Pairing:** M/F\n        *   **Sub Genre:** Contemporary Romance\n        *   **Primary Trope:** Small Town Romance\n        *   **RBmedia Sanity Check:** yes_author_level\n        *   **RBmedia Evidence URL:** [https://www.audible.com/search?searchAuthor=Karla+Sorensen](https://www.audible.com/search?searchAuthor=Karla+Sorensen)\n        *   **RBmedia Evidence Note:** Author has multiple audiobooks distributed by RBmedia imprints.\n    *   **Series Name:** Bachelors of the Ridge\n\n        *   **Goodreads Series URL:** [https://www.goodreads.com/series/269942-bachelors-of-the-ridge](https://www.goodreads.com/series/269942-bachelors-of-the-ridge)\n        *   **Primary Works:** 5\n        *   **Total Books:** 6\n        *   **Threshold Flag:** eq5_borderline\n        *   **First Book Title:** Dylan\n        *   **First Book Goodreads Rating:** 4.05\n        *   **First Book Goodreads Rating Count:** 10314\n        *   **Genre Bucket:** romance\n        *   **Lead Pairing:** M/F\n        *   **Sub Genre:** Contemporary Romance\n        *   **Primary Trope:** Small Town Romance\n        *   **RBmedia Sanity Check:** no\n        *   **RBmedia Evidence URL:** null\n        *   **RBmedia Evidence Note:** null\n3.  **Author-Level RBmedia URL:** [https://www.audible.com/search?searchAuthor=Karla+Sorensen](https://www.audible.com/search?searchAuthor=Karla+Sorensen)\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvVmL5rUIExWxCVUa7_2VHP8mm2X4K5NPc6_KrIbi0Yot2P5EkTz3uDvAulwuDILwEWs79HQxuDtullx6kkaKU-e2yVUHK1J_pl5ej4myWjXWrdeBQRkAQQ6pZZEwrsatVNo_hsYTp6bsd1GERMU9HwCdLDe8WZZo62hmOJXwhM6lp8S3kx-P8Y5kVhHyo6ptr1zgwen0XHyrV5Jv-nkcrZ6kmn04zmVluzSLlAbNxrXfpiNNbuw==\">Karla Sorensen &quot;The Adversary Effect&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZRgpXrttw_SkG9iTpi9PUy8-SmyjcxBGiaKU037lS7AjWXcqAeqMbpfQEc3PflhKO_EepSuOKWpNtWuXGbeHLJ2tb-AT5IreZnv2m05V_iDYoStlhlyrGcMZ9EU-YrxFRTbAt1kw9c_6ASw6uhSdJHUVDjcUcPEIPgr8SX651Bnh6RvUy3dI-bip8XoVnmH_nIXbuyadh1jFtuDopddAsyweckVGhJ6g8tx7XYQ==\">Karla Sorensen &quot;Love is Hate&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-r6c49nXeDtE41Jced3kNmPZ7lt5dI_SuhxZZwC_iz8UYHTRzIe4dvPnjnfjf1cwkCFzZaioWw7BA1imUS0YI-m6OVMPSRlLt41lo9mi0z2I_181cCvxTGiqL00VjZFKmcPfFoWUTTAkqV95JuD_XSuv2Ec88hhct9I1SPRrgH_C3-EWCV6H2ED8FCBUFANDlXm26fF_vZ6so1dtmvybltHgwA5kqf-ksl1aFu85TiAiiRYEAxA==\">Karla Sorensen &quot;The Bombshell Effect&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-VEoo0Afy6IMt9yMHKdvjHZAqgwvFOkFfX20frjn1sIEuUi2MbRNiezMDXbY92Uum5QS3XlcYEfdQuTy8eOdJVowcuEz2ZOim3mULeizH2iwkqUYi_6Y_IFyJtipN9XkAQD7qq93cl6SipubGhsYW6ZkRbIZyULMacswbxRy-EoWgu7bNXX62T_Sov9MjGcOLkUgPjT8EFMA1x6oyurnqE9izMLMKCij2XLwR2pE=\">Karla Sorensen &quot;Love is Blind&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9FgqyiX9VRnBcMyNJnOc7anFlZHSwD7O8Z2XrdoklyG1WCY87myJaKbt6gD55v0PVmZw_6IUjs2IN1BGCewb0UMQwlQ8Hf8uB__rIBNEGud_E_bZhSBOpi1lrX7plChqkzu6tdw_AnlYnkxQK6mDkMAhjf9gqYAJ79h_p6FFYBAmXQeWEJ5W2_4bdcsCsipqwY0d-_8eDScMCYh5dBLQhETKywDcAztTTFRxuutywqOk=\">Karla Sorensen &quot;Fighting for You&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOA3hB01hMONKHjrWGn7T20jOy8GJAnCEp_wJLkN3nE4M1u1Z3XTx7HlDesHAhGPVJcdsye21tRAt4OHOLMKZ4QsHMrpPDAx7FaEnPb1-LC2nEvq4ljUYnPLJecJIhlG1sI4jeHHPH-ddfyLVnAL6UWF3hsbwhQtKc_NPU0ZmkKnXEOMAew48gJqcmK-kloK2u1f__ZstmP9dLhIjUzais2DwjUAq0rk3YcptwCEbQ\">Karla Sorensen &quot;Worth the Wait&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDz4uoZ66ZlxorkRQMi50sJ0savGhKxbC4VPVKMInjzwtRhgoJt6w0bdGS3iYb_oP73NoIfNFHIyDDx03AV6IFWF72MD9LqzU3kceqK3AVc5ZXs3rpRvTjXg_TSCzWdePkQlwwOOwUfO3bqwXBtrv3hcLwpnduf0-TjDgKN40jKOEN8YX1fZSyMypPHdGEhkIo6xzphlLy-bcICAMDPJzNsSzgtdfat6y9Mos8aRrnRovl8y_ooA==\">Karla Sorensen &quot;The Bergman Brothers&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XXxas8TYhhcESoZiV3FgqT71LmDfbEGMABjYRC01Xq1DbmwW0A3_2KQ11XWAqp5YYcnmk6VsP4_oY6dtdi7sVhecp0hS_JaQEKFpF6mnN3z3RqGDzIoXyeTWIwz782qKJ1nDVUdDzVldRi0LxFZvXn569js6_iO_aG76Ol1gZKrzuoHJjtDWKMFEXq8-YIWeVNN0rE-hm7iAdcKNdLy9PqbwSu-JEW3g0oqL\">Karla Sorensen &quot;Love is War&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgbKf7-JbOt7zoC60hU8aOzch9H2dcKUD_wUOfM06d7awRiLcrhhmID3URnN0hQ396KIoqZthdsJV8LTJ1se7CVPV-Bq7m9eewOcRDzVZAJ6qnmmtlBQ226O_Tyx5p_seJ2OZtgOfbw2R1hqYNWayWNDWG7-JKDupn3oIm2kYkKlCexMKC2AxLKLdDFkm0Ta2Kbt6paOEZ4BMDSgW4bDw3blnij5NtXrtqjNPBwbGD5KmfaQ==\">Karla Sorensen &quot;The What If Effect&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX8Pf56-yQBBWtEC77FZYGn_g2t5s0caBAMSqiY-4uxIxY5aCJGUWXAb4yR1N0sVAXVy73YdwegGOCMmgu7vxmmfXJtTMrz1BAMqLAochkIKoYLdeq2sZ9nr5GiLQmoAwzAARHzuijwMXAbXic9HYnG_qvZDo-OZI1TI02FRfWJgVmshosv4sWilO1UuEeXDUqrJyECnSUZnwYkqi5484u3Im3HEGoKwI27z_Bn6EUF_pkwQ==\">Karla Sorensen &quot;The Forever Effect&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3karlEimWf82QtymbmALYz599crYDeMsUJkCnvVXXaqI8A_T7A7ODvZwoiiwH4KAq6T2KFsQ8PLSZ7IffxnEDwx71UyenDHLi3sk2syIf-Wh0Y_YxFqGJRFPM4TCFR8CBvegrV0TAK69-h1kXcGD1BBBaiAIohh3LPW1we8EplqUYgjkuKFe44nJy5pkZdM9mMs2ncD0f-ejmxmCBRFiaEvu6zH7E39XgqP7nsof_9BuHqeheTGOjuPz2AVinXwcUd_ON_ak=\">Karla Sorensen Goodreads series romance drama &gt;=5 primary works</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzd0EPtEMEZjh13G_i3J9ocsCSac-DGG19wO8ILOdiUs5tmum0fk11uMMLJZIiqYR0i7mC_m6olT8P7w92D1tEmrHrLotIff_MexrfMtHEetWKee9f4wVf_fG8d3WAHmK2kM45eP2WGWhnoMk85k7IWXIZy3GJO58pX5yRNggj1mFr9rsBTI3wFySI3-PGT2qrNgOeZBXZzw3Ez3yYLHNA0T3i\">The Seymour Agency Karla Sorensen</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2supVvGxEOaO0gz9r_DLIj2r4uRrk40WIjNW17ug4YrRBD19jqH_OXr3NI8yrJ2dcgdFGVxp2eRf8MnCGu3qWb0nHhbLQmgBWx-9EkwrpRbxq0YQelB5xiuXvtAlvhj_ZVjaVt5drZ1kX26GXMuAO7ucJXOK3W2oU1tIxSuOpN-R1ZaMZ67sG8WUk5WM2DzQMSKrAQbevRuVjox5j2yLLTs79KMhAw5s2aiQ6vZNU60V6jzbO\">Karla Sorensen &quot;The Marriage Effect&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcefmCgxX7RvvRPVKfKohGE82Y0vTFYMia_JersI-SNMuPiHfpypPRpptB4K9fh7oa32LvKuwvzTnjUDhC23RKqrZ69AN2Vjakpn31AAS_pS8g4uUlZcQE94MBjUdjUNg7xzCa2ACSBOtsASBTzXsgOZt1sYzUVpFwdVjvCljnp2s5kMNLj2_2YVJ_EXcz8ub-bkKKVvf7ZhBf7jlzjZ8GTEsWzjanqf6CEuCgHo0r1L31\">Karla Sorensen &quot;The Legacy Effect&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGftPELTSXUnydKlKA1Z7q_Edk2Uh7zBHiYxFMZRzPVPO5xtYvTnDwCVD9FjDhuVEDKQPySBUk__WLF04u6WhdSudmsKWa5z9aLV1nX1gaSyhoz13eeYxauWlnZ1JRZaj2L_RMgTUSun4nain1T5PYvD0W1kK-2hX4ej8ishqgrhpq0On-R9etTpLFpPgsTDA12sfWYi3CReiqPod8NOwUJUmw9oFgZhJAQPq4=\">Karla Sorensen &quot;Crazy Good&quot; audiobook</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoqW0QBRf4ZahmFYj9QQ7Gkhc5cC23mt_WYVRp3IXfMMbDf1i8vht6D3gMFpZunRSkQkECYp3JazifpR2e1I2Yeyvr4J6VXeVOdSk6Um1pMZ6BtX0inIljWSy17QDzJZqHkmiLvY0m1NzL_FUVGlnuVIHb5oIQBgpdMV3SiO3mQtewtAcENwPsD78yH8SvyV9thj2ZhbdJRCofBuME88MaI7ScaTicWU2hSVSihRGfF614Dg==\">Karla Sorensen &quot;Happily Ever After&quot; audiobook</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkiTQ9wVDcSSkxhn2URpPqk_sAnLiB-WmX1sJTTSpazyGOo05x62q3RUZPadg0Osu4HNR8fzZWsjLItyBUjiWr9DwAxJl-kvteaVw4r0lEnHktzAwLeqoZIBELXHbvxq5f47glp2IYaTc",
+              "title": "theseymouragency.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 1827,
+              "endIndex": 1920,
+              "text": "**Representation by The Seymour Agency:** Karla Sorensen is represented by The Seymour Agency"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              0.76017666
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1922,
+              "endIndex": 1959,
+              "text": "The agency lists her on their website"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              0.46405372
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "The Seymour Agency Karla Sorensen",
+          "Karla Sorensen Goodreads series romance drama >=5 primary works",
+          "Karla Sorensen \"The Marriage Effect\" audiobook",
+          "Karla Sorensen \"The Bombshell Effect\" audiobook",
+          "Karla Sorensen \"The Adversary Effect\" audiobook",
+          "Karla Sorensen \"The Forever Effect\" audiobook",
+          "Karla Sorensen \"The Legacy Effect\" audiobook",
+          "Karla Sorensen \"The What If Effect\" audiobook",
+          "Karla Sorensen \"The Bergman Brothers\" audiobook",
+          "Karla Sorensen \"Crazy Good\" audiobook",
+          "Karla Sorensen \"Fighting for You\" audiobook",
+          "Karla Sorensen \"Worth the Wait\" audiobook",
+          "Karla Sorensen \"Happily Ever After\" audiobook",
+          "Karla Sorensen \"Love is War\" audiobook",
+          "Karla Sorensen \"Love is Blind\" audiobook",
+          "Karla Sorensen \"Love is Hate\" audiobook"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 747,
+    "candidatesTokenCount": 1309,
+    "totalTokenCount": 2056,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 747
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1309
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "uXfeaan2MP3I4-EPk5WcsAo"
+}

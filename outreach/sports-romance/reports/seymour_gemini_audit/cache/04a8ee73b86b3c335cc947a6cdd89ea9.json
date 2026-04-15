@@ -1,0 +1,82 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"author_name\": \"Kait Ballenger\",\n  \"represented_by_seymour\": true,\n  \"representation_evidence_url\": \"https://www.theseymouragency.com/clients\",\n  \"qualifying_series\": [\n    {\n      \"series_name\": \"Seven Range Shifters\",\n      \"goodreads_series_url\": \"https://www.goodreads.com/series/246456-seven-range-shifters\",\n      \"primary_works\": 6,\n      \"total_books\": 8,\n      \"threshold_flag\": \"gt5_or_more\",\n      \"first_book_title\": \"Cowboy Wolf Trouble\",\n      \"first_book_goodreads_url\": \"https://www.goodreads.com/book/show/43825359-cowboy-wolf-trouble\",\n      \"first_book_goodreads_rating\": 3.86,\n      \"first_book_goodreads_rating_count\": 1315,\n      \"genre_bucket\": \"romance/drama\",\n      \"lead_pairing\": \"M/F\",\n      \"sub_genre\": \"Paranormal Romance\",\n      \"primary_trope\": \"Shifters\",\n      \"print_publisher_or_imprint\": \"HQN Books\",\n      \"rbmedia_sanity_check\": \"yes_author_level\",\n      \"rbmedia_evidence_url\": \"https://www.audible.com/search?searchAuthor=Kait+Ballenger\",\n      \"rbmedia_evidence_note\": \"Author has multiple audiobooks on Audible, including titles in this series, but no direct RBmedia series page found.\",\n      \"support_urls\": [\n        \"https://www.goodreads.com/series/246456-seven-range-shifters\",\n        \"https://www.kaitballenger.com/books\",\n        \"https://www.audible.com/search?searchAuthor=Kait+Ballenger\"\n      ],\n      \"confidence_notes\": \"Goodreads confirms 6 primary works. RBmedia presence confirmed at the author level.\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Rogue Brotherhood\",\n      \"reason_excluded\": \"Less than 5 primary works on Goodreads.\"\n    },\n    {\n      \"series_name\": \"Original Sinners\",\n      \"reason_excluded\": \"Less than 5 primary works on Goodreads.\"\n    },\n    {\n      \"series_name\": \"Execution Underground\",\n      \"reason_excluded\": \"Series is now Rogue Brotherhood.\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Kait+Ballenger\",\n  \"author_level_rbmedia_note\": \"Kait Ballenger has several audiobooks available on Audible.\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVdQ_B0GWv3I7wO4Ssuc9aFuf3qqe_FTusKtczvUlcbINygn-tat3dLu4IzIl-rhjnDr25yuy2ltGJpssEmQLh3BIrL4Wb05QCS4SpOqGE9iJe1gR9XQ18AzjdvazDbufYiovnwBlXrPhfEfECgWaOvb4oAI2DJFnFRdwWABahW-s5ZYohLzutl3JeDNBSH4OrUUxtYrQ04Vp\">Kait Ballenger BookaVivo</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cMts-A9sdKTpHwZ40qMfTCYCsjJ6mT07PzSjj7nBe8AjqbO602Fhoyn6aEd_bYbqJRHaHQ3w58pJICAlLMbn0odGG2q9BAw-g1xSoQVvGf84gPmKbAaVazxLL1VGd2i9LYtuH_irwRiYYiCTPjrXFVKHLvvSajFD4Z1myGtO_nXpz1hGe0LlLGf9cSoqlveGc7U2CaoiOEdOF-lndnU=\">Kait Ballenger Recorded Books</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs_TQq08IOUw4k9IIu8hLRldwqPpA2wpbRXDcPRUBZFxysYJKEO2TS_ko6CB5Q6npgrbKipRch6XpzdZ9E_O16LP00jRuzz6Doznu7Omaompux03c51R2NI4ZrX144Ig4IFtYk-zbkN8OdJGaJa-jjyASH5lBC4ZGsfLHz-gheCe7OaGpmPYHiieOuP3gHcDk-MiZ-CvNojpyI\">Kait Ballenger Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKHJc_IqDEvapuz-Y9H3ZoGnuPol0uJGtlserlhjiyRj0msWYxmTZ7ncjzWzRiC7YIG4SHPHdDF2yC-evSLmRbvLrOEgr1nrJw3tvj2BtlSzOgURw3rrMH3JLdzLRBpUODsqzju9HCIMD-kB_cGlfZZog_S1ZQ7dYYw-joFTjfAHgMVvLRIv26ePgZThmQzzMtFxCvokURxNd6gU2vaSN03-WsvnIY8-lP\">Kait Ballenger Heart&#39;s Edge Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyQuBE8oYUxq0fJQ1euyst6TgJFtR9CSBfA2-NREaXkncSUym_wZtnFghu7EACIIwfpRVJlCVgYHh-A9N5i3cxnyEdwKmxLrf7B-s8S2Pr3V2EGnTWvTjkedpxNS8mAsQi-429EdYibwqiNGBMGz6OPdA94D-oUQRmK9WtkDLxAxuMmDwjiamTZd-cHBEy7SqP4oRaSad-kVsDLM4j4iltAQMX2g==\">Kait Ballenger Breakneck Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeyVDbtbAUUaWqycXrPvlzjPk4oGPdAJBpZGpbkicyXjlwtbZ1_NfNnf_VF8uRNpiUE4_VABSCU2UBe6BArS6c77AgW0Pp8KZ5dJWoDSFVAk_Zx1M0SAW_-OOFh_LC6PGja1q0gREav8sKDYlh8CZPmLF9wjfsctxuz0ZBgjOQlqtSNAp1awQ70j-IptSVNU2UXXrdNZkxcAsTKJ3G\">Kait Ballenger GraphicAudio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDi6vRIG4PfqUqFZ43Ldb8-L0nBb3CIhGYy23DxnbFgog0hpD8SxGxMwMcG-Pf2t9B-9m28U3mIOQ-nRjRkTON5xNXEnX7u4CInC7D8AfYtNSCwWT9waaPCU0rVwJq5SqcdW16sCnKDOcRnbmoaf_wuEvH_joS6o0XXp41d0hGi4aK1wNDVKT3zwHVzmc6moZDdTtxkTAvvvl9\">Kait Ballenger Wavesound</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx8PNwat-WJ4hzIWquyg01kLNnH9QpycdBKUMOgMqsiO9LGLoUKWbP0WV4bNiraMeHjB8RtOcpesf_UXeWY4phLSncxcwucSxpG3XbpZxVJ52b6-h_TNVVQNvta82S-59ruBVX1G6dY9jl4_hyximubtz9mm6zuYlj_drBBf2FEawu-hh9hQ9ToDuNqyWRUb4R8hvdL_D2HrQ0pytncC5rSw==\">Kait Ballenger Dreamscape Media</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5WLXczZCDvhRyFe23pc7AVjpIbDKVLRo8pFEBSdcIMSV0PLBMNoZ-MenmfS4qBSNjOg3bbfM5Ogo2zmZWXeSTtJ1LAz0Z7O4imTYR52H07ZHGm-03swPwWk5RtjGcD3tuvwqRfT12d3dGlijMcj_3Ip_264eBaOwkC-XgTTJ6EmINd78A0rNBkjVZLyRwWpr72D7YmPq-dcHlxcq8WOe_dg==\">Kait Ballenger HighBridge Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfNh_76pLo8rGFQZnbrTghoOl-lvkhztT3PQ92yskMji95qm5ksCiNmqzRjQkUU5pFCcCo7RU6bFDJgggT-Zja10eoN8wy-CT-hfoyPZSE_Fjx_InY5Uyo2ieReqeqTQa-gkCMifRVz6nJdZEm7iv7f2EF0QSdDFj5SiM6pqkaaHkwJ0QjOxhcOvOFM7hjTEknYBNa4aJK72rGCYEI\">Kait Ballenger Tantor Media</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWP70x1RZET-wwarPvXjf9v6a9RFxNjDGdoKbiyEJJ_GO0m4GH3u5EeIW-x8jFdt6TozoGuokIDoTc1S6xTE0t0kUhChTlj2qWojHnQyAW8OW2dtQvCgRpwP0MvMEb5phW9slUuOETfnP5fxa7oduj1x4awXjzfYOmPf1lKoZwIMHgUXYoa3-XUcnTlvCYX3hPxofpR4o8iFO5SjRRHS_C\">Kait Ballenger Christian Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo5n8AMbo-MnIjOfN_0qh7y5g9EQ28tXCuyw0uj3rx2yDL5H5oDSFr3ipJ1Nf250Tfyl5YcEOj56D_JCwmtSCzj83Q6tUb64i8zG9gkAP0hdBoX_s14ZmXv7xUHRBCUe_n6cw7rzlCrdNsIgpclS77pyn-P2akuEaPAvLRQ_2smLhDfhF_OhQwgV38ywCiLIKwqXHXn0GSC9rZAjw04wM=\">Kait Ballenger Seymour Agency</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6bvWlXXiT7fKAifL2w9ypUB4kXUkTE1_JZl39tiu1S5EsbLfmBruIKuN3geAmRrHJ8MJrXyZZ1zxUj-GsvhitX8z5IyvzmlmGlA8zcgBG1iHR9Mm842wvIG7o64iyb7576Q43wh6bHcSSKw4DDe5Us4NSywP2kCsUL6r_MDpb8ZKWmBVisXTtVwf5zC3ny0RBkEAC85FatQ==\">Kait Ballenger RBmedia</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR4FH2X6UybTqLt2OWkb1Zwg9lMNJAe437038HfYuJtgobtRLoehYLmlOWQxtev69GEtCQkE6thK6_NWWnm8VBJuzX5t56zputKKultoilubEyYuqlfT9T9qHBCKaVXU15foveiHLQDDFtFN8YKcaxDBnxxmrWJYzQPzMHeeUt0QcUMIRg1lIXSvUYuc1vzj9xcrBPrFFVP4yn3KKDHSZUvO7xlhdSenMNprtvYTqXgQ==\">Kait Ballenger Execution Underground Goodreads</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEx77fxdu6YImTpf9mpxnK2bgDz1QfzPjofJ9zm7HEjRxEAQywgihnLOgtQIf5nvhPP9RGwqf5oc0lTzF8VkjacTz0_Xb8hGRsNXfEUyg94tZJ2tR-XTAPDpS0Tbol54yQz1q6biZqyVVrpdbkv2RzKBxmOGaXI6VAK4LnFXBxiXLYYaolC6lNTiBvk6__IX2y4MpxWaF_vVN5YRs=\">Kait Ballenger W. F. Howes</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVSPDO8m60qRqsgGWMoobIXSOUHErT8Pcug_AM7ql7fgLi4Fg5YHOhhCXJrDIg9psJpgLunc5ONMAPigbonOoSpYaEwBjBKa0iqza1CFnfBirkIBXi1s8PNKIJib0TzUl3Pt8SBT3XaEujHKL3kPAkE2Gm3HkVZ6s1tf_kNmcIRTRe9NadUDoh8KMcnjPQnqrcTflKzcOFjIRp4YCe\">Kait Ballenger Ascent Audio</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMUxqQGfBDq1JftogxvjvJT7UtnPFjSIqwl5k5gcnY589cYb5MKGosxVfDr9K1otto5M5rml0bHcUvWFqJU5eRX49M3MXJCdRlFiiRInKTErKQMtnAk4yHp4LqLBrv8QKfW721PSkF2QWBs1_NG-aOGA07i97_JbUflcZ1ShurmR2bovqc9QPG-fP6w9j5BNBM9iP6jUIsGceoZKy94s0=\">Kait Ballenger Kalorama Audio</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEusulq8yOSKxRuDDRkqGK1B6Z7sZr0v3tOMvhHDKw_1HmqZILNVSbF4b6YSjp2nkPfi6C7SC2Mzzi2qtJ1vIp9KuQx9xzLByV0WKxpZTHI3oHLtmg_Pz9WZvdiIxoNlAFvd35hFsVEEUbIFqVtU02fA4o=",
+              "title": "audible.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 1428,
+              "endIndex": 2067,
+              "text": "RBmedia presence confirmed at the author level.\"\n    }\n  ],\n  \"other_series_considered\": [\n    {\n      \"series_name\": \"Rogue Brotherhood\",\n      \"reason_excluded\": \"Less than 5 primary works on Goodreads.\"\n    },\n    {\n      \"series_name\": \"Original Sinners\",\n      \"reason_excluded\": \"Less than 5 primary works on Goodreads.\"\n    },\n    {\n      \"series_name\": \"Execution Underground\",\n      \"reason_excluded\": \"Series is now Rogue Brotherhood.\"\n    }\n  ],\n  \"author_level_rbmedia_url\": \"https://www.audible.com/search?searchAuthor=Kait+Ballenger\",\n  \"author_level_rbmedia_note\": \"Kait Ballenger has several audiobooks available on Audible"
+            },
+            "groundingChunkIndices": [
+              0
+            ],
+            "confidenceScores": [
+              0.36380515
+            ]
+          }
+        ],
+        "retrievalMetadata": {},
+        "webSearchQueries": [
+          "Kait Ballenger Seymour Agency",
+          "Kait Ballenger Goodreads",
+          "Kait Ballenger Heart's Edge Goodreads",
+          "Kait Ballenger Execution Underground Goodreads",
+          "Kait Ballenger Breakneck Goodreads",
+          "Kait Ballenger RBmedia",
+          "Kait Ballenger Recorded Books",
+          "Kait Ballenger Tantor Media",
+          "Kait Ballenger Dreamscape Media",
+          "Kait Ballenger HighBridge Audio",
+          "Kait Ballenger Christian Audio",
+          "Kait Ballenger GraphicAudio",
+          "Kait Ballenger Ascent Audio",
+          "Kait Ballenger Wavesound",
+          "Kait Ballenger W. F. Howes",
+          "Kait Ballenger BookaVivo",
+          "Kait Ballenger Kalorama Audio"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 755,
+    "candidatesTokenCount": 678,
+    "totalTokenCount": 1433,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 755
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 678
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "aXTeaefyA429juMPq-ef6Q0"
+}
